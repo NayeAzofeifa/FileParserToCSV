@@ -51,5 +51,23 @@ namespace FileParserToCSV
             }
             return customers;     
         }
+        public List<HeaderRecordModel> createHeaderRecords(string path)
+        {
+            List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
+            List<CustomerModel> customers = ReadCustomersFromFile(path);
+            foreach (var customer in customers)
+            {
+                HeaderRecordModel newHeader = new HeaderRecordModel
+                {
+                    SourceFileName = Path.GetFileName(path),
+                    CustomerCount = customer.Counter,
+                    CustomersTotalAmount = "10",
+                    TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
+                    TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
+            };
+                headerRecords.Add(newHeader);
+            }
+            return headerRecords;
+        }
     }
 }
