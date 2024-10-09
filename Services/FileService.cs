@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using FileParserToCSV.Models;
 
-namespace FileParserToCSV
+namespace FileParserToCSV.Services
 {
     public class FileService
     {
@@ -46,10 +47,11 @@ namespace FileParserToCSV
                     customers.Add(newCustomer);
                 }
             }
-            catch {
+            catch
+            {
                 Console.WriteLine("An error occurred while reading the file");
             }
-            return customers;     
+            return customers;
         }
         public List<HeaderRecordModel> createHeaderRecords(string path)
         {
@@ -64,7 +66,7 @@ namespace FileParserToCSV
                     CustomersTotalAmount = "10",
                     TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
                     TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
-            };
+                };
                 headerRecords.Add(newHeader);
             }
             return headerRecords;

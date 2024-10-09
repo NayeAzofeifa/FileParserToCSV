@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 using System.Runtime.CompilerServices;
+using FileParserToCSV.Models;
+using FileParserToCSV.Services;
 
 namespace FileParserToCSV
 {
