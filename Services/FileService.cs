@@ -97,8 +97,10 @@ namespace FileParserToCSV.Services
         
         public void WriteFile(List<CustomerModel> customers, HeaderRecordModel header, List<string> totalAmounts)
         {
-            string outputDirectory = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Outgoing";
-            //Path.Combine(Directory.GetCurrentDirectory(), "Outgoing");
+            string baseDirectory = AppContext.BaseDirectory;
+            DirectoryInfo projectDirectory = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent;
+            string outputDirectory = Path.Combine(projectDirectory.FullName, "Outgoing");
+
             if (!Directory.Exists(outputDirectory))
             {
                 Directory.CreateDirectory(outputDirectory);

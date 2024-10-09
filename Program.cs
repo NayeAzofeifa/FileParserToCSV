@@ -13,13 +13,19 @@ namespace FileParserToCSV
     {
         static void Main(string[] args)
         {
+            string baseDirectory = AppContext.BaseDirectory;
+            DirectoryInfo projectDirectory = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent;
+            string inputFilePath = Path.Combine(projectDirectory.FullName, "Incoming", "InputData.txt");
+
             FileService fileService = new FileService();
             CalculationService calculationService = new CalculationService();
-            string inputFilePath = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Incoming\\InputData.txt";
+            
             List<CustomerModel> customers = fileService.ReadCustomersFromFile(inputFilePath);
             HeaderRecordModel headerRecord = fileService.CreateHeaderRecord(inputFilePath, customers);
             List<string> totalAmounts = calculationService.CalculateTotalAmountPerCustomer(customers);
+            
             fileService.WriteFile(customers, headerRecord, totalAmounts);
+
             Console.ReadLine();
         }
     }
