@@ -80,21 +80,23 @@ namespace FileParserToCSV.Services
         {
             CultureInfo culture = new CultureInfo("en-US");
             List<DetailsRecordModel> allDetails = new List<DetailsRecordModel>();
+            CalculationService calculationService = new CalculationService();
             foreach (CustomerModel customer in customers)
             {
                 List<DetailsRecordModel> details = new List<DetailsRecordModel>{
-                new DetailsRecordModel {Description = customer.DetailsOne, Code = "A" , 
+                new DetailsRecordModel {Description = customer.DetailsOne, 
+                    Code = calculationService.AssignCodeProduct(customer.AmountOne), 
                     Amount = Decimal.Parse(customer.AmountOne, culture.NumberFormat).ToString("C", culture)},
-                new DetailsRecordModel {Description = customer.DetailsTwo, Code = "B" ,
+                new DetailsRecordModel {Description = customer.DetailsTwo, 
+                    Code = calculationService.AssignCodeProduct(customer.AmountTwo) ,
                     Amount = Decimal.Parse(customer.AmountTwo, culture.NumberFormat).ToString("C", culture)},
-                new DetailsRecordModel {Description = customer.DetailsThree, Code = "C" ,
+                new DetailsRecordModel {Description = customer.DetailsThree, 
+                    Code = calculationService.AssignCodeProduct(customer.AmountThree),
                     Amount = Decimal.Parse(customer.AmountThree, culture.NumberFormat).ToString("C", culture)}
                 };
-
                 allDetails.AddRange(details);
             }
             return allDetails;
         }
-
     }
 }

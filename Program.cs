@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 using System.Runtime.CompilerServices;
+using System.Text.RegularExpressions;
 using FileParserToCSV.Models;
 using FileParserToCSV.Services;
 
@@ -27,17 +29,20 @@ namespace FileParserToCSV
                 Console.WriteLine($"{record.CustomerCount} {record.CustomersTotalAmount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
             }*/
 
-
+            
             List<DetailsRecordModel> detailRecords = fileService.CreateDetailsRecords(customers);
 
             foreach (DetailsRecordModel detail in detailRecords)
             {
                 Console.WriteLine($"{detail.Description} {detail.Code} {detail.Amount}");
             }
-
-
-
-
+            
+            /*
+            CultureInfo culture = new CultureInfo("en-US");
+            string amount = "3942.61";
+            decimal amountToCode = Decimal.Parse(amount, culture.NumberFormat);
+            Console.WriteLine($"{0} - {amount}");
+            Console.WriteLine($"{1} - {amountToCode}");*/
             /*
             List<string> amounts = calculationService.CalculateTotalAmountPerCustomer(inputFilePath);
             string total = calculationService.CalculateCustomersTotalAmount(amounts);

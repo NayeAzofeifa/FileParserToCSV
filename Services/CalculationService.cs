@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FileParserToCSV.Services;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace FileParserToCSV.Services
 {
@@ -44,10 +45,21 @@ namespace FileParserToCSV.Services
             return finalAmount.ToString("C", culture);
         }
 
-        public string AssingCodeProduct()
+        public string AssignCodeProduct(string amount)
         {
-            return "";
+            CultureInfo culture = new CultureInfo("en-US");
+            decimal amountToCode = Decimal.Parse(amount, culture.NumberFormat);
+            if(amountToCode < 500) { return "N";}
+            else if (amountToCode < 1000) { return "A"; }
+            else if (amountToCode < 1500) { return "C"; }
+            else if (amountToCode < 2000) { return "L"; }
+            else if (amountToCode < 2500) { return "P"; }
+            else if (amountToCode < 3000) { return "X"; }
+            else if (amountToCode < 5000) { return "T"; }
+            else if (amountToCode < 10000) { return "S"; }
+            else if (amountToCode < 20000) { return "U"; }
+            else if (amountToCode < 30000) { return "R"; }
+            else { return "V"; }
         }
-
     }
 }
