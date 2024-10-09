@@ -10,19 +10,26 @@ namespace FileParserToCSV
     {
         static void Main(string[] args)
         {
-            var fileService = new FileService();
+            FileService fileService = new FileService();
+            CalculationService calculationService = new CalculationService();
             string inputFilePath = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Incoming\\InputData.txt";
             /*List<CustomerModel> customers = fileService.ReadCustomersFromFile(inputFilePath);
             foreach (var customer in customers)
             {
                 Console.WriteLine($"{customer.Counter} - {customer.FirstName} {customer.LastName}");
             }*/
+            /*
+            List<HeaderRecordModel> records = fileService.CreateHeaderRecords(inputFilePath);
 
-            List<HeaderRecordModel> records = fileService.createHeaderRecords(inputFilePath);
-
-            foreach (var record in records)
+            foreach (HeaderRecordModel record in records)
             {
                 Console.WriteLine($"{record.CustomerCount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
+            }*/
+
+            List<string> amounts = calculationService.CalculateTotalAmountPerCustomer(inputFilePath);
+            foreach (string amount in amounts)
+            {
+                Console.WriteLine($"{1} - {amount}");
             }
             Console.ReadLine();
         }

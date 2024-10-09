@@ -53,7 +53,7 @@ namespace FileParserToCSV.Services
             }
             return customers;
         }
-        public List<HeaderRecordModel> createHeaderRecords(string path)
+        public List<HeaderRecordModel> CreateHeaderRecords(string path)
         {
             List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
             List<CustomerModel> customers = ReadCustomersFromFile(path);
