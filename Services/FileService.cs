@@ -129,5 +129,28 @@ namespace FileParserToCSV.Services
             }
             Console.WriteLine("Files have been successfully created");
         }
+
+        public void BackupFiles(string inputPath)
+        {
+            string baseDirectory = AppContext.BaseDirectory;
+            DirectoryInfo projectDirectory = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent;
+            string outputDirectory = Path.Combine(projectDirectory.FullName, "Backup");
+
+            DirectoryInfo inputDirectory = new DirectoryInfo(inputPath);
+            FileInfo[] files = inputDirectory.GetFiles();
+
+            if (!Directory.Exists(outputDirectory))
+            {
+                Directory.CreateDirectory(outputDirectory);
+            }
+
+            foreach(FileInfo file in files)
+            {
+                string newFileName = Path.GetFileNameWithoutExtension(file.Name) + "_Backup" + file.Extension;
+                string destinationPath = Path.Combine(outputDirectory, newFileName);
+                File.Copy(file.FullName, destinationPath, overwrite: true);
+            }
+            Console.WriteLine("All files have been successfully copied to the Backup directory.");
+        }
     }
 }

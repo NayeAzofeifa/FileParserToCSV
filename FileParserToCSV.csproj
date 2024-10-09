@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Incoming\" />
+    <Folder Include="Backup\" />
   </ItemGroup>
 
   <ItemGroup>

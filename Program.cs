@@ -26,6 +26,13 @@ namespace FileParserToCSV
             
             fileService.WriteFile(customers, headerRecord, totalAmounts);
 
+
+            string incomingPath = Path.Combine(projectDirectory.FullName, "Incoming");
+            fileService.BackupFiles(incomingPath);
+
+            string outgoingPath = Path.Combine(projectDirectory.FullName, "Outgoing");
+            fileService.BackupFiles(outgoingPath);
+
             Console.ReadLine();
         }
     }
