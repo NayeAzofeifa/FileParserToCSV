@@ -32,26 +32,6 @@ namespace FileParserToCSV.Services
             return totalAmountPerCustomer;
         }
 
-        public List<string> CalculateTotalAmountCustomer(string path)
-        {
-            FileService fileService = new FileService();
-            List<CustomerModel> customers = fileService.ReadCustomersFromFile(path);
-            List<string> totalAmountPerCustomer = new List<string>();
-           // CultureInfo culture = new CultureInfo("en-US");
-
-            foreach (CustomerModel customer in customers)
-            {
-                decimal amountOne = Decimal.Parse(customer.AmountOne);
-                decimal amountTwo = Decimal.Parse(customer.AmountTwo);
-                decimal amountThree = Decimal.Parse(customer.AmountThree);
-
-                decimal customerTotalAmount = amountOne + amountTwo + amountThree;
-                string totalAmount = customerTotalAmount.ToString();
-                totalAmountPerCustomer.Add(totalAmount);
-            }
-            return totalAmountPerCustomer;
-        }
-
         public string CalculateCustomersTotalAmount(List<string> totalAmountPerCustomer)
         {
             decimal finalAmount = 0;

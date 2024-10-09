@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using FileParserToCSV.Models;
+using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace FileParserToCSV.Services
 {
@@ -53,6 +55,7 @@ namespace FileParserToCSV.Services
             }
             return customers;
         }
+        
         public List<HeaderRecordModel> CreateHeaderRecords(string path)
         {
             List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
@@ -73,5 +76,25 @@ namespace FileParserToCSV.Services
             }
             return headerRecords;
         }
+        public List<DetailsRecordModel> CreateDetailsRecords(List<CustomerModel> customers)
+        {
+            CultureInfo culture = new CultureInfo("en-US");
+            List<DetailsRecordModel> allDetails = new List<DetailsRecordModel>();
+            foreach (CustomerModel customer in customers)
+            {
+                List<DetailsRecordModel> details = new List<DetailsRecordModel>{
+                new DetailsRecordModel {Description = customer.DetailsOne, Code = "A" , 
+                    Amount = Decimal.Parse(customer.AmountOne, culture.NumberFormat).ToString("C", culture)},
+                new DetailsRecordModel {Description = customer.DetailsTwo, Code = "B" ,
+                    Amount = Decimal.Parse(customer.AmountTwo, culture.NumberFormat).ToString("C", culture)},
+                new DetailsRecordModel {Description = customer.DetailsThree, Code = "C" ,
+                    Amount = Decimal.Parse(customer.AmountThree, culture.NumberFormat).ToString("C", culture)}
+                };
+
+                allDetails.AddRange(details);
+            }
+            return allDetails;
+        }
+
     }
 }

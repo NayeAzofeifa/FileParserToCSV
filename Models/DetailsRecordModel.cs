@@ -8,9 +8,8 @@ namespace FileParserToCSV.Models
 {
     public class DetailsRecordModel
     {
-        public string Decription { get; set; }
+        public string Description { get; set; }
         public string Code { get; set; }
         public string Amount { get; set; }
-        public string TotalAmount { get; set; }
     }
 }
