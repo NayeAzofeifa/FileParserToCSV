@@ -56,25 +56,21 @@ namespace FileParserToCSV.Services
             return customers;
         }
         
-        public List<HeaderRecordModel> CreateHeaderRecords(string path)
+        public HeaderRecordModel CreateHeaderRecord(string path, List<CustomerModel> customers)
         {
-            List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
-            List<CustomerModel> customers = ReadCustomersFromFile(path);
+            string totalCustomers = customers.Count.ToString();
             CalculationService calculationService = new CalculationService();
-            List<string> amounts = calculationService.CalculateTotalAmountPerCustomer(path);
-            foreach (var customer in customers)
+            List<string> amountsPerCustomer = calculationService.CalculateTotalAmountPerCustomer(path);
+            string totalAmount = calculationService.CalculateCustomersTotalAmount(amountsPerCustomer);
+            HeaderRecordModel newHeader = new HeaderRecordModel
             {
-                HeaderRecordModel newHeader = new HeaderRecordModel
-                {
-                    SourceFileName = Path.GetFileName(path),
-                    CustomerCount = customer.Counter,
-                    CustomersTotalAmount = calculationService.CalculateCustomersTotalAmount(amounts),
-                    TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
-                    TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
-                };
-                headerRecords.Add(newHeader);
-            }
-            return headerRecords;
+                SourceFileName = Path.GetFileName(path),
+                CustomerCount = totalCustomers,
+                CustomersTotalAmount = totalAmount,
+                TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
+                TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
+            };
+            return newHeader;
         }
         public List<DetailsRecordModel> CreateDetailsRecords(List<CustomerModel> customers)
         {
@@ -98,5 +94,23 @@ namespace FileParserToCSV.Services
             }
             return allDetails;
         }
+        /*
+        public void WriteFile(string path, List<CustomerModel> customers, HeaderRecordModel headerRecord)
+        {
+            foreach(CustomerModel customer in customers)
+            {
+                string customerID = customer.Counter;
+                string customerLastName = customer.LastName;
+                string outputFileName = $"Customer_{customerID}_{customer.LastName}.csv";
+                using (StreamWriter writer = new StreamWriter(outputFileName))
+                {
+                    
+                }
+
+
+            }
+
+
+        }*/
     }
 }

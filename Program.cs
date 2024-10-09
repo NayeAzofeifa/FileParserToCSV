@@ -15,27 +15,20 @@ namespace FileParserToCSV
             FileService fileService = new FileService();
             CalculationService calculationService = new CalculationService();
             string inputFilePath = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Incoming\\InputData.txt";
+            string outputFilePath = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Incoming\\OutputData.csv";
             List<CustomerModel> customers = fileService.ReadCustomersFromFile(inputFilePath);
-            /*foreach (var customer in customers)
-          {
-              Console.WriteLine($"{customer.Counter} - {customer.FirstName} {customer.LastName}");
-          }*/
+            
+            HeaderRecordModel record = fileService.CreateHeaderRecord(inputFilePath, customers);
+            Console.WriteLine($"{record.CustomerCount} {record.CustomersTotalAmount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
+            
 
             /*
-            List<HeaderRecordModel> records = fileService.CreateHeaderRecords(inputFilePath);
-
-            foreach (HeaderRecordModel record in records)
-            {
-                Console.WriteLine($"{record.CustomerCount} {record.CustomersTotalAmount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
-            }*/
-
-            
             List<DetailsRecordModel> detailRecords = fileService.CreateDetailsRecords(customers);
 
             foreach (DetailsRecordModel detail in detailRecords)
             {
                 Console.WriteLine($"{detail.Description} {detail.Code} {detail.Amount}");
-            }
+            }*/
             
             /*
             CultureInfo culture = new CultureInfo("en-US");
