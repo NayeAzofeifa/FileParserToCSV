@@ -18,19 +18,27 @@ namespace FileParserToCSV
             {
                 Console.WriteLine($"{customer.Counter} - {customer.FirstName} {customer.LastName}");
             }*/
-            /*
+
+            
             List<HeaderRecordModel> records = fileService.CreateHeaderRecords(inputFilePath);
 
             foreach (HeaderRecordModel record in records)
             {
-                Console.WriteLine($"{record.CustomerCount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
-            }*/
-
+                Console.WriteLine($"{record.CustomerCount} {record.CustomersTotalAmount} - {record.SourceFileName} {record.TodaysDate} {record.TodaysTimestamp}");
+            }
+            
+            
+            /*
             List<string> amounts = calculationService.CalculateTotalAmountPerCustomer(inputFilePath);
+            string total = calculationService.CalculateCustomersTotalAmount(amounts);
+            Console.WriteLine($"{1} - {total}");
+            
             foreach (string amount in amounts)
             {
-                Console.WriteLine($"{1} - {amount}");
-            }
+                Console.WriteLine($"{0} - {amount}");
+            }*/
+
+
             Console.ReadLine();
         }
     }

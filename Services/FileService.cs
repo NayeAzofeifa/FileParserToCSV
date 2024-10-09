@@ -57,13 +57,15 @@ namespace FileParserToCSV.Services
         {
             List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
             List<CustomerModel> customers = ReadCustomersFromFile(path);
+            CalculationService calculationService = new CalculationService();
+            List<string> amounts = calculationService.CalculateTotalAmountPerCustomer(path);
             foreach (var customer in customers)
             {
                 HeaderRecordModel newHeader = new HeaderRecordModel
                 {
                     SourceFileName = Path.GetFileName(path),
                     CustomerCount = customer.Counter,
-                    CustomersTotalAmount = "10",
+                    CustomersTotalAmount = calculationService.CalculateCustomersTotalAmount(amounts),
                     TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
                     TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
                 };

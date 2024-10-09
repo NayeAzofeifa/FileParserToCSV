@@ -31,10 +31,37 @@ namespace FileParserToCSV.Services
             }
             return totalAmountPerCustomer;
         }
-        
-        public string CalculateCustomersTotalAmount()
+
+        public List<string> CalculateTotalAmountCustomer(string path)
         {
-            return "";
+            FileService fileService = new FileService();
+            List<CustomerModel> customers = fileService.ReadCustomersFromFile(path);
+            List<string> totalAmountPerCustomer = new List<string>();
+           // CultureInfo culture = new CultureInfo("en-US");
+
+            foreach (CustomerModel customer in customers)
+            {
+                decimal amountOne = Decimal.Parse(customer.AmountOne);
+                decimal amountTwo = Decimal.Parse(customer.AmountTwo);
+                decimal amountThree = Decimal.Parse(customer.AmountThree);
+
+                decimal customerTotalAmount = amountOne + amountTwo + amountThree;
+                string totalAmount = customerTotalAmount.ToString();
+                totalAmountPerCustomer.Add(totalAmount);
+            }
+            return totalAmountPerCustomer;
+        }
+
+        public string CalculateCustomersTotalAmount(List<string> totalAmountPerCustomer)
+        {
+            decimal finalAmount = 0;
+            CultureInfo culture = new CultureInfo("en-US");
+            foreach(string amount in totalAmountPerCustomer)
+            {
+                decimal amountParsed = Decimal.Parse(amount, NumberStyles.Currency, culture);
+                finalAmount += amountParsed;
+            }
+            return finalAmount.ToString("C", culture);
         }
 
         public string AssingCodeProduct()
@@ -42,24 +69,5 @@ namespace FileParserToCSV.Services
             return "";
         }
 
-
-        /*
-         List<HeaderRecordModel> headerRecords = new List<HeaderRecordModel>();
-            List<CustomerModel> customers = ReadCustomersFromFile(path);
-            foreach (var customer in customers)
-            {
-                HeaderRecordModel newHeader = new HeaderRecordModel
-                {
-                    SourceFileName = Path.GetFileName(path),
-                    CustomerCount = customer.Counter,
-                    CustomersTotalAmount = "10",
-                    TodaysDate = DateTime.Now.ToString("yyyy-MM-dd"),
-                    TodaysTimestamp = DateTime.Now.ToString("hh:mm:ss tt"),
-                };
-                headerRecords.Add(newHeader);
-            }
-            return headerRecords;
-        }
-         */
     }
 }
