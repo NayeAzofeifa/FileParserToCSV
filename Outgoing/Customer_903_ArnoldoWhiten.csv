@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "903", "Arnoldo", "Whiten", "316-483-3610", "Heffernan", "794 Eliot Plaza", "Wichita", "KS", "67260", "6761088585977573"
+"DETAILS_RECORD", "Movies", "N", "$0.36"
+"DETAILS_RECORD", "Tools", "P", "$2,463.64"
+"DETAILS_RECORD", "Health", "N", "$376.27"
+"DETAILS_RECORD", "TOTAL", "", "$2,840.27"

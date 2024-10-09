@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "931", "Ronna", "Leinthall", "312-562-3778", "Union", "96217 Morningstar Crossing", "Chicago", "IL", "60681", "5602259565121665"
+"DETAILS_RECORD", "Grocery", "T", "$3,434.20"
+"DETAILS_RECORD", "Clothing", "T", "$4,508.85"
+"DETAILS_RECORD", "Baby", "A", "$778.61"
+"DETAILS_RECORD", "TOTAL", "", "$8,721.66"

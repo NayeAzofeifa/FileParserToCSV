@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "287", "Buiron", "Brandli", "315-378-3907", "Stang", "435 Sunbrook Hill", "Syracuse", "NY", "13210", "3587398497242654"
+"DETAILS_RECORD", "Movies", "S", "$8,363.22"
+"DETAILS_RECORD", "Beauty", "P", "$2,153.74"
+"DETAILS_RECORD", "Beauty", "S", "$8,049.74"
+"DETAILS_RECORD", "TOTAL", "", "$18,566.70"

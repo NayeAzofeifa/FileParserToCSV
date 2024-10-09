@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "264", "Jewelle", "Joy", "210-134-0419", "Washington", "16603 Bay Drive", "San Antonio", "TX", "78278", "4041378467173046"
+"DETAILS_RECORD", "Outdoors", "T", "$3,568.24"
+"DETAILS_RECORD", "Automotive", "C", "$1,122.15"
+"DETAILS_RECORD", "Beauty", "S", "$8,518.84"
+"DETAILS_RECORD", "TOTAL", "", "$13,209.23"

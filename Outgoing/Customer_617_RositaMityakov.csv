@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "617", "Rosita", "Mityakov", "302-424-8620", "Goodland", "9285 Morrow Parkway", "Newark", "DE", "19725", "6767933067281495"
+"DETAILS_RECORD", "Sports", "S", "$6,634.88"
+"DETAILS_RECORD", "Toys", "S", "$6,445.68"
+"DETAILS_RECORD", "Toys", "T", "$3,975.61"
+"DETAILS_RECORD", "TOTAL", "", "$17,056.17"

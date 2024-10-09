@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "512", "Donia", "Sandells", "202-105-1483", "Elgar", "6152 Mcguire Hill", "Washington", "DC", "20029", "5100133888485742"
+"DETAILS_RECORD", "Kids", "S", "$6,649.39"
+"DETAILS_RECORD", "Electronics", "T", "$4,569.21"
+"DETAILS_RECORD", "Kids", "L", "$1,514.07"
+"DETAILS_RECORD", "TOTAL", "", "$12,732.67"

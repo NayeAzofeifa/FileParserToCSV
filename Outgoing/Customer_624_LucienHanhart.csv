@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "624", "Lucien", "Hanhart", "760-377-6841", "Schurz", "673 Meadow Vale Park", "San Bernardino", "CA", "92415", "5100145400869823"
+"DETAILS_RECORD", "Outdoors", "X", "$2,896.57"
+"DETAILS_RECORD", "Games", "S", "$5,095.76"
+"DETAILS_RECORD", "Games", "S", "$6,973.54"
+"DETAILS_RECORD", "TOTAL", "", "$14,965.87"

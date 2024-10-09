@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "299", "Ilaire", "Arch", "972-389-5064", "Elmside", "42 Grasskamp Alley", "Dallas", "TX", "75221", "3537217793067212"
+"DETAILS_RECORD", "Outdoors", "N", "$175.89"
+"DETAILS_RECORD", "Clothing", "P", "$2,382.43"
+"DETAILS_RECORD", "Tools", "S", "$8,111.42"
+"DETAILS_RECORD", "TOTAL", "", "$10,669.74"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "220", "Charis", "Lewington", "719-231-7674", "Spenser", "3335 Bluestem Plaza", "Colorado Springs", "CO", "80905", "5602211035945850"
+"DETAILS_RECORD", "Outdoors", "T", "$4,818.76"
+"DETAILS_RECORD", "Health", "S", "$5,675.02"
+"DETAILS_RECORD", "Toys", "T", "$4,124.16"
+"DETAILS_RECORD", "TOTAL", "", "$14,617.94"

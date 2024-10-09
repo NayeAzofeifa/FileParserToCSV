@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "672", "Langston", "McCuish", "919-347-4955", "Old Shore", "6861 Macpherson Terrace", "Raleigh", "NC", "27658", "3552221510927831"
+"DETAILS_RECORD", "Toys", "C", "$1,232.49"
+"DETAILS_RECORD", "Tools", "C", "$1,417.61"
+"DETAILS_RECORD", "Electronics", "N", "$433.76"
+"DETAILS_RECORD", "TOTAL", "", "$3,083.86"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "912", "Mace", "Edge", "412-812-9544", "Kropf", "3 Hollow Ridge Avenue", "Mc Keesport", "PA", "15134", "3564040912711932"
+"DETAILS_RECORD", "Outdoors", "T", "$3,016.39"
+"DETAILS_RECORD", "Home", "T", "$4,525.72"
+"DETAILS_RECORD", "Computers", "T", "$3,000.10"
+"DETAILS_RECORD", "TOTAL", "", "$10,542.21"

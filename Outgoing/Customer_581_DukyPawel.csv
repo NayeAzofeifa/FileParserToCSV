@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "581", "Duky", "Pawel", "520-415-8106", "Lakeland", "09892 Linden Avenue", "Tucson", "AZ", "85732", "6394206366497406"
+"DETAILS_RECORD", "Beauty", "S", "$9,167.18"
+"DETAILS_RECORD", "Beauty", "L", "$1,884.43"
+"DETAILS_RECORD", "Sports", "S", "$5,415.07"
+"DETAILS_RECORD", "TOTAL", "", "$16,466.68"

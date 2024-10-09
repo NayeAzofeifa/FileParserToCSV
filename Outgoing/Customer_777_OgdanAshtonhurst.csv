@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "777", "Ogdan", "Ashtonhurst", "254-355-4743", "Oriole", "42 Pawling Avenue", "Temple", "TX", "76505", "3587552152033200"
+"DETAILS_RECORD", "Sports", "S", "$6,557.44"
+"DETAILS_RECORD", "Sports", "T", "$4,093.90"
+"DETAILS_RECORD", "Toys", "S", "$6,973.20"
+"DETAILS_RECORD", "TOTAL", "", "$17,624.54"

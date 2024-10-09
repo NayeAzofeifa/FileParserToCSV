@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "446", "Gwendolyn", "Martino", "516-423-8401", "Thierer", "40992 David Court", "New Hyde Park", "NY", "11044", "3537792840554313"
+"DETAILS_RECORD", "Electronics", "S", "$8,972.98"
+"DETAILS_RECORD", "Automotive", "L", "$1,855.74"
+"DETAILS_RECORD", "Automotive", "S", "$7,721.37"
+"DETAILS_RECORD", "TOTAL", "", "$18,550.09"

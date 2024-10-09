@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "941", "Buck", "Lamyman", "970-471-0943", "Lukken", "56593 Waubesa Circle", "Grand Junction", "CO", "81505", "4936956913374868"
+"DETAILS_RECORD", "Kids", "C", "$1,289.63"
+"DETAILS_RECORD", "Industrial", "S", "$9,707.43"
+"DETAILS_RECORD", "Industrial", "S", "$6,869.12"
+"DETAILS_RECORD", "TOTAL", "", "$17,866.18"

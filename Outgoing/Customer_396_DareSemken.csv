@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "396", "Dare", "Semken", "850-859-0687", "Utah", "636 Melrose Crossing", "Tallahassee", "FL", "32399", "5108756395159665"
+"DETAILS_RECORD", "Clothing", "P", "$2,423.69"
+"DETAILS_RECORD", "Jewelry", "S", "$7,788.97"
+"DETAILS_RECORD", "Grocery", "T", "$4,419.82"
+"DETAILS_RECORD", "TOTAL", "", "$14,632.48"

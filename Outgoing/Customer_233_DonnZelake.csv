@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "233", "Donn", "Zelake", "562-217-9610", "Gina", "4761 Comanche Pass", "Los Angeles", "CA", "90071", "3561812427294924"
+"DETAILS_RECORD", "Games", "S", "$7,784.33"
+"DETAILS_RECORD", "Music", "S", "$6,255.38"
+"DETAILS_RECORD", "Baby", "S", "$6,475.29"
+"DETAILS_RECORD", "TOTAL", "", "$20,515.00"

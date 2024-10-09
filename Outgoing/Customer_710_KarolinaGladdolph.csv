@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "710", "Karolina", "Gladdolph", "304-762-4030", "Cottonwood", "0 Hollow Ridge Pass", "Charleston", "WV", "25336", "3537828898014873"
+"DETAILS_RECORD", "Shoes", "T", "$4,248.18"
+"DETAILS_RECORD", "Shoes", "L", "$1,984.45"
+"DETAILS_RECORD", "Electronics", "S", "$9,616.46"
+"DETAILS_RECORD", "TOTAL", "", "$15,849.09"

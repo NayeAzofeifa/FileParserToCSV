@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "980", "Umberto", "Spoor", "267-509-9920", "Vernon", "433 Fuller Point", "Philadelphia", "PA", "19146", "30330654791271"
+"DETAILS_RECORD", "Electronics", "T", "$4,281.02"
+"DETAILS_RECORD", "Movies", "S", "$5,766.99"
+"DETAILS_RECORD", "Outdoors", "S", "$6,878.46"
+"DETAILS_RECORD", "TOTAL", "", "$16,926.47"

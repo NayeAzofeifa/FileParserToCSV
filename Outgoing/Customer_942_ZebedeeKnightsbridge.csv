@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "942", "Zebedee", "Knightsbridge", "713-617-3513", "Hansons", "7464 Mariners Cove Center", "Houston", "TX", "77260", "4913342270438041"
+"DETAILS_RECORD", "Kids", "S", "$5,489.24"
+"DETAILS_RECORD", "Computers", "S", "$7,085.87"
+"DETAILS_RECORD", "Automotive", "S", "$7,042.58"
+"DETAILS_RECORD", "TOTAL", "", "$19,617.69"

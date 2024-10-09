@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "854", "Donnie", "Turner", "903-435-0598", "Crescent Oaks", "30 Graceland Center", "Longview", "TX", "75605", "4844439649008481"
+"DETAILS_RECORD", "Health", "T", "$3,888.93"
+"DETAILS_RECORD", "Music", "S", "$6,988.71"
+"DETAILS_RECORD", "Health", "S", "$9,512.32"
+"DETAILS_RECORD", "TOTAL", "", "$20,389.96"

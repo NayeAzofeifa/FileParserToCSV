@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "43", "Chantal", "Levett", "763-142-5304", "Luster", "0 Havey Lane", "Minneapolis", "MN", "55402", "67611063588670446"
+"DETAILS_RECORD", "Home", "S", "$8,393.47"
+"DETAILS_RECORD", "Outdoors", "C", "$1,394.85"
+"DETAILS_RECORD", "Jewelry", "S", "$7,695.29"
+"DETAILS_RECORD", "TOTAL", "", "$17,483.61"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "144", "Blythe", "Binge", "806-654-4159", "Dovetail", "2 Reinke Street", "Lubbock", "TX", "79452", "63044219470499742"
+"DETAILS_RECORD", "Beauty", "S", "$9,557.00"
+"DETAILS_RECORD", "Games", "P", "$2,286.99"
+"DETAILS_RECORD", "Outdoors", "X", "$2,594.83"
+"DETAILS_RECORD", "TOTAL", "", "$14,438.82"

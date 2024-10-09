@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "919", "Marice", "MacGlory", "571-234-4155", "Bunting", "60518 Donald Center", "Arlington", "VA", "22212", "3540272177807308"
+"DETAILS_RECORD", "Shoes", "T", "$4,939.54"
+"DETAILS_RECORD", "Toys", "L", "$1,817.92"
+"DETAILS_RECORD", "Sports", "T", "$3,015.91"
+"DETAILS_RECORD", "TOTAL", "", "$9,773.37"

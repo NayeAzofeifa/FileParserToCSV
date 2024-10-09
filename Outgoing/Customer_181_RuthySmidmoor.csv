@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "181", "Ruthy", "Smidmoor", "860-640-9371", "Heffernan", "19196 Stoughton Place", "Hartford", "CT", "06183", "30073232991100"
+"DETAILS_RECORD", "Garden", "P", "$2,101.67"
+"DETAILS_RECORD", "Outdoors", "S", "$7,450.03"
+"DETAILS_RECORD", "Sports", "T", "$4,648.68"
+"DETAILS_RECORD", "TOTAL", "", "$14,200.38"

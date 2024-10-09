@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "363", "Linnie", "Dominec", "518-161-8872", "Marcy", "29790 Meadow Valley Point", "Albany", "NY", "12255", "3568819327460599"
+"DETAILS_RECORD", "Clothing", "S", "$7,759.65"
+"DETAILS_RECORD", "Shoes", "T", "$4,642.43"
+"DETAILS_RECORD", "Tools", "S", "$5,357.93"
+"DETAILS_RECORD", "TOTAL", "", "$17,760.01"

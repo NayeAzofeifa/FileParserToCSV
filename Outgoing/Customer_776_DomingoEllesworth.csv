@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "776", "Domingo", "Ellesworth", "402-515-8003", "Montana", "7 Crownhardt Drive", "Omaha", "NE", "68164", "3551767672730737"
+"DETAILS_RECORD", "Sports", "S", "$9,727.83"
+"DETAILS_RECORD", "Automotive", "S", "$5,264.67"
+"DETAILS_RECORD", "Garden", "A", "$783.97"
+"DETAILS_RECORD", "TOTAL", "", "$15,776.47"

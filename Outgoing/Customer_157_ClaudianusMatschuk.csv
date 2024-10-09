@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "157", "Claudianus", "Matschuk", "760-966-1490", "Straubel", "5 Crescent Oaks Circle", "San Diego", "CA", "92127", "3548531177593388"
+"DETAILS_RECORD", "Music", "S", "$8,520.28"
+"DETAILS_RECORD", "Clothing", "T", "$3,244.13"
+"DETAILS_RECORD", "Games", "S", "$8,646.90"
+"DETAILS_RECORD", "TOTAL", "", "$20,411.31"

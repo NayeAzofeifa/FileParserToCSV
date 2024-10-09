@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "364", "Tremayne", "Feldon", "910-270-3439", "Barnett", "240 Mesta Park", "Fayetteville", "NC", "28305", "630406412096653358"
+"DETAILS_RECORD", "Music", "A", "$615.89"
+"DETAILS_RECORD", "Industrial", "S", "$8,683.04"
+"DETAILS_RECORD", "Home", "T", "$3,901.22"
+"DETAILS_RECORD", "TOTAL", "", "$13,200.15"

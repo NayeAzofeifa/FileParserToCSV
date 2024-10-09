@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "339", "Eolanda", "Archibald", "415-784-0905", "Hooker", "767 Bobwhite Street", "San Francisco", "CA", "94164", "5602244193064271"
+"DETAILS_RECORD", "Industrial", "C", "$1,444.57"
+"DETAILS_RECORD", "Industrial", "S", "$9,080.42"
+"DETAILS_RECORD", "Clothing", "S", "$9,418.61"
+"DETAILS_RECORD", "TOTAL", "", "$19,943.60"

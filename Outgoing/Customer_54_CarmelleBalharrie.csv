@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "54", "Carmelle", "Balharrie", "608-367-5343", "Park Meadow", "98 Oakridge Street", "Madison", "WI", "53705", "3537316838220933"
+"DETAILS_RECORD", "Shoes", "S", "$9,943.76"
+"DETAILS_RECORD", "Jewelry", "X", "$2,575.50"
+"DETAILS_RECORD", "Music", "S", "$7,824.93"
+"DETAILS_RECORD", "TOTAL", "", "$20,344.19"

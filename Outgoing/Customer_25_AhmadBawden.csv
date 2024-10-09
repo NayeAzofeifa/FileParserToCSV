@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "25", "Ahmad", "Bawden", "225-593-3577", "Transport", "19 Mesta Terrace", "Baton Rouge", "LA", "70826", "201930080596088"
+"DETAILS_RECORD", "Outdoors", "S", "$5,928.06"
+"DETAILS_RECORD", "Movies", "L", "$1,872.91"
+"DETAILS_RECORD", "Industrial", "N", "$160.23"
+"DETAILS_RECORD", "TOTAL", "", "$7,961.20"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "878", "Lavinia", "Lethbridge", "210-981-1170", "Dahle", "2 Service Alley", "San Antonio", "TX", "78278", "4905650754189819"
+"DETAILS_RECORD", "Automotive", "T", "$4,791.20"
+"DETAILS_RECORD", "Baby", "A", "$798.62"
+"DETAILS_RECORD", "Clothing", "N", "$493.34"
+"DETAILS_RECORD", "TOTAL", "", "$6,083.16"

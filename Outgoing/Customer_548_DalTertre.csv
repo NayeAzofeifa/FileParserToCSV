@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "548", "Dal", "Tertre", "304-611-6357", "Onsgard", "55204 Hudson Center", "Huntington", "WV", "25775", "676711252863244707"
+"DETAILS_RECORD", "Books", "A", "$983.53"
+"DETAILS_RECORD", "Electronics", "S", "$9,680.67"
+"DETAILS_RECORD", "Electronics", "C", "$1,246.46"
+"DETAILS_RECORD", "TOTAL", "", "$11,910.66"

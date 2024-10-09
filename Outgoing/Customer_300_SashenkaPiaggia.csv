@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "300", "Sashenka", "Piaggia", "212-441-1422", "Kim", "981 Toban Junction", "New York City", "NY", "10125", "6761717435658656726"
+"DETAILS_RECORD", "Industrial", "S", "$6,398.21"
+"DETAILS_RECORD", "Toys", "S", "$9,339.34"
+"DETAILS_RECORD", "Tools", "T", "$3,403.39"
+"DETAILS_RECORD", "TOTAL", "", "$19,140.94"

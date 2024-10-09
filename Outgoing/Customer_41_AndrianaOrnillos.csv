@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "41", "Andriana", "Ornillos", "501-610-2255", "Bluestem", "5177 Southridge Court", "North Little Rock", "AR", "72199", "3581078077664149"
+"DETAILS_RECORD", "Electronics", "S", "$7,052.48"
+"DETAILS_RECORD", "Shoes", "N", "$38.76"
+"DETAILS_RECORD", "Movies", "S", "$9,846.12"
+"DETAILS_RECORD", "TOTAL", "", "$16,937.36"

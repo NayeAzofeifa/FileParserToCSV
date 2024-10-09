@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "522", "Roseline", "Yude", "202-844-1320", "Cordelia", "5 Hayes Plaza", "Washington", "DC", "20005", "3542988664599573"
+"DETAILS_RECORD", "Home", "P", "$2,200.68"
+"DETAILS_RECORD", "Games", "T", "$4,032.76"
+"DETAILS_RECORD", "Jewelry", "T", "$4,177.00"
+"DETAILS_RECORD", "TOTAL", "", "$10,410.44"

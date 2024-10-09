@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "37", "Alfred", "Searsby", "530-177-2855", "Orin", "8 Waubesa Road", "Sacramento", "CA", "95833", "5602210688426028"
+"DETAILS_RECORD", "Home", "X", "$2,822.01"
+"DETAILS_RECORD", "Automotive", "S", "$7,045.08"
+"DETAILS_RECORD", "Movies", "S", "$6,349.13"
+"DETAILS_RECORD", "TOTAL", "", "$16,216.22"

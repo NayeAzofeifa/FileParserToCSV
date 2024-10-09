@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "536", "Walton", "Cranmor", "808-654-6503", "Helena", "5 Esch Trail", "Honolulu", "HI", "96820", "3566286217594931"
+"DETAILS_RECORD", "Automotive", "S", "$6,580.92"
+"DETAILS_RECORD", "Outdoors", "P", "$2,003.17"
+"DETAILS_RECORD", "Home", "T", "$3,302.17"
+"DETAILS_RECORD", "TOTAL", "", "$11,886.26"

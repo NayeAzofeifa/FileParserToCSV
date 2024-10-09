@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "646", "Burtie", "Sill", "912-577-2660", "Blackbird", "333 Sutherland Drive", "Savannah", "GA", "31405", "5108758160097476"
+"DETAILS_RECORD", "Garden", "S", "$7,844.56"
+"DETAILS_RECORD", "Toys", "N", "$10.44"
+"DETAILS_RECORD", "Shoes", "S", "$6,113.80"
+"DETAILS_RECORD", "TOTAL", "", "$13,968.80"

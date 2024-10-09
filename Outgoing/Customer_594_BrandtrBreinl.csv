@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "594", "Brandtr", "Breinl", "818-539-6969", "Shoshone", "78 Katie Point", "Burbank", "CA", "91505", "3564413512196244"
+"DETAILS_RECORD", "Movies", "L", "$1,545.44"
+"DETAILS_RECORD", "Jewelry", "S", "$8,954.27"
+"DETAILS_RECORD", "Shoes", "N", "$390.67"
+"DETAILS_RECORD", "TOTAL", "", "$10,890.38"

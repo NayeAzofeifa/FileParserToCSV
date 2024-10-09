@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "743", "Town", "Westpfel", "770-756-6484", "Goodland", "254 Toban Crossing", "Alpharetta", "GA", "30022", "5602224638354602"
+"DETAILS_RECORD", "Industrial", "S", "$6,198.56"
+"DETAILS_RECORD", "Automotive", "N", "$94.38"
+"DETAILS_RECORD", "Electronics", "T", "$4,254.85"
+"DETAILS_RECORD", "TOTAL", "", "$10,547.79"

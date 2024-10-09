@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "342", "Shermy", "Mannix", "513-424-2501", "Carberry", "246 Rusk Terrace", "Cincinnati", "OH", "45264", "5020539003542694598"
+"DETAILS_RECORD", "Sports", "S", "$5,369.37"
+"DETAILS_RECORD", "Computers", "T", "$3,236.30"
+"DETAILS_RECORD", "Toys", "T", "$3,742.40"
+"DETAILS_RECORD", "TOTAL", "", "$12,348.07"

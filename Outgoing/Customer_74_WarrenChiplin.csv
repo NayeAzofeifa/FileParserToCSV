@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "74", "Warren", "Chiplin", "806-491-3693", "Straubel", "55194 Laurel Drive", "Amarillo", "TX", "79159", "6380202091936921"
+"DETAILS_RECORD", "Music", "S", "$6,420.72"
+"DETAILS_RECORD", "Shoes", "S", "$6,284.21"
+"DETAILS_RECORD", "Beauty", "N", "$134.08"
+"DETAILS_RECORD", "TOTAL", "", "$12,839.01"

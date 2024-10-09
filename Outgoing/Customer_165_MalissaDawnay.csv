@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "165", "Malissa", "Dawnay", "541-755-5022", "Sloan", "502 Melrose Hill", "Eugene", "OR", "97405", "4903686594889434"
+"DETAILS_RECORD", "Beauty", "T", "$3,964.29"
+"DETAILS_RECORD", "Games", "C", "$1,211.86"
+"DETAILS_RECORD", "Music", "A", "$883.18"
+"DETAILS_RECORD", "TOTAL", "", "$6,059.33"

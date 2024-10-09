@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "569", "Elinor", "Linnard", "919-415-4417", "Gulseth", "52 Pankratz Alley", "Raleigh", "NC", "27626", "5602253249616802"
+"DETAILS_RECORD", "Shoes", "L", "$1,894.88"
+"DETAILS_RECORD", "Movies", "T", "$4,202.16"
+"DETAILS_RECORD", "Clothing", "P", "$2,014.65"
+"DETAILS_RECORD", "TOTAL", "", "$8,111.69"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "185", "Brittani", "Eakins", "828-336-3029", "Swallow", "7062 Johnson Parkway", "Asheville", "NC", "28815", "3541826795678190"
+"DETAILS_RECORD", "Clothing", "S", "$7,220.23"
+"DETAILS_RECORD", "Electronics", "S", "$5,715.93"
+"DETAILS_RECORD", "Electronics", "S", "$9,086.41"
+"DETAILS_RECORD", "TOTAL", "", "$22,022.57"

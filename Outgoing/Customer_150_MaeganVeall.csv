@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "150", "Maegan", "Veall", "786-662-2609", "Amoth", "3 Clemons Parkway", "Miami", "FL", "33142", "370777883725934"
+"DETAILS_RECORD", "Shoes", "C", "$1,467.83"
+"DETAILS_RECORD", "Books", "S", "$9,015.77"
+"DETAILS_RECORD", "Movies", "S", "$9,428.61"
+"DETAILS_RECORD", "TOTAL", "", "$19,912.21"

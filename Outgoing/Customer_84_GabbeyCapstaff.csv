@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "84", "Gabbey", "Capstaff", "661-320-2414", "Farmco", "5 Weeping Birch Drive", "Bakersfield", "CA", "93386", "3549755589570028"
+"DETAILS_RECORD", "Industrial", "T", "$3,749.50"
+"DETAILS_RECORD", "Music", "P", "$2,098.13"
+"DETAILS_RECORD", "Garden", "P", "$2,236.90"
+"DETAILS_RECORD", "TOTAL", "", "$8,084.53"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "111", "Rubetta", "Creeghan", "316-690-3293", "Onsgard", "696 Burrows Alley", "Wichita", "KS", "67220", "3540705334718371"
+"DETAILS_RECORD", "Music", "P", "$2,324.98"
+"DETAILS_RECORD", "Clothing", "S", "$8,936.79"
+"DETAILS_RECORD", "Music", "A", "$956.88"
+"DETAILS_RECORD", "TOTAL", "", "$12,218.65"

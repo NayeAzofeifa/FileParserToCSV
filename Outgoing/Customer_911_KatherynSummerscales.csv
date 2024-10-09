@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "911", "Katheryn", "Summerscales", "801-171-4035", "Atwood", "32380 Clyde Gallagher Terrace", "Salt Lake City", "UT", "84105", "3587582978672600"
+"DETAILS_RECORD", "Music", "N", "$323.43"
+"DETAILS_RECORD", "Books", "L", "$1,820.51"
+"DETAILS_RECORD", "Sports", "T", "$3,623.94"
+"DETAILS_RECORD", "TOTAL", "", "$5,767.88"

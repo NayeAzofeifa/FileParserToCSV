@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "649", "Suzy", "Woodall", "303-834-7979", "Towne", "570 Golden Leaf Hill", "Denver", "CO", "80270", "6333740490449314555"
+"DETAILS_RECORD", "Jewelry", "S", "$9,903.04"
+"DETAILS_RECORD", "Music", "N", "$222.98"
+"DETAILS_RECORD", "Games", "P", "$2,366.90"
+"DETAILS_RECORD", "TOTAL", "", "$12,492.92"

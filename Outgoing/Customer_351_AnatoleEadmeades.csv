@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "351", "Anatole", "Eadmeades", "817-348-5733", "Memorial", "521 Hovde Junction", "Fort Worth", "TX", "76147", "3545907028915223"
+"DETAILS_RECORD", "Games", "T", "$3,416.80"
+"DETAILS_RECORD", "Health", "S", "$5,056.70"
+"DETAILS_RECORD", "Movies", "P", "$2,321.18"
+"DETAILS_RECORD", "TOTAL", "", "$10,794.68"

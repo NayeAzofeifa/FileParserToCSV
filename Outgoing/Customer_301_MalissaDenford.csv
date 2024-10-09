@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "301", "Malissa", "Denford", "727-294-1540", "Arrowood", "9 Garrison Street", "Saint Petersburg", "FL", "33715", "670636123932502216"
+"DETAILS_RECORD", "Music", "S", "$5,533.52"
+"DETAILS_RECORD", "Health", "T", "$4,291.32"
+"DETAILS_RECORD", "Movies", "T", "$3,475.61"
+"DETAILS_RECORD", "TOTAL", "", "$13,300.45"

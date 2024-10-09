@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "707", "Linette", "Veel", "202-303-5595", "Anderson", "6 Sycamore Center", "Washington", "DC", "20557", "490304575996171754"
+"DETAILS_RECORD", "Jewelry", "S", "$8,839.90"
+"DETAILS_RECORD", "Games", "S", "$8,475.55"
+"DETAILS_RECORD", "Computers", "T", "$3,326.11"
+"DETAILS_RECORD", "TOTAL", "", "$20,641.56"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "343", "Liana", "Vaudre", "202-563-0623", "Buhler", "57515 Stone Corner Circle", "Washington", "DC", "20456", "5641828860379492"
+"DETAILS_RECORD", "Outdoors", "T", "$3,956.00"
+"DETAILS_RECORD", "Outdoors", "T", "$4,250.24"
+"DETAILS_RECORD", "Health", "T", "$4,888.42"
+"DETAILS_RECORD", "TOTAL", "", "$13,094.66"

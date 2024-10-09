@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "608", "Barbi", "Mogie", "913-734-6978", "South", "913 Golf Course Point", "Shawnee Mission", "KS", "66225", "201659684386485"
+"DETAILS_RECORD", "Movies", "S", "$6,216.67"
+"DETAILS_RECORD", "Electronics", "X", "$2,735.06"
+"DETAILS_RECORD", "Sports", "X", "$2,864.91"
+"DETAILS_RECORD", "TOTAL", "", "$11,816.64"

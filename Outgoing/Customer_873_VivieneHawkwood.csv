@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "873", "Viviene", "Hawkwood", "704-164-7787", "Raven", "6 Annamark Park", "Charlotte", "NC", "28247", "30074088543938"
+"DETAILS_RECORD", "Home", "A", "$525.00"
+"DETAILS_RECORD", "Home", "T", "$4,498.97"
+"DETAILS_RECORD", "Jewelry", "S", "$5,596.93"
+"DETAILS_RECORD", "TOTAL", "", "$10,620.90"

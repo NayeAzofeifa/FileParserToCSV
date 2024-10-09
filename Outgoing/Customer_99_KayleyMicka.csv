@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "99", "Kayley", "Micka", "303-154-3993", "Evergreen", "49 Waxwing Circle", "Denver", "CO", "80249", "3541527321007116"
+"DETAILS_RECORD", "Tools", "T", "$4,098.44"
+"DETAILS_RECORD", "Kids", "S", "$8,341.83"
+"DETAILS_RECORD", "Sports", "S", "$8,318.31"
+"DETAILS_RECORD", "TOTAL", "", "$20,758.58"

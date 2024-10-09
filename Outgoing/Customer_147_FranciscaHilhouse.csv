@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "147", "Francisca", "Hilhouse", "202-968-2440", "Gerald", "72 Luster Parkway", "Washington", "DC", "20022", "5641824576046219662"
+"DETAILS_RECORD", "Books", "S", "$5,794.69"
+"DETAILS_RECORD", "Automotive", "S", "$9,586.21"
+"DETAILS_RECORD", "Outdoors", "S", "$7,419.01"
+"DETAILS_RECORD", "TOTAL", "", "$22,799.91"

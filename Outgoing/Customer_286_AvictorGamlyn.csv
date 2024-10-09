@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "286", "Avictor", "Gamlyn", "850-131-3852", "Towne", "536 Heffernan Way", "Pinellas Park", "FL", "34665", "670674384129097690"
+"DETAILS_RECORD", "Movies", "P", "$2,391.40"
+"DETAILS_RECORD", "Garden", "T", "$4,710.40"
+"DETAILS_RECORD", "Automotive", "N", "$380.34"
+"DETAILS_RECORD", "TOTAL", "", "$7,482.14"

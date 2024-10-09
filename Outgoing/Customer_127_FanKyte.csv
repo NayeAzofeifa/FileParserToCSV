@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "127", "Fan", "Kyte", "860-978-2341", "Main", "87831 Petterle Street", "West Hartford", "CT", "06127", "4844207341910571"
+"DETAILS_RECORD", "Kids", "T", "$3,185.65"
+"DETAILS_RECORD", "Clothing", "X", "$2,752.10"
+"DETAILS_RECORD", "Books", "S", "$7,255.09"
+"DETAILS_RECORD", "TOTAL", "", "$13,192.84"

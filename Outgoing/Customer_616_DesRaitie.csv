@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "616", "Des", "Raitie", "804-867-7508", "Twin Pines", "61652 Hauk Parkway", "Richmond", "VA", "23285", "3572959628208661"
+"DETAILS_RECORD", "Tools", "S", "$6,643.93"
+"DETAILS_RECORD", "Baby", "N", "$100.87"
+"DETAILS_RECORD", "Tools", "S", "$7,768.55"
+"DETAILS_RECORD", "TOTAL", "", "$14,513.35"

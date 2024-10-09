@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "196", "Willie", "Newton", "504-728-2938", "Aberg", "9836 Sycamore Crossing", "New Orleans", "LA", "70129", "30590119759284"
+"DETAILS_RECORD", "Games", "N", "$219.57"
+"DETAILS_RECORD", "Jewelry", "T", "$4,827.25"
+"DETAILS_RECORD", "Health", "S", "$6,941.03"
+"DETAILS_RECORD", "TOTAL", "", "$11,987.85"

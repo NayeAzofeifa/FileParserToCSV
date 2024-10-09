@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "115", "Pippy", "Reuben", "336-293-5620", "Nobel", "0 Warrior Avenue", "Winston Salem", "NC", "27157", "3543489396642277"
+"DETAILS_RECORD", "Baby", "S", "$6,760.76"
+"DETAILS_RECORD", "Tools", "S", "$6,745.68"
+"DETAILS_RECORD", "Movies", "S", "$5,496.45"
+"DETAILS_RECORD", "TOTAL", "", "$19,002.89"

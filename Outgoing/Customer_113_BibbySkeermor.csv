@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "113", "Bibby", "Skeermor", "713-710-3688", "Londonderry", "94686 Melby Drive", "Houston", "TX", "77025", "3588989198359737"
+"DETAILS_RECORD", "Kids", "S", "$5,644.31"
+"DETAILS_RECORD", "Toys", "S", "$5,754.89"
+"DETAILS_RECORD", "Beauty", "S", "$8,498.39"
+"DETAILS_RECORD", "TOTAL", "", "$19,897.59"

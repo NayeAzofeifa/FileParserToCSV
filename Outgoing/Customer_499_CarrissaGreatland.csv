@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "499", "Carrissa", "Greatland", "801-288-1692", "Kropf", "95 Hoffman Crossing", "Salt Lake City", "UT", "84152", "589302942132123951"
+"DETAILS_RECORD", "Games", "L", "$1,523.49"
+"DETAILS_RECORD", "Tools", "L", "$1,705.65"
+"DETAILS_RECORD", "Jewelry", "T", "$4,906.45"
+"DETAILS_RECORD", "TOTAL", "", "$8,135.59"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "534", "Wendie", "Coggins", "801-615-5025", "Elgar", "5 Little Fleur Road", "Salt Lake City", "UT", "84115", "3541940554689114"
+"DETAILS_RECORD", "Clothing", "S", "$7,841.61"
+"DETAILS_RECORD", "Industrial", "S", "$9,649.14"
+"DETAILS_RECORD", "Movies", "S", "$6,354.18"
+"DETAILS_RECORD", "TOTAL", "", "$23,844.93"

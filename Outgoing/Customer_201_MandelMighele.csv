@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "201", "Mandel", "Mighele", "571-143-5756", "Hudson", "7116 Donald Lane", "Vienna", "VA", "22184", "6763220653786788"
+"DETAILS_RECORD", "Kids", "A", "$631.70"
+"DETAILS_RECORD", "Baby", "S", "$7,206.85"
+"DETAILS_RECORD", "Games", "S", "$9,878.88"
+"DETAILS_RECORD", "TOTAL", "", "$17,717.43"

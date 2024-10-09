@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "925", "Itch", "Grane", "860-793-7300", "Granby", "0 Blue Bill Park Drive", "Hartford", "CT", "06140", "5602238539271327"
+"DETAILS_RECORD", "Baby", "S", "$8,362.62"
+"DETAILS_RECORD", "Toys", "X", "$2,929.95"
+"DETAILS_RECORD", "Beauty", "T", "$4,916.43"
+"DETAILS_RECORD", "TOTAL", "", "$16,209.00"

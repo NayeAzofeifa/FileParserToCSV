@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "966", "Aurore", "Caley", "718-837-0748", "Oriole", "4 Dottie Court", "New York City", "NY", "10270", "3582371169565863"
+"DETAILS_RECORD", "Clothing", "X", "$2,651.57"
+"DETAILS_RECORD", "Jewelry", "T", "$4,628.88"
+"DETAILS_RECORD", "Jewelry", "X", "$2,964.73"
+"DETAILS_RECORD", "TOTAL", "", "$10,245.18"

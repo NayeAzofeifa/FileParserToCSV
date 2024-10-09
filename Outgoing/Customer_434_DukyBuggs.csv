@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "434", "Duky", "Buggs", "760-392-2382", "Northland", "243 Charing Cross Parkway", "San Bernardino", "CA", "92415", "5330709024220713"
+"DETAILS_RECORD", "Grocery", "S", "$5,919.69"
+"DETAILS_RECORD", "Sports", "T", "$3,745.94"
+"DETAILS_RECORD", "Books", "S", "$8,119.24"
+"DETAILS_RECORD", "TOTAL", "", "$17,784.87"

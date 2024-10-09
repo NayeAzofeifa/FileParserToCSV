@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "258", "Wolfy", "Cubbini", "504-733-5638", "Northridge", "7793 Lotheville Court", "New Orleans", "LA", "70129", "30391806676588"
+"DETAILS_RECORD", "Health", "T", "$4,956.82"
+"DETAILS_RECORD", "Beauty", "T", "$3,133.63"
+"DETAILS_RECORD", "Industrial", "X", "$2,603.57"
+"DETAILS_RECORD", "TOTAL", "", "$10,694.02"

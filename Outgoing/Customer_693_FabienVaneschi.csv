@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "693", "Fabien", "Vaneschi", "901-276-3192", "Green", "93 Magdeline Way", "Memphis", "TN", "38168", "3536976783991498"
+"DETAILS_RECORD", "Grocery", "S", "$9,537.79"
+"DETAILS_RECORD", "Computers", "S", "$8,202.69"
+"DETAILS_RECORD", "Books", "S", "$7,969.88"
+"DETAILS_RECORD", "TOTAL", "", "$25,710.36"

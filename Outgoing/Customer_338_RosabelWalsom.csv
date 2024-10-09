@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "338", "Rosabel", "Walsom", "650-929-8532", "Little Fleur", "2371 Colorado Center", "Palo Alto", "CA", "94302", "3560771507466920"
+"DETAILS_RECORD", "Computers", "L", "$1,651.31"
+"DETAILS_RECORD", "Industrial", "S", "$6,814.76"
+"DETAILS_RECORD", "Books", "S", "$8,383.94"
+"DETAILS_RECORD", "TOTAL", "", "$16,850.01"

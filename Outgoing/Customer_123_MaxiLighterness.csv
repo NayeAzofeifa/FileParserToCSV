@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "123", "Maxi", "Lighterness", "309-890-4231", "Starling", "3317 Park Meadow Place", "Carol Stream", "IL", "60158", "374283166388751"
+"DETAILS_RECORD", "Electronics", "S", "$9,511.27"
+"DETAILS_RECORD", "Grocery", "S", "$7,420.97"
+"DETAILS_RECORD", "Health", "S", "$7,223.50"
+"DETAILS_RECORD", "TOTAL", "", "$24,155.74"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "89", "Leanora", "Prentice", "404-998-8074", "Fairview", "92661 Fisk Hill", "Atlanta", "GA", "30380", "3586085837692661"
+"DETAILS_RECORD", "Beauty", "N", "$121.16"
+"DETAILS_RECORD", "Tools", "S", "$6,936.71"
+"DETAILS_RECORD", "Garden", "S", "$6,965.28"
+"DETAILS_RECORD", "TOTAL", "", "$14,023.15"

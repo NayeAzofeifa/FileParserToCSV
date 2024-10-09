@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "662", "Sacha", "Twigger", "661-464-6023", "Merchant", "3618 Bluejay Place", "Lancaster", "CA", "93584", "4844627562247462"
+"DETAILS_RECORD", "Grocery", "S", "$5,048.83"
+"DETAILS_RECORD", "Health", "T", "$4,815.52"
+"DETAILS_RECORD", "Electronics", "X", "$2,785.93"
+"DETAILS_RECORD", "TOTAL", "", "$12,650.28"

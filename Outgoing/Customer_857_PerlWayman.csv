@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "857", "Perl", "Wayman", "951-817-3023", "Center", "5 Sutherland Pass", "Riverside", "CA", "92513", "4844385914101768"
+"DETAILS_RECORD", "Clothing", "S", "$8,224.32"
+"DETAILS_RECORD", "Clothing", "C", "$1,491.93"
+"DETAILS_RECORD", "Garden", "S", "$5,969.78"
+"DETAILS_RECORD", "TOTAL", "", "$15,686.03"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "784", "Laurette", "Bereford", "817-256-2853", "Di Loreto", "09 Fulton Drive", "Denton", "TX", "76210", "490539761684081540"
+"DETAILS_RECORD", "Home", "S", "$9,476.88"
+"DETAILS_RECORD", "Toys", "S", "$9,696.56"
+"DETAILS_RECORD", "Clothing", "P", "$2,407.40"
+"DETAILS_RECORD", "TOTAL", "", "$21,580.84"

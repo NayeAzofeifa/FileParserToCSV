@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "103", "Jabez", "Cawthery", "951-755-1154", "Longview", "98154 Westend Street", "Corona", "CA", "92883", "3538841936425463"
+"DETAILS_RECORD", "Baby", "L", "$1,561.15"
+"DETAILS_RECORD", "Outdoors", "T", "$3,730.47"
+"DETAILS_RECORD", "Grocery", "S", "$6,990.86"
+"DETAILS_RECORD", "TOTAL", "", "$12,282.48"

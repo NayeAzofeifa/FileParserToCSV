@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "686", "Olivie", "Jahndel", "913-432-0187", "Ridgeview", "83 Oxford Point", "Shawnee Mission", "KS", "66276", "5610410292234715"
+"DETAILS_RECORD", "Movies", "S", "$5,383.02"
+"DETAILS_RECORD", "Health", "S", "$9,777.84"
+"DETAILS_RECORD", "Clothing", "S", "$5,069.55"
+"DETAILS_RECORD", "TOTAL", "", "$20,230.41"

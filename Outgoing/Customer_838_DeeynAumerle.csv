@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "838", "Deeyn", "Aumerle", "682-988-1216", "Armistice", "84 Hayes Road", "Fort Worth", "TX", "76192", "5384658155890510"
+"DETAILS_RECORD", "Games", "S", "$8,697.51"
+"DETAILS_RECORD", "Sports", "S", "$8,481.39"
+"DETAILS_RECORD", "Health", "T", "$3,232.55"
+"DETAILS_RECORD", "TOTAL", "", "$20,411.45"

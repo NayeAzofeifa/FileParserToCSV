@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "142", "Fidela", "Currell", "757-463-8003", "Claremont", "9556 Sycamore Street", "Chesapeake", "VA", "23324", "3538584352041113"
+"DETAILS_RECORD", "Shoes", "S", "$5,566.34"
+"DETAILS_RECORD", "Outdoors", "P", "$2,310.66"
+"DETAILS_RECORD", "Jewelry", "X", "$2,808.47"
+"DETAILS_RECORD", "TOTAL", "", "$10,685.47"

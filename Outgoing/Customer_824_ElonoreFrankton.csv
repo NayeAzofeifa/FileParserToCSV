@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "824", "Elonore", "Frankton", "303-457-8136", "Ramsey", "5850 Eastwood Drive", "Aurora", "CO", "80044", "5602235165991053"
+"DETAILS_RECORD", "Toys", "S", "$6,212.70"
+"DETAILS_RECORD", "Garden", "L", "$1,613.29"
+"DETAILS_RECORD", "Music", "S", "$7,715.52"
+"DETAILS_RECORD", "TOTAL", "", "$15,541.51"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "716", "Pat", "McCowen", "305-327-3755", "Hintze", "2 Namekagon Court", "Miami", "FL", "33142", "4936285552385211"
+"DETAILS_RECORD", "Books", "P", "$2,073.63"
+"DETAILS_RECORD", "Toys", "S", "$9,944.16"
+"DETAILS_RECORD", "Shoes", "A", "$869.32"
+"DETAILS_RECORD", "TOTAL", "", "$12,887.11"

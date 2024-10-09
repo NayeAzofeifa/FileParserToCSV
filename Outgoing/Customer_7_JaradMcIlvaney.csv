@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "7", "Jarad", "McIlvaney", "662-413-7982", "Sauthoff", "1397 Oneill Junction", "Columbus", "MS", "39705", "5108758291946443"
+"DETAILS_RECORD", "Health", "S", "$7,568.43"
+"DETAILS_RECORD", "Home", "A", "$506.19"
+"DETAILS_RECORD", "Beauty", "T", "$3,701.76"
+"DETAILS_RECORD", "TOTAL", "", "$11,776.38"

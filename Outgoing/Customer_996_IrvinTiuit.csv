@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "996", "Irvin", "Tiuit", "478-520-1495", "Fordem", "915 Cardinal Street", "Macon", "GA", "31210", "5048379354039134"
+"DETAILS_RECORD", "Music", "S", "$6,586.45"
+"DETAILS_RECORD", "Shoes", "X", "$2,812.06"
+"DETAILS_RECORD", "Sports", "S", "$6,261.05"
+"DETAILS_RECORD", "TOTAL", "", "$15,659.56"

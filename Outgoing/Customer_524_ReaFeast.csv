@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "524", "Rea", "Feast", "202-731-6396", "Starling", "7 Truax Drive", "Washington", "DC", "20099", "372301464524133"
+"DETAILS_RECORD", "Books", "T", "$4,547.26"
+"DETAILS_RECORD", "Jewelry", "S", "$9,179.95"
+"DETAILS_RECORD", "Computers", "S", "$7,304.02"
+"DETAILS_RECORD", "TOTAL", "", "$21,031.23"

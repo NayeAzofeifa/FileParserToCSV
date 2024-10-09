@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "858", "Lucie", "Blenkhorn", "717-526-5698", "Stoughton", "217 Dapin Road", "York", "PA", "17405", "560225166566596665"
+"DETAILS_RECORD", "Toys", "S", "$9,557.39"
+"DETAILS_RECORD", "Music", "S", "$7,739.44"
+"DETAILS_RECORD", "Home", "T", "$4,551.57"
+"DETAILS_RECORD", "TOTAL", "", "$21,848.40"

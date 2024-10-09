@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "849", "Nicholle", "Bockett", "205-474-4218", "Steensland", "4 Montana Lane", "Tuscaloosa", "AL", "35487", "3534642448089597"
+"DETAILS_RECORD", "Music", "S", "$7,951.74"
+"DETAILS_RECORD", "Electronics", "L", "$1,796.82"
+"DETAILS_RECORD", "Books", "S", "$5,855.07"
+"DETAILS_RECORD", "TOTAL", "", "$15,603.63"

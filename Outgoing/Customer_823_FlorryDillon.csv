@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "823", "Florry", "Dillon", "256-579-1642", "Red Cloud", "694 Commercial Terrace", "Anniston", "AL", "36205", "3555016775947277"
+"DETAILS_RECORD", "Baby", "S", "$6,120.92"
+"DETAILS_RECORD", "Sports", "N", "$374.50"
+"DETAILS_RECORD", "Computers", "S", "$9,729.70"
+"DETAILS_RECORD", "TOTAL", "", "$16,225.12"

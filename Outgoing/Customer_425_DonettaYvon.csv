@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "425", "Donetta", "Yvon", "818-200-7325", "Ridgeway", "93603 Blaine Plaza", "Pasadena", "CA", "91109", "36269058757757"
+"DETAILS_RECORD", "Music", "T", "$4,605.36"
+"DETAILS_RECORD", "Movies", "C", "$1,210.40"
+"DETAILS_RECORD", "Jewelry", "T", "$4,384.74"
+"DETAILS_RECORD", "TOTAL", "", "$10,200.50"

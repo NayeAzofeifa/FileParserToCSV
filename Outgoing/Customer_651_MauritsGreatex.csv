@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "651", "Maurits", "Greatex", "540-601-8528", "Ramsey", "64138 School Alley", "Roanoke", "VA", "24029", "4844721591931616"
+"DETAILS_RECORD", "Music", "L", "$1,767.85"
+"DETAILS_RECORD", "Industrial", "X", "$2,861.82"
+"DETAILS_RECORD", "Garden", "S", "$7,063.18"
+"DETAILS_RECORD", "TOTAL", "", "$11,692.85"

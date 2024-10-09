@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "891", "Trumann", "Klimkowski", "785-776-9058", "Dawn", "6 Havey Crossing", "Topeka", "KS", "66667", "3553301748492359"
+"DETAILS_RECORD", "Games", "C", "$1,474.02"
+"DETAILS_RECORD", "Electronics", "S", "$9,879.71"
+"DETAILS_RECORD", "Music", "S", "$9,305.60"
+"DETAILS_RECORD", "TOTAL", "", "$20,659.33"

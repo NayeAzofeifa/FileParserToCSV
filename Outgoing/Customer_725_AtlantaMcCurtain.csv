@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "725", "Atlanta", "McCurtain", "319-788-8177", "Paget", "63 Independence Crossing", "Iowa City", "IA", "52245", "30562116546659"
+"DETAILS_RECORD", "Jewelry", "S", "$5,498.54"
+"DETAILS_RECORD", "Baby", "C", "$1,372.25"
+"DETAILS_RECORD", "Kids", "X", "$2,775.48"
+"DETAILS_RECORD", "TOTAL", "", "$9,646.27"

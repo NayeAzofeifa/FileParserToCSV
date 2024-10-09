@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "543", "Patricio", "Antonsson", "561-524-3682", "Northland", "69 Vera Terrace", "West Palm Beach", "FL", "33421", "3583603189042104"
+"DETAILS_RECORD", "Home", "S", "$8,368.13"
+"DETAILS_RECORD", "Electronics", "C", "$1,221.84"
+"DETAILS_RECORD", "Books", "T", "$3,463.73"
+"DETAILS_RECORD", "TOTAL", "", "$13,053.70"

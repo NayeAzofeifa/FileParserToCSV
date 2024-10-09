@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "331", "Trina", "Blondin", "717-201-5319", "Grover", "808 Sunnyside Crossing", "Harrisburg", "PA", "17110", "3572748097928283"
+"DETAILS_RECORD", "Movies", "S", "$9,434.29"
+"DETAILS_RECORD", "Grocery", "S", "$5,787.60"
+"DETAILS_RECORD", "Kids", "S", "$6,506.59"
+"DETAILS_RECORD", "TOTAL", "", "$21,728.48"

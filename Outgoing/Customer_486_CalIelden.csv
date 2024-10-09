@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "486", "Cal", "Ielden", "702-455-2017", "Sachtjen", "030 Dryden Park", "Las Vegas", "NV", "89135", "3554448535829605"
+"DETAILS_RECORD", "Industrial", "S", "$8,760.29"
+"DETAILS_RECORD", "Grocery", "C", "$1,353.60"
+"DETAILS_RECORD", "Grocery", "T", "$3,168.01"
+"DETAILS_RECORD", "TOTAL", "", "$13,281.90"

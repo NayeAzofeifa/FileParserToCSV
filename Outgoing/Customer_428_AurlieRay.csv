@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "428", "Aurlie", "Ray", "919-856-7104", "Cordelia", "4 Vidon Crossing", "Raleigh", "NC", "27605", "3548830070357028"
+"DETAILS_RECORD", "Tools", "X", "$2,926.34"
+"DETAILS_RECORD", "Books", "X", "$2,784.48"
+"DETAILS_RECORD", "Automotive", "L", "$1,788.03"
+"DETAILS_RECORD", "TOTAL", "", "$7,498.85"

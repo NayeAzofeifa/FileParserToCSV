@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "636", "Mindy", "Stickney", "412-301-5004", "Butternut", "48 Miller Lane", "Pittsburgh", "PA", "15255", "5602233521229953"
+"DETAILS_RECORD", "Books", "S", "$8,351.91"
+"DETAILS_RECORD", "Electronics", "S", "$8,921.01"
+"DETAILS_RECORD", "Jewelry", "X", "$2,815.61"
+"DETAILS_RECORD", "TOTAL", "", "$20,088.53"

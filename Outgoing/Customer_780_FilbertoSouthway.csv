@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "780", "Filberto", "Southway", "339-680-5184", "Gulseth", "606 Luster Court", "Woburn", "MA", "01813", "3549578042272432"
+"DETAILS_RECORD", "Jewelry", "T", "$4,362.04"
+"DETAILS_RECORD", "Clothing", "T", "$4,982.97"
+"DETAILS_RECORD", "Computers", "S", "$8,125.08"
+"DETAILS_RECORD", "TOTAL", "", "$17,470.09"

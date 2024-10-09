@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "5", "Brook", "Freyne", "302-704-5614", "Tennessee", "4 Buena Vista Hill", "Newark", "DE", "19714", "3542684121253348"
+"DETAILS_RECORD", "Industrial", "S", "$7,968.88"
+"DETAILS_RECORD", "Outdoors", "N", "$405.91"
+"DETAILS_RECORD", "Grocery", "S", "$8,211.97"
+"DETAILS_RECORD", "TOTAL", "", "$16,586.76"

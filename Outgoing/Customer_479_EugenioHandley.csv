@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "479", "Eugenio", "Handley", "915-899-2592", "Arapahoe", "88 Nancy Way", "El Paso", "TX", "79999", "30364657481143"
+"DETAILS_RECORD", "Computers", "S", "$7,522.15"
+"DETAILS_RECORD", "Shoes", "S", "$6,598.11"
+"DETAILS_RECORD", "Grocery", "T", "$3,179.79"
+"DETAILS_RECORD", "TOTAL", "", "$17,300.05"

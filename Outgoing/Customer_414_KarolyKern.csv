@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "414", "Karoly", "Kern", "831-541-4367", "Starling", "32 Warbler Road", "Santa Cruz", "CA", "95064", "5568198110929671"
+"DETAILS_RECORD", "Clothing", "T", "$3,283.17"
+"DETAILS_RECORD", "Grocery", "S", "$7,950.39"
+"DETAILS_RECORD", "Clothing", "T", "$3,374.60"
+"DETAILS_RECORD", "TOTAL", "", "$14,608.16"

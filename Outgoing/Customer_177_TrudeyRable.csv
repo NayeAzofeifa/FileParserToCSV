@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "177", "Trudey", "Rable", "901-475-3106", "Sundown", "67 Prentice Point", "Memphis", "TN", "38136", "374622759408080"
+"DETAILS_RECORD", "Movies", "S", "$5,596.10"
+"DETAILS_RECORD", "Music", "X", "$2,901.07"
+"DETAILS_RECORD", "Books", "L", "$1,797.26"
+"DETAILS_RECORD", "TOTAL", "", "$10,294.43"

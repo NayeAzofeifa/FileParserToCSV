@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "145", "Krishna", "Edgeworth", "901-116-7370", "Northfield", "179 Sommers Street", "Memphis", "TN", "38143", "0604647763585488084"
+"DETAILS_RECORD", "Clothing", "S", "$7,011.65"
+"DETAILS_RECORD", "Kids", "S", "$7,793.81"
+"DETAILS_RECORD", "Electronics", "T", "$4,757.48"
+"DETAILS_RECORD", "TOTAL", "", "$19,562.94"

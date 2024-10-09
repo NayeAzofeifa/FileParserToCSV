@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "515", "Susana", "Gladhill", "316-282-1078", "Stone Corner", "37 Cambridge Parkway", "Wichita", "KS", "67220", "3569832965578027"
+"DETAILS_RECORD", "Jewelry", "X", "$2,810.46"
+"DETAILS_RECORD", "Electronics", "P", "$2,106.92"
+"DETAILS_RECORD", "Computers", "S", "$5,862.81"
+"DETAILS_RECORD", "TOTAL", "", "$10,780.19"

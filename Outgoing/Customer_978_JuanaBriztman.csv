@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "978", "Juana", "Briztman", "908-869-9013", "Rutledge", "7022 Boyd Pass", "Elizabeth", "NJ", "07208", "5602231008026496"
+"DETAILS_RECORD", "Electronics", "N", "$416.74"
+"DETAILS_RECORD", "Movies", "S", "$5,315.05"
+"DETAILS_RECORD", "Kids", "S", "$9,219.79"
+"DETAILS_RECORD", "TOTAL", "", "$14,951.58"

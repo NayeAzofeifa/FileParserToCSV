@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "714", "Terese", "Robottham", "305-293-7940", "Fairfield", "6 Meadow Ridge Pass", "Miami", "FL", "33180", "676194133366416511"
+"DETAILS_RECORD", "Kids", "A", "$910.29"
+"DETAILS_RECORD", "Outdoors", "T", "$3,844.10"
+"DETAILS_RECORD", "Toys", "S", "$7,395.49"
+"DETAILS_RECORD", "TOTAL", "", "$12,149.88"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "982", "Sigvard", "Teall", "954-550-4105", "Jenifer", "9 Stone Corner Place", "Fort Lauderdale", "FL", "33330", "3557453924651039"
+"DETAILS_RECORD", "Tools", "S", "$8,220.15"
+"DETAILS_RECORD", "Automotive", "S", "$8,296.66"
+"DETAILS_RECORD", "Books", "S", "$9,176.51"
+"DETAILS_RECORD", "TOTAL", "", "$25,693.32"

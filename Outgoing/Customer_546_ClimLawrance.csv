@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "546", "Clim", "Lawrance", "678-221-0695", "East", "15597 Anderson Parkway", "Lawrenceville", "GA", "30245", "3528331502552215"
+"DETAILS_RECORD", "Beauty", "S", "$5,424.69"
+"DETAILS_RECORD", "Books", "S", "$7,277.72"
+"DETAILS_RECORD", "Tools", "S", "$5,711.90"
+"DETAILS_RECORD", "TOTAL", "", "$18,414.31"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "19", "Lucretia", "Lawrance", "954-781-3505", "Shopko", "69 Pankratz Junction", "Miami", "FL", "33169", "3561630758070105"
+"DETAILS_RECORD", "Health", "T", "$4,760.63"
+"DETAILS_RECORD", "Industrial", "P", "$2,225.89"
+"DETAILS_RECORD", "Tools", "C", "$1,032.67"
+"DETAILS_RECORD", "TOTAL", "", "$8,019.19"

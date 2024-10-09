@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "745", "Roderick", "Swadon", "225-638-1338", "Sommers", "1 Towne Circle", "Baton Rouge", "LA", "70883", "3581495216804545"
+"DETAILS_RECORD", "Kids", "S", "$5,338.40"
+"DETAILS_RECORD", "Beauty", "N", "$20.48"
+"DETAILS_RECORD", "Tools", "S", "$8,749.46"
+"DETAILS_RECORD", "TOTAL", "", "$14,108.34"

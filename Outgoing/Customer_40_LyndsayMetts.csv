@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "40", "Lyndsay", "Metts", "502-574-6089", "Colorado", "21535 Nevada Road", "Louisville", "KY", "40256", "3548251165069982"
+"DETAILS_RECORD", "Clothing", "S", "$7,678.44"
+"DETAILS_RECORD", "Music", "T", "$4,387.43"
+"DETAILS_RECORD", "Grocery", "A", "$818.61"
+"DETAILS_RECORD", "TOTAL", "", "$12,884.48"

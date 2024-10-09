@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "424", "Jarid", "Baumadier", "201-734-1122", "Iowa", "443 Crest Line Drive", "Jersey City", "NJ", "07305", "3567772780757517"
+"DETAILS_RECORD", "Grocery", "S", "$5,072.31"
+"DETAILS_RECORD", "Baby", "S", "$7,587.81"
+"DETAILS_RECORD", "Home", "X", "$2,827.38"
+"DETAILS_RECORD", "TOTAL", "", "$15,487.50"

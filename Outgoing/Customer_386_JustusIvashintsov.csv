@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "386", "Justus", "Ivashintsov", "646-975-9059", "Loomis", "4626 Caliangt Circle", "New York City", "NY", "10045", "5413501425493670"
+"DETAILS_RECORD", "Beauty", "S", "$7,116.68"
+"DETAILS_RECORD", "Beauty", "A", "$976.70"
+"DETAILS_RECORD", "Health", "S", "$7,451.42"
+"DETAILS_RECORD", "TOTAL", "", "$15,544.80"

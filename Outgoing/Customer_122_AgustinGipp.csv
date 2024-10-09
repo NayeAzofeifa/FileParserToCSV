@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "122", "Agustin", "Gipp", "806-788-2147", "Utah", "9634 Briar Crest Park", "Lubbock", "TX", "79415", "5602247116799790"
+"DETAILS_RECORD", "Grocery", "S", "$9,821.65"
+"DETAILS_RECORD", "Music", "S", "$5,428.60"
+"DETAILS_RECORD", "Movies", "S", "$5,698.47"
+"DETAILS_RECORD", "TOTAL", "", "$20,948.72"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "413", "Iago", "Kreutzer", "214-807-6474", "Crowley", "252 Thierer Center", "Dallas", "TX", "75392", "337941274582096"
+"DETAILS_RECORD", "Books", "N", "$199.80"
+"DETAILS_RECORD", "Tools", "S", "$7,525.17"
+"DETAILS_RECORD", "Shoes", "P", "$2,439.48"
+"DETAILS_RECORD", "TOTAL", "", "$10,164.45"

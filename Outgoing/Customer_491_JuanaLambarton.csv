@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "491", "Juana", "Lambarton", "757-191-7060", "Vernon", "97 Jay Crossing", "Hampton", "VA", "23668", "36771463256077"
+"DETAILS_RECORD", "Music", "L", "$1,547.07"
+"DETAILS_RECORD", "Jewelry", "S", "$6,682.46"
+"DETAILS_RECORD", "Movies", "S", "$5,260.33"
+"DETAILS_RECORD", "TOTAL", "", "$13,489.86"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "790", "Aleda", "Jinkinson", "412-161-6652", "Victoria", "392 Nova Plaza", "Pittsburgh", "PA", "15286", "3557027232761738"
+"DETAILS_RECORD", "Outdoors", "N", "$220.97"
+"DETAILS_RECORD", "Clothing", "T", "$3,308.89"
+"DETAILS_RECORD", "Movies", "X", "$2,608.01"
+"DETAILS_RECORD", "TOTAL", "", "$6,137.87"

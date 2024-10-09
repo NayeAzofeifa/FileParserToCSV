@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "767", "Sonia", "McGee", "404-333-5357", "High Crossing", "8 Hoepker Court", "Atlanta", "GA", "30336", "5108757833799781"
+"DETAILS_RECORD", "Games", "T", "$3,662.42"
+"DETAILS_RECORD", "Music", "T", "$4,846.31"
+"DETAILS_RECORD", "Books", "S", "$8,688.14"
+"DETAILS_RECORD", "TOTAL", "", "$17,196.87"

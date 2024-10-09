@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "478", "Lurline", "Lyons", "505-183-2745", "Rowland", "11 Vera Pass", "Albuquerque", "NM", "87180", "374252961299455"
+"DETAILS_RECORD", "Shoes", "N", "$436.91"
+"DETAILS_RECORD", "Shoes", "S", "$7,048.76"
+"DETAILS_RECORD", "Kids", "S", "$7,327.26"
+"DETAILS_RECORD", "TOTAL", "", "$14,812.93"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "39", "Timothea", "Proven", "720-789-5721", "Atwood", "834 Carey Drive", "Denver", "CO", "80299", "3554122699850109"
+"DETAILS_RECORD", "Shoes", "S", "$6,440.67"
+"DETAILS_RECORD", "Baby", "S", "$8,301.29"
+"DETAILS_RECORD", "Garden", "X", "$2,723.89"
+"DETAILS_RECORD", "TOTAL", "", "$17,465.85"

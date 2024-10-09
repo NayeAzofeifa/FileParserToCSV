@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "720", "Cesya", "Aksell", "423-940-3868", "Kingsford", "778 Canary Circle", "Johnson City", "TN", "37605", "5020012695995473135"
+"DETAILS_RECORD", "Computers", "T", "$3,094.87"
+"DETAILS_RECORD", "Outdoors", "C", "$1,210.26"
+"DETAILS_RECORD", "Shoes", "T", "$3,499.53"
+"DETAILS_RECORD", "TOTAL", "", "$7,804.66"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "184", "Archie", "Kittless", "256-724-8141", "North", "72 Havey Avenue", "Huntsville", "AL", "35895", "4041593305659"
+"DETAILS_RECORD", "Automotive", "P", "$2,263.10"
+"DETAILS_RECORD", "Baby", "L", "$1,767.10"
+"DETAILS_RECORD", "Baby", "S", "$5,525.44"
+"DETAILS_RECORD", "TOTAL", "", "$9,555.64"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "669", "Ebba", "Wressell", "919-214-3290", "Daystar", "0026 Dryden Alley", "Raleigh", "NC", "27626", "5124919096859039"
+"DETAILS_RECORD", "Movies", "S", "$6,151.59"
+"DETAILS_RECORD", "Kids", "C", "$1,483.09"
+"DETAILS_RECORD", "Industrial", "S", "$5,739.25"
+"DETAILS_RECORD", "TOTAL", "", "$13,373.93"

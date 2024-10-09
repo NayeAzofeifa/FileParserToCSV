@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "513", "Ethel", "Macci", "321-962-4913", "Schmedeman", "05030 7th Avenue", "Melbourne", "FL", "32919", "3571347207102466"
+"DETAILS_RECORD", "Home", "S", "$8,561.17"
+"DETAILS_RECORD", "Clothing", "C", "$1,365.27"
+"DETAILS_RECORD", "Tools", "L", "$1,711.36"
+"DETAILS_RECORD", "TOTAL", "", "$11,637.80"

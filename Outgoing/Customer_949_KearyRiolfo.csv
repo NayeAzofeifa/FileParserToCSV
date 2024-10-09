@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "949", "Keary", "Riolfo", "208-100-4429", "Muir", "692 Holy Cross Park", "Boise", "ID", "83732", "3570960848133418"
+"DETAILS_RECORD", "Toys", "T", "$4,835.99"
+"DETAILS_RECORD", "Garden", "T", "$4,229.83"
+"DETAILS_RECORD", "Games", "S", "$9,964.04"
+"DETAILS_RECORD", "TOTAL", "", "$19,029.86"

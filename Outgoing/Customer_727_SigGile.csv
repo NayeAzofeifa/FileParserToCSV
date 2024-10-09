@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "727", "Sig", "Gile", "415-360-2462", "Jay", "9 Acker Place", "San Francisco", "CA", "94147", "3552720489405927"
+"DETAILS_RECORD", "Movies", "S", "$5,124.02"
+"DETAILS_RECORD", "Industrial", "S", "$5,831.77"
+"DETAILS_RECORD", "Shoes", "S", "$8,934.86"
+"DETAILS_RECORD", "TOTAL", "", "$19,890.65"

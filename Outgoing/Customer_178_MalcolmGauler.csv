@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "178", "Malcolm", "Gauler", "720-910-5886", "Nevada", "0107 Commercial Park", "Littleton", "CO", "80161", "3528923521667923"
+"DETAILS_RECORD", "Tools", "S", "$8,754.54"
+"DETAILS_RECORD", "Outdoors", "S", "$5,249.12"
+"DETAILS_RECORD", "Tools", "A", "$680.35"
+"DETAILS_RECORD", "TOTAL", "", "$14,684.01"

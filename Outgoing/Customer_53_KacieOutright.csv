@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "53", "Kacie", "Outright", "412-318-6070", "Monica", "3 Grayhawk Center", "Pittsburgh", "PA", "15286", "5641821137833326"
+"DETAILS_RECORD", "Grocery", "S", "$8,898.25"
+"DETAILS_RECORD", "Industrial", "X", "$2,561.55"
+"DETAILS_RECORD", "Baby", "X", "$2,719.42"
+"DETAILS_RECORD", "TOTAL", "", "$14,179.22"

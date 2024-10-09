@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "571", "Jolene", "Frearson", "517-247-4395", "Crest Line", "5 4th Way", "Lansing", "MI", "48919", "5134912995794058"
+"DETAILS_RECORD", "Movies", "N", "$266.38"
+"DETAILS_RECORD", "Home", "L", "$1,900.65"
+"DETAILS_RECORD", "Health", "T", "$3,708.50"
+"DETAILS_RECORD", "TOTAL", "", "$5,875.53"

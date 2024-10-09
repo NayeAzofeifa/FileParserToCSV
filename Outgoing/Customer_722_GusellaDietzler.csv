@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "722", "Gusella", "Dietzler", "904-660-8971", "Hoepker", "661 Longview Road", "Jacksonville", "FL", "32220", "5224304018895800"
+"DETAILS_RECORD", "Sports", "T", "$4,510.75"
+"DETAILS_RECORD", "Outdoors", "C", "$1,325.35"
+"DETAILS_RECORD", "Toys", "T", "$3,879.73"
+"DETAILS_RECORD", "TOTAL", "", "$9,715.83"

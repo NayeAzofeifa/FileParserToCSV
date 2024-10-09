@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "802", "Korella", "Klimpt", "757-915-6461", "Stang", "27 Evergreen Junction", "Norfolk", "VA", "23504", "3537358308996055"
+"DETAILS_RECORD", "Toys", "S", "$9,304.26"
+"DETAILS_RECORD", "Computers", "L", "$1,657.83"
+"DETAILS_RECORD", "Health", "S", "$9,050.11"
+"DETAILS_RECORD", "TOTAL", "", "$20,012.20"

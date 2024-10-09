@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "643", "Dorris", "Petersen", "314-686-9259", "Browning", "2 Service Alley", "Saint Louis", "MO", "63110", "201930986358633"
+"DETAILS_RECORD", "Tools", "S", "$7,089.58"
+"DETAILS_RECORD", "Tools", "S", "$5,778.87"
+"DETAILS_RECORD", "Sports", "A", "$688.26"
+"DETAILS_RECORD", "TOTAL", "", "$13,556.71"

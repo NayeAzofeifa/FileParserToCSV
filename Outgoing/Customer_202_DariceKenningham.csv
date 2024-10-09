@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "202", "Darice", "Kenningham", "727-312-1620", "Lyons", "875 Aberg Circle", "Largo", "FL", "33777", "3551542475968416"
+"DETAILS_RECORD", "Industrial", "S", "$7,218.01"
+"DETAILS_RECORD", "Home", "L", "$1,956.20"
+"DETAILS_RECORD", "Jewelry", "T", "$4,350.54"
+"DETAILS_RECORD", "TOTAL", "", "$13,524.75"

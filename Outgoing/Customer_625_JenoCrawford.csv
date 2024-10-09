@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "625", "Jeno", "Crawford", "405-688-3640", "Sutherland", "3826 Lotheville Parkway", "Oklahoma City", "OK", "73114", "3571047982166658"
+"DETAILS_RECORD", "Toys", "T", "$3,322.17"
+"DETAILS_RECORD", "Industrial", "S", "$8,778.67"
+"DETAILS_RECORD", "Computers", "S", "$9,273.06"
+"DETAILS_RECORD", "TOTAL", "", "$21,373.90"

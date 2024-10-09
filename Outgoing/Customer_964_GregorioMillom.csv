@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "964", "Gregorio", "Millom", "302-335-4742", "Utah", "91 Melody Center", "Wilmington", "DE", "19886", "3553973133266711"
+"DETAILS_RECORD", "Movies", "T", "$3,056.44"
+"DETAILS_RECORD", "Shoes", "S", "$8,432.15"
+"DETAILS_RECORD", "Movies", "A", "$719.58"
+"DETAILS_RECORD", "TOTAL", "", "$12,208.17"

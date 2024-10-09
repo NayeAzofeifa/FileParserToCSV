@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "695", "Irwinn", "Jeram", "304-560-4382", "Vahlen", "13282 Northland Road", "Huntington", "WV", "25721", "3544107650608540"
+"DETAILS_RECORD", "Shoes", "N", "$445.21"
+"DETAILS_RECORD", "Grocery", "S", "$6,785.68"
+"DETAILS_RECORD", "Toys", "S", "$8,683.80"
+"DETAILS_RECORD", "TOTAL", "", "$15,914.69"

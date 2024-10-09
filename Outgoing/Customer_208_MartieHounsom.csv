@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "208", "Martie", "Hounsom", "858-296-2853", "Northridge", "8496 Victoria Place", "San Diego", "CA", "92105", "676213226905762945"
+"DETAILS_RECORD", "Home", "T", "$3,947.22"
+"DETAILS_RECORD", "Tools", "S", "$8,913.82"
+"DETAILS_RECORD", "Movies", "P", "$2,234.69"
+"DETAILS_RECORD", "TOTAL", "", "$15,095.73"

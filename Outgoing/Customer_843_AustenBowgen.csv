@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "843", "Austen", "Bowgen", "402-236-6833", "Eliot", "906 Emmet Circle", "Lincoln", "NE", "68510", "5591483473120824"
+"DETAILS_RECORD", "Industrial", "A", "$513.88"
+"DETAILS_RECORD", "Toys", "S", "$7,077.10"
+"DETAILS_RECORD", "Health", "S", "$6,226.24"
+"DETAILS_RECORD", "TOTAL", "", "$13,817.22"

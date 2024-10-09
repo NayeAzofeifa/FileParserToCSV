@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "680", "Dee", "Kelsall", "202-224-3371", "Killdeer", "076 Oriole Plaza", "Washington", "DC", "20535", "4017957266406127"
+"DETAILS_RECORD", "Outdoors", "S", "$8,772.44"
+"DETAILS_RECORD", "Movies", "S", "$6,110.78"
+"DETAILS_RECORD", "Tools", "S", "$9,322.27"
+"DETAILS_RECORD", "TOTAL", "", "$24,205.49"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "607", "Lucila", "Cassella", "727-919-2363", "Grasskamp", "1 Spaight Alley", "Clearwater", "FL", "34615", "3580205351317042"
+"DETAILS_RECORD", "Movies", "N", "$79.85"
+"DETAILS_RECORD", "Home", "S", "$7,310.62"
+"DETAILS_RECORD", "Kids", "C", "$1,304.70"
+"DETAILS_RECORD", "TOTAL", "", "$8,695.17"

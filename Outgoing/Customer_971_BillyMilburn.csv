@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "971", "Billy", "Milburn", "702-323-9899", "Eliot", "40932 Merchant Terrace", "Las Vegas", "NV", "89150", "3581619358876488"
+"DETAILS_RECORD", "Grocery", "P", "$2,321.33"
+"DETAILS_RECORD", "Baby", "S", "$6,939.70"
+"DETAILS_RECORD", "Sports", "L", "$1,928.63"
+"DETAILS_RECORD", "TOTAL", "", "$11,189.66"

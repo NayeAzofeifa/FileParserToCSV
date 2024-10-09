@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "472", "Jonas", "Winterson", "312-458-4925", "Buhler", "3 Mendota Park", "Chicago", "IL", "60663", "5007662545635350"
+"DETAILS_RECORD", "Automotive", "L", "$1,617.31"
+"DETAILS_RECORD", "Health", "T", "$3,904.43"
+"DETAILS_RECORD", "Electronics", "T", "$4,651.45"
+"DETAILS_RECORD", "TOTAL", "", "$10,173.19"

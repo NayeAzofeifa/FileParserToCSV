@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "936", "Amy", "Killelea", "314-320-3174", "Union", "00 Daystar Junction", "Saint Louis", "MO", "63104", "3578039727410890"
+"DETAILS_RECORD", "Automotive", "S", "$9,568.88"
+"DETAILS_RECORD", "Outdoors", "S", "$6,826.28"
+"DETAILS_RECORD", "Kids", "P", "$2,100.06"
+"DETAILS_RECORD", "TOTAL", "", "$18,495.22"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "65", "Kip", "Castanares", "941-178-1575", "Prairieview", "2752 Moland Plaza", "Bonita Springs", "FL", "34135", "5602211370863643"
+"DETAILS_RECORD", "Industrial", "T", "$3,449.33"
+"DETAILS_RECORD", "Beauty", "S", "$7,039.45"
+"DETAILS_RECORD", "Sports", "S", "$5,055.90"
+"DETAILS_RECORD", "TOTAL", "", "$15,544.68"

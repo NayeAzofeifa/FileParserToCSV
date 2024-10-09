@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "947", "Roarke", "Drane", "573-411-3185", "Toban", "42 Holy Cross Point", "Jefferson City", "MO", "65105", "3543822523837024"
+"DETAILS_RECORD", "Books", "S", "$9,164.87"
+"DETAILS_RECORD", "Outdoors", "S", "$7,939.04"
+"DETAILS_RECORD", "Music", "S", "$7,924.59"
+"DETAILS_RECORD", "TOTAL", "", "$25,028.50"

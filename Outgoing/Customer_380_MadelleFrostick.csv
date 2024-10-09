@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "380", "Madelle", "Frostick", "386-362-9521", "Bowman", "4 Schlimgen Trail", "Daytona Beach", "FL", "32123", "56022137139029686"
+"DETAILS_RECORD", "Jewelry", "T", "$4,342.76"
+"DETAILS_RECORD", "Outdoors", "T", "$3,348.36"
+"DETAILS_RECORD", "Electronics", "S", "$5,038.12"
+"DETAILS_RECORD", "TOTAL", "", "$12,729.24"

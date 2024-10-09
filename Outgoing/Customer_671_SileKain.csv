@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "671", "Sile", "Kain", "210-595-5772", "Drewry", "5741 Kings Crossing", "San Antonio", "TX", "78225", "5100132915819329"
+"DETAILS_RECORD", "Sports", "T", "$4,380.99"
+"DETAILS_RECORD", "Beauty", "S", "$9,325.17"
+"DETAILS_RECORD", "Health", "N", "$126.87"
+"DETAILS_RECORD", "TOTAL", "", "$13,833.03"

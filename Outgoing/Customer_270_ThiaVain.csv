@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "270", "Thia", "Vain", "941-177-7989", "Haas", "25 Coolidge Point", "Bradenton", "FL", "34210", "3552581687204771"
+"DETAILS_RECORD", "Music", "S", "$6,771.36"
+"DETAILS_RECORD", "Industrial", "S", "$6,266.21"
+"DETAILS_RECORD", "Beauty", "S", "$5,447.72"
+"DETAILS_RECORD", "TOTAL", "", "$18,485.29"

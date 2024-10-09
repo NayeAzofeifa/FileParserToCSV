@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "211", "Thea", "Martinello", "626-138-5061", "Claremont", "3 Starling Way", "Alhambra", "CA", "91841", "676114464541953475"
+"DETAILS_RECORD", "Kids", "S", "$5,184.69"
+"DETAILS_RECORD", "Beauty", "S", "$8,294.47"
+"DETAILS_RECORD", "Electronics", "S", "$9,132.61"
+"DETAILS_RECORD", "TOTAL", "", "$22,611.77"

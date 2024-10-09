@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "589", "Gwenore", "Espinho", "915-222-9111", "Eastwood", "7098 Ridgeview Lane", "El Paso", "TX", "79905", "4913853619284714"
+"DETAILS_RECORD", "Grocery", "L", "$1,938.91"
+"DETAILS_RECORD", "Computers", "S", "$5,751.78"
+"DETAILS_RECORD", "Electronics", "S", "$9,605.94"
+"DETAILS_RECORD", "TOTAL", "", "$17,296.63"

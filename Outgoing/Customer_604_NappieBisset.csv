@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "604", "Nappie", "Bisset", "202-588-0378", "Cordelia", "36 Hollow Ridge Pass", "Washington", "DC", "20215", "3586040444387452"
+"DETAILS_RECORD", "Garden", "S", "$6,628.03"
+"DETAILS_RECORD", "Outdoors", "A", "$868.13"
+"DETAILS_RECORD", "Sports", "S", "$5,392.84"
+"DETAILS_RECORD", "TOTAL", "", "$12,889.00"

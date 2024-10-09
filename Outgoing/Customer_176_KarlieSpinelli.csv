@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "176", "Karlie", "Spinelli", "772-124-9190", "Crest Line", "01921 Declaration Trail", "Vero Beach", "FL", "32969", "373879184313449"
+"DETAILS_RECORD", "Music", "S", "$7,839.11"
+"DETAILS_RECORD", "Electronics", "S", "$9,884.93"
+"DETAILS_RECORD", "Baby", "L", "$1,843.81"
+"DETAILS_RECORD", "TOTAL", "", "$19,567.85"

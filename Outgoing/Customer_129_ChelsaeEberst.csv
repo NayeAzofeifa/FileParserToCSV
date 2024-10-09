@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "129", "Chelsae", "Eberst", "251-435-8289", "Bashford", "04 Hauk Junction", "Mobile", "AL", "36641", "4911715242480427689"
+"DETAILS_RECORD", "Books", "C", "$1,020.88"
+"DETAILS_RECORD", "Movies", "P", "$2,050.06"
+"DETAILS_RECORD", "Electronics", "S", "$5,242.08"
+"DETAILS_RECORD", "TOTAL", "", "$8,313.02"

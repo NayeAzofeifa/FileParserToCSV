@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "566", "Enrika", "Broggio", "915-738-1286", "Sycamore", "30205 Hermina Court", "El Paso", "TX", "79934", "3558127460888267"
+"DETAILS_RECORD", "Clothing", "S", "$6,107.27"
+"DETAILS_RECORD", "Jewelry", "T", "$4,562.56"
+"DETAILS_RECORD", "Health", "P", "$2,141.38"
+"DETAILS_RECORD", "TOTAL", "", "$12,811.21"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "329", "Lianne", "Whittlesey", "208-786-6843", "Bunker Hill", "76013 Surrey Terrace", "Boise", "ID", "83732", "5602244436311653"
+"DETAILS_RECORD", "Garden", "S", "$5,718.19"
+"DETAILS_RECORD", "Tools", "P", "$2,035.32"
+"DETAILS_RECORD", "Tools", "S", "$6,243.00"
+"DETAILS_RECORD", "TOTAL", "", "$13,996.51"

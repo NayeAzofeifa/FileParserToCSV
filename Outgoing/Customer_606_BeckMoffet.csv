@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "606", "Beck", "Moffet", "330-360-4562", "Del Mar", "29182 Manley Court", "Youngstown", "OH", "44505", "58933306796159177"
+"DETAILS_RECORD", "Books", "P", "$2,192.64"
+"DETAILS_RECORD", "Computers", "T", "$3,172.26"
+"DETAILS_RECORD", "Electronics", "S", "$5,536.51"
+"DETAILS_RECORD", "TOTAL", "", "$10,901.41"

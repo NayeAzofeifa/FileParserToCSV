@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "355", "Jim", "Cumber", "484-508-2426", "Ridgeview", "9749 Carioca Junction", "Valley Forge", "PA", "19495", "375565055090426"
+"DETAILS_RECORD", "Sports", "L", "$1,679.29"
+"DETAILS_RECORD", "Home", "A", "$507.32"
+"DETAILS_RECORD", "Books", "S", "$8,208.75"
+"DETAILS_RECORD", "TOTAL", "", "$10,395.36"

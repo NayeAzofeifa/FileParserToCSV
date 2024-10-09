@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "95", "Jephthah", "Wildey", "757-806-3097", "Homewood", "3 Scoville Drive", "Virginia Beach", "VA", "23459", "5481326090691730"
+"DETAILS_RECORD", "Garden", "N", "$191.04"
+"DETAILS_RECORD", "Baby", "X", "$2,850.10"
+"DETAILS_RECORD", "Shoes", "P", "$2,216.24"
+"DETAILS_RECORD", "TOTAL", "", "$5,257.38"

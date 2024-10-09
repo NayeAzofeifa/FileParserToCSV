@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "139", "Erica", "Gibbonson", "937-312-7650", "Bowman", "873 Lighthouse Bay Alley", "Dayton", "OH", "45408", "58930998326977459"
+"DETAILS_RECORD", "Beauty", "S", "$7,423.29"
+"DETAILS_RECORD", "Baby", "S", "$5,284.90"
+"DETAILS_RECORD", "Sports", "S", "$7,277.14"
+"DETAILS_RECORD", "TOTAL", "", "$19,985.33"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "361", "Janith", "Mullan", "217-666-4461", "Oak Valley", "060 Gerald Way", "Springfield", "IL", "62705", "3541882403714273"
+"DETAILS_RECORD", "Grocery", "T", "$4,662.57"
+"DETAILS_RECORD", "Music", "S", "$7,943.02"
+"DETAILS_RECORD", "Shoes", "P", "$2,068.91"
+"DETAILS_RECORD", "TOTAL", "", "$14,674.50"

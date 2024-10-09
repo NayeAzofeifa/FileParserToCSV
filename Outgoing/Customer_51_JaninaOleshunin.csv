@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "51", "Janina", "Oleshunin", "805-168-7158", "Badeau", "316 Forster Street", "Ventura", "CA", "93005", "3532728759938738"
+"DETAILS_RECORD", "Baby", "S", "$7,382.14"
+"DETAILS_RECORD", "Books", "S", "$5,498.10"
+"DETAILS_RECORD", "Automotive", "S", "$6,302.03"
+"DETAILS_RECORD", "TOTAL", "", "$19,182.27"

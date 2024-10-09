@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "199", "Lorette", "Orts", "202-400-8797", "Independence", "15 Buena Vista Circle", "Washington", "DC", "20414", "5602259880574226"
+"DETAILS_RECORD", "Music", "P", "$2,209.02"
+"DETAILS_RECORD", "Computers", "S", "$8,370.60"
+"DETAILS_RECORD", "Toys", "T", "$3,006.57"
+"DETAILS_RECORD", "TOTAL", "", "$13,586.19"

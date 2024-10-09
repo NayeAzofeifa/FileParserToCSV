@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "741", "Clare", "Jurczyk", "816-331-4777", "Montana", "18 Lunder Junction", "Kansas City", "MO", "64130", "3561379134747008"
+"DETAILS_RECORD", "Industrial", "L", "$1,543.33"
+"DETAILS_RECORD", "Music", "T", "$3,481.45"
+"DETAILS_RECORD", "Outdoors", "S", "$5,267.29"
+"DETAILS_RECORD", "TOTAL", "", "$10,292.07"

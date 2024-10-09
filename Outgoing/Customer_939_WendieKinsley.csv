@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "939", "Wendie", "Kinsley", "256-441-9953", "Hovde", "8 Warner Plaza", "Huntsville", "AL", "35810", "6334311005158378"
+"DETAILS_RECORD", "Games", "S", "$6,817.87"
+"DETAILS_RECORD", "Movies", "N", "$439.13"
+"DETAILS_RECORD", "Home", "N", "$380.64"
+"DETAILS_RECORD", "TOTAL", "", "$7,637.64"

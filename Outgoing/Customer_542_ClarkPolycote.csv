@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "542", "Clark", "Polycote", "505-616-1583", "Hollow Ridge", "04 Karstens Road", "Albuquerque", "NM", "87105", "5549326253675140"
+"DETAILS_RECORD", "Beauty", "S", "$5,406.77"
+"DETAILS_RECORD", "Home", "C", "$1,390.43"
+"DETAILS_RECORD", "Beauty", "T", "$3,858.60"
+"DETAILS_RECORD", "TOTAL", "", "$10,655.80"

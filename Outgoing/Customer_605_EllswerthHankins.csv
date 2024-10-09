@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "605", "Ellswerth", "Hankins", "501-251-2642", "Fulton", "21746 School Circle", "Little Rock", "AR", "72222", "3532323740289670"
+"DETAILS_RECORD", "Clothing", "S", "$7,678.86"
+"DETAILS_RECORD", "Movies", "S", "$6,110.59"
+"DETAILS_RECORD", "Grocery", "S", "$8,850.49"
+"DETAILS_RECORD", "TOTAL", "", "$22,639.94"

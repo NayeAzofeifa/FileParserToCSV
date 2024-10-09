@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "540", "Sadella", "Matteau", "515-476-7309", "Schurz", "4 Birchwood Lane", "Des Moines", "IA", "50369", "3549669923815207"
+"DETAILS_RECORD", "Movies", "N", "$336.92"
+"DETAILS_RECORD", "Computers", "L", "$1,562.87"
+"DETAILS_RECORD", "Grocery", "S", "$6,788.90"
+"DETAILS_RECORD", "TOTAL", "", "$8,688.69"

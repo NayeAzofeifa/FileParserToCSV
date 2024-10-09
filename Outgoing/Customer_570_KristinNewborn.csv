@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "570", "Kristin", "Newborn", "562-831-2778", "Messerschmidt", "2250 Warner Terrace", "Anaheim", "CA", "92805", "5102019338615731"
+"DETAILS_RECORD", "Automotive", "A", "$787.09"
+"DETAILS_RECORD", "Outdoors", "N", "$407.86"
+"DETAILS_RECORD", "Automotive", "T", "$3,151.20"
+"DETAILS_RECORD", "TOTAL", "", "$4,346.15"

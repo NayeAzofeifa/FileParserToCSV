@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "510", "Oona", "Vaneschi", "757-105-0360", "Dunning", "57 Kedzie Alley", "Herndon", "VA", "22070", "3567569290794455"
+"DETAILS_RECORD", "Beauty", "S", "$7,215.38"
+"DETAILS_RECORD", "Health", "S", "$8,537.22"
+"DETAILS_RECORD", "Industrial", "S", "$9,805.30"
+"DETAILS_RECORD", "TOTAL", "", "$25,557.90"

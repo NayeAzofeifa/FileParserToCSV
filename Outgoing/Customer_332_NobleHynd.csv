@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "332", "Noble", "Hynd", "336-867-5143", "Prairieview", "4 Bayside Drive", "Greensboro", "NC", "27415", "6763198015630079686"
+"DETAILS_RECORD", "Clothing", "L", "$1,773.40"
+"DETAILS_RECORD", "Health", "T", "$4,030.84"
+"DETAILS_RECORD", "Kids", "N", "$379.29"
+"DETAILS_RECORD", "TOTAL", "", "$6,183.53"

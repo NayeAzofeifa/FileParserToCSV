@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "736", "Sam", "Lake", "860-203-5248", "South", "51936 Charing Cross Court", "Hartford", "CT", "06120", "5100176580598296"
+"DETAILS_RECORD", "Shoes", "S", "$7,895.98"
+"DETAILS_RECORD", "Tools", "C", "$1,274.65"
+"DETAILS_RECORD", "Electronics", "S", "$5,974.21"
+"DETAILS_RECORD", "TOTAL", "", "$15,144.84"

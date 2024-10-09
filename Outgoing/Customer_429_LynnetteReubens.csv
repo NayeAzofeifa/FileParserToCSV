@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "429", "Lynnette", "Reubens", "504-438-2546", "Fair Oaks", "8 Mifflin Street", "Metairie", "LA", "70033", "3530744803561337"
+"DETAILS_RECORD", "Grocery", "S", "$8,510.28"
+"DETAILS_RECORD", "Sports", "S", "$7,891.62"
+"DETAILS_RECORD", "Garden", "S", "$9,384.29"
+"DETAILS_RECORD", "TOTAL", "", "$25,786.19"

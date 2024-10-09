@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "320", "Ursulina", "Gayter", "504-502-1015", "Hazelcrest", "6 Steensland Place", "New Orleans", "LA", "70129", "3588429343297003"
+"DETAILS_RECORD", "Garden", "S", "$7,662.08"
+"DETAILS_RECORD", "Baby", "T", "$3,195.20"
+"DETAILS_RECORD", "Games", "S", "$7,343.26"
+"DETAILS_RECORD", "TOTAL", "", "$18,200.54"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "251", "Deane", "Illingworth", "516-932-6026", "Mesta", "5 Waubesa Hill", "Jamaica", "NY", "11407", "4041372934070562"
+"DETAILS_RECORD", "Clothing", "S", "$9,533.44"
+"DETAILS_RECORD", "Computers", "S", "$5,449.63"
+"DETAILS_RECORD", "Jewelry", "C", "$1,227.09"
+"DETAILS_RECORD", "TOTAL", "", "$16,210.16"

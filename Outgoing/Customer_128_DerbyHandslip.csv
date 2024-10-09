@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "128", "Derby", "Handslip", "626-208-6636", "Dahle", "4 Mockingbird Park", "Pasadena", "CA", "91131", "3579155989321747"
+"DETAILS_RECORD", "Games", "L", "$1,730.88"
+"DETAILS_RECORD", "Tools", "X", "$2,969.57"
+"DETAILS_RECORD", "Outdoors", "S", "$9,584.40"
+"DETAILS_RECORD", "TOTAL", "", "$14,284.85"

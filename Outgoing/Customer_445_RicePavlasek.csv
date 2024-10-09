@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "445", "Rice", "Pavlasek", "202-139-6600", "Monica", "0 Pine View Avenue", "Washington", "DC", "20022", "5610414171966926"
+"DETAILS_RECORD", "Home", "X", "$2,994.38"
+"DETAILS_RECORD", "Industrial", "S", "$5,262.78"
+"DETAILS_RECORD", "Health", "S", "$9,555.69"
+"DETAILS_RECORD", "TOTAL", "", "$17,812.85"

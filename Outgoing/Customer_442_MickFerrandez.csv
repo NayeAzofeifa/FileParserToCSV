@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "442", "Mick", "Ferrandez", "810-363-7541", "Straubel", "4791 Elka Circle", "Flint", "MI", "48505", "3536943265634160"
+"DETAILS_RECORD", "Clothing", "S", "$9,896.00"
+"DETAILS_RECORD", "Sports", "S", "$8,916.28"
+"DETAILS_RECORD", "Baby", "T", "$3,105.17"
+"DETAILS_RECORD", "TOTAL", "", "$21,917.45"

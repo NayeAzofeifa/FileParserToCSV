@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "748", "Sioux", "Mc Caughen", "701-678-3326", "Springs", "051 Veith Point", "Bismarck", "ND", "58505", "3577545483841574"
+"DETAILS_RECORD", "Kids", "S", "$6,968.38"
+"DETAILS_RECORD", "Electronics", "S", "$6,270.06"
+"DETAILS_RECORD", "Garden", "T", "$3,961.99"
+"DETAILS_RECORD", "TOTAL", "", "$17,200.43"

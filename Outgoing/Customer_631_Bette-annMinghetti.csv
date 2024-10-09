@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "631", "Bette-ann", "Minghetti", "605-173-9972", "Esker", "814 Bartillon Street", "Sioux Falls", "SD", "57188", "5602232528521430312"
+"DETAILS_RECORD", "Garden", "S", "$8,624.19"
+"DETAILS_RECORD", "Sports", "S", "$9,441.77"
+"DETAILS_RECORD", "Music", "T", "$4,568.84"
+"DETAILS_RECORD", "TOTAL", "", "$22,634.80"

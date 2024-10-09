@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "632", "Aridatha", "Witcombe", "720-363-3760", "Reinke", "687 Vernon Terrace", "Denver", "CO", "80255", "5010127819133701"
+"DETAILS_RECORD", "Shoes", "C", "$1,338.38"
+"DETAILS_RECORD", "Music", "S", "$6,802.06"
+"DETAILS_RECORD", "Electronics", "S", "$5,500.86"
+"DETAILS_RECORD", "TOTAL", "", "$13,641.30"

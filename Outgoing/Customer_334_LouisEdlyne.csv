@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "334", "Louis", "Edlyne", "904-467-6218", "Portage", "2691 Graedel Terrace", "Jacksonville", "FL", "32230", "4911008669486808023"
+"DETAILS_RECORD", "Industrial", "S", "$6,594.16"
+"DETAILS_RECORD", "Baby", "S", "$7,524.90"
+"DETAILS_RECORD", "Music", "X", "$2,562.76"
+"DETAILS_RECORD", "TOTAL", "", "$16,681.82"

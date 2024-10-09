@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "800", "Rozella", "Gipson", "626-123-9897", "Karstens", "22197 5th Pass", "Alhambra", "CA", "91841", "3548499888759427"
+"DETAILS_RECORD", "Automotive", "X", "$2,743.78"
+"DETAILS_RECORD", "Home", "S", "$6,736.15"
+"DETAILS_RECORD", "Jewelry", "A", "$599.52"
+"DETAILS_RECORD", "TOTAL", "", "$10,079.45"

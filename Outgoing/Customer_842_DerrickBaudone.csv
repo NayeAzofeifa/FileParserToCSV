@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "842", "Derrick", "Baudone", "713-645-2763", "Doe Crossing", "774 Mcbride Crossing", "Houston", "TX", "77245", "3566825775397672"
+"DETAILS_RECORD", "Music", "S", "$6,588.64"
+"DETAILS_RECORD", "Health", "X", "$2,985.37"
+"DETAILS_RECORD", "Health", "T", "$3,919.67"
+"DETAILS_RECORD", "TOTAL", "", "$13,493.68"

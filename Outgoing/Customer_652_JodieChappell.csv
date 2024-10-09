@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "652", "Jodie", "Chappell", "316-947-2537", "Tony", "82622 Transport Alley", "Wichita", "KS", "67210", "3552522157500827"
+"DETAILS_RECORD", "Games", "L", "$1,852.46"
+"DETAILS_RECORD", "Sports", "S", "$6,540.53"
+"DETAILS_RECORD", "Baby", "S", "$9,756.36"
+"DETAILS_RECORD", "TOTAL", "", "$18,149.35"

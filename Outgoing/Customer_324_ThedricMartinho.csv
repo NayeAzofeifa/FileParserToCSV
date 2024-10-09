@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "324", "Thedric", "Martinho", "202-320-8688", "Blaine", "705 Dwight Plaza", "Alexandria", "VA", "22301", "3553175888343956"
+"DETAILS_RECORD", "Garden", "T", "$3,607.22"
+"DETAILS_RECORD", "Toys", "S", "$7,296.83"
+"DETAILS_RECORD", "Industrial", "S", "$6,253.23"
+"DETAILS_RECORD", "TOTAL", "", "$17,157.28"

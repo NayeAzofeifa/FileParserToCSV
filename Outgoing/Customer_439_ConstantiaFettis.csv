@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "439", "Constantia", "Fettis", "504-786-9672", "Waubesa", "2 Quincy Trail", "New Orleans", "LA", "70187", "630441882843709140"
+"DETAILS_RECORD", "Baby", "S", "$7,371.29"
+"DETAILS_RECORD", "Sports", "A", "$615.52"
+"DETAILS_RECORD", "Garden", "L", "$1,634.25"
+"DETAILS_RECORD", "TOTAL", "", "$9,621.06"

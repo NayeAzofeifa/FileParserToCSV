@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "963", "Janel", "Dubbin", "816-734-4892", "Bobwhite", "6 Cascade Road", "Kansas City", "MO", "64125", "6759851727885276520"
+"DETAILS_RECORD", "Health", "S", "$6,188.03"
+"DETAILS_RECORD", "Kids", "S", "$9,276.84"
+"DETAILS_RECORD", "Movies", "S", "$7,401.99"
+"DETAILS_RECORD", "TOTAL", "", "$22,866.86"

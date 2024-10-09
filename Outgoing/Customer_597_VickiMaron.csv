@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "597", "Vicki", "Maron", "713-161-5774", "Ramsey", "06991 Fallview Crossing", "Houston", "TX", "77271", "4017955164412775"
+"DETAILS_RECORD", "Home", "S", "$6,662.11"
+"DETAILS_RECORD", "Beauty", "T", "$3,832.65"
+"DETAILS_RECORD", "Jewelry", "T", "$3,525.86"
+"DETAILS_RECORD", "TOTAL", "", "$14,020.62"

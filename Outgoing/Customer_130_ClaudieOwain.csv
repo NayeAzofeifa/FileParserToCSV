@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "130", "Claudie", "Owain", "413-567-2349", "Valley Edge", "8090 Rusk Plaza", "Springfield", "MA", "01114", "5100173866902490"
+"DETAILS_RECORD", "Books", "T", "$4,955.82"
+"DETAILS_RECORD", "Games", "S", "$9,218.06"
+"DETAILS_RECORD", "Music", "C", "$1,048.13"
+"DETAILS_RECORD", "TOTAL", "", "$15,222.01"

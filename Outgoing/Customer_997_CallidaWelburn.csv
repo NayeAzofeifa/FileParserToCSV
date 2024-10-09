@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "997", "Callida", "Welburn", "646-206-3649", "American", "2 Grayhawk Park", "New York City", "NY", "10099", "490399695703484385"
+"DETAILS_RECORD", "Clothing", "S", "$7,123.25"
+"DETAILS_RECORD", "Games", "A", "$716.20"
+"DETAILS_RECORD", "Music", "T", "$4,791.88"
+"DETAILS_RECORD", "TOTAL", "", "$12,631.33"

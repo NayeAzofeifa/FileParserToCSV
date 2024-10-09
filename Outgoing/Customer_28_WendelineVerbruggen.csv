@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "28", "Wendeline", "Verbruggen", "757-102-8497", "Moulton", "64553 Mccormick Junction", "Virginia Beach", "VA", "23471", "3538704056910435"
+"DETAILS_RECORD", "Clothing", "T", "$3,030.30"
+"DETAILS_RECORD", "Toys", "T", "$3,198.69"
+"DETAILS_RECORD", "Movies", "S", "$8,254.88"
+"DETAILS_RECORD", "TOTAL", "", "$14,483.87"

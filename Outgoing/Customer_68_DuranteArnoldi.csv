@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "68", "Durante", "Arnoldi", "717-691-6179", "Texas", "189 Darwin Circle", "York", "PA", "17405", "5338176815126800"
+"DETAILS_RECORD", "Industrial", "S", "$8,036.37"
+"DETAILS_RECORD", "Movies", "T", "$4,091.82"
+"DETAILS_RECORD", "Jewelry", "P", "$2,377.08"
+"DETAILS_RECORD", "TOTAL", "", "$14,505.27"

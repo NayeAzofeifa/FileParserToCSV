@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "6", "Cornie", "Malins", "602-980-4932", "Northland", "683 Swallow Crossing", "Chandler", "AZ", "85246", "3581061445219952"
+"DETAILS_RECORD", "Outdoors", "S", "$7,709.96"
+"DETAILS_RECORD", "Baby", "T", "$4,743.66"
+"DETAILS_RECORD", "Computers", "L", "$1,950.48"
+"DETAILS_RECORD", "TOTAL", "", "$14,404.10"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "660", "Giselbert", "Geal", "757-785-5246", "Sachtjen", "99 Susan Hill", "Norfolk", "VA", "23520", "3554181817126461"
+"DETAILS_RECORD", "Computers", "S", "$7,064.61"
+"DETAILS_RECORD", "Clothing", "L", "$1,727.55"
+"DETAILS_RECORD", "Books", "S", "$7,816.81"
+"DETAILS_RECORD", "TOTAL", "", "$16,608.97"

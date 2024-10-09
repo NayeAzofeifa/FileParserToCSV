@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "431", "Sergeant", "Court", "785-366-5681", "Maple Wood", "23 Morning Park", "Topeka", "KS", "66699", "5020921582354744"
+"DETAILS_RECORD", "Clothing", "T", "$4,810.97"
+"DETAILS_RECORD", "Outdoors", "N", "$375.15"
+"DETAILS_RECORD", "Kids", "C", "$1,141.67"
+"DETAILS_RECORD", "TOTAL", "", "$6,327.79"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "627", "Happy", "Drewe", "510-361-8657", "Comanche", "8 Ludington Crossing", "Oakland", "CA", "94622", "5048371064611260"
+"DETAILS_RECORD", "Books", "S", "$7,406.02"
+"DETAILS_RECORD", "Kids", "S", "$7,584.45"
+"DETAILS_RECORD", "Games", "S", "$8,551.40"
+"DETAILS_RECORD", "TOTAL", "", "$23,541.87"

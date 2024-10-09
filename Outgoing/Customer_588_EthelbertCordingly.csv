@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "588", "Ethelbert", "Cordingly", "540-188-1454", "Larry", "3 Farragut Avenue", "Roanoke", "VA", "24040", "5007665601292123"
+"DETAILS_RECORD", "Jewelry", "S", "$7,080.30"
+"DETAILS_RECORD", "Books", "S", "$7,052.89"
+"DETAILS_RECORD", "Electronics", "T", "$3,257.68"
+"DETAILS_RECORD", "TOTAL", "", "$17,390.87"

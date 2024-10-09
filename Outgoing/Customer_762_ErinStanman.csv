@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "762", "Erin", "Stanman", "714-196-8106", "Briar Crest", "39 Dayton Lane", "Anaheim", "CA", "92812", "675937723650001971"
+"DETAILS_RECORD", "Beauty", "A", "$558.09"
+"DETAILS_RECORD", "Toys", "S", "$6,688.85"
+"DETAILS_RECORD", "Kids", "T", "$4,625.19"
+"DETAILS_RECORD", "TOTAL", "", "$11,872.13"

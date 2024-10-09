@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "645", "Karilynn", "Scirman", "518-152-7193", "Prairieview", "17297 Grim Way", "Schenectady", "NY", "12305", "3539541744936292"
+"DETAILS_RECORD", "Health", "S", "$9,933.60"
+"DETAILS_RECORD", "Health", "S", "$8,731.95"
+"DETAILS_RECORD", "Baby", "S", "$9,828.05"
+"DETAILS_RECORD", "TOTAL", "", "$28,493.60"

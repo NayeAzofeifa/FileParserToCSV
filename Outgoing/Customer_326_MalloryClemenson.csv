@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "326", "Mallory", "Clemenson", "502-723-1095", "Luster", "8 Kenwood Lane", "Louisville", "KY", "40215", "060407356675585938"
+"DETAILS_RECORD", "Electronics", "T", "$4,283.76"
+"DETAILS_RECORD", "Automotive", "S", "$9,373.58"
+"DETAILS_RECORD", "Grocery", "X", "$2,612.58"
+"DETAILS_RECORD", "TOTAL", "", "$16,269.92"

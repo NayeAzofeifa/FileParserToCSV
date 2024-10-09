@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "933", "Vincents", "Trippick", "812-270-0696", "Norway Maple", "6518 Melody Hill", "Evansville", "IN", "47719", "3588446208578434"
+"DETAILS_RECORD", "Garden", "S", "$5,816.95"
+"DETAILS_RECORD", "Health", "T", "$3,717.90"
+"DETAILS_RECORD", "Grocery", "L", "$1,935.80"
+"DETAILS_RECORD", "TOTAL", "", "$11,470.65"

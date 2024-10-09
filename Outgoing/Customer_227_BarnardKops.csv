@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "227", "Barnard", "Kops", "972-825-5082", "Alpine", "52849 Elgar Place", "Dallas", "TX", "75210", "6767796860607343"
+"DETAILS_RECORD", "Electronics", "S", "$6,572.27"
+"DETAILS_RECORD", "Books", "C", "$1,158.46"
+"DETAILS_RECORD", "Automotive", "T", "$4,080.96"
+"DETAILS_RECORD", "TOTAL", "", "$11,811.69"

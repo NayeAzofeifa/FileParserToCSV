@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "59", "Thurston", "Poulgreen", "202-889-1591", "La Follette", "96073 Vera Hill", "Washington", "DC", "20067", "3553030633155843"
+"DETAILS_RECORD", "Toys", "S", "$6,275.58"
+"DETAILS_RECORD", "Shoes", "S", "$8,354.29"
+"DETAILS_RECORD", "Industrial", "L", "$1,558.88"
+"DETAILS_RECORD", "TOTAL", "", "$16,188.75"

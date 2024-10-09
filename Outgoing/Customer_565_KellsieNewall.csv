@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "565", "Kellsie", "Newall", "915-608-3424", "Caliangt", "08 Summer Ridge Park", "El Paso", "TX", "79916", "4041593819681286"
+"DETAILS_RECORD", "Electronics", "T", "$3,782.61"
+"DETAILS_RECORD", "Music", "S", "$5,998.75"
+"DETAILS_RECORD", "Books", "S", "$6,128.47"
+"DETAILS_RECORD", "TOTAL", "", "$15,909.83"

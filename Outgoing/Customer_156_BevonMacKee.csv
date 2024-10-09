@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "156", "Bevon", "MacKee", "954-341-2628", "Stephen", "7 Glacier Hill Drive", "Fort Lauderdale", "FL", "33315", "3542833252171189"
+"DETAILS_RECORD", "Shoes", "S", "$5,730.36"
+"DETAILS_RECORD", "Sports", "T", "$4,337.45"
+"DETAILS_RECORD", "Beauty", "C", "$1,348.28"
+"DETAILS_RECORD", "TOTAL", "", "$11,416.09"

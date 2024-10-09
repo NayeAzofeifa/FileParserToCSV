@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "582", "Leese", "Jereatt", "712-102-8945", "Hallows", "48 Oriole Street", "Omaha", "NE", "68134", "3582099383282342"
+"DETAILS_RECORD", "Home", "S", "$8,024.83"
+"DETAILS_RECORD", "Garden", "S", "$8,002.42"
+"DETAILS_RECORD", "Music", "S", "$9,461.88"
+"DETAILS_RECORD", "TOTAL", "", "$25,489.13"

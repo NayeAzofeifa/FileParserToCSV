@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "531", "Micky", "Mathiasen", "303-302-4772", "Prairie Rose", "575 Monterey Alley", "Aurora", "CO", "80045", "30504097014406"
+"DETAILS_RECORD", "Kids", "T", "$4,743.79"
+"DETAILS_RECORD", "Toys", "X", "$2,523.70"
+"DETAILS_RECORD", "Games", "N", "$227.74"
+"DETAILS_RECORD", "TOTAL", "", "$7,495.23"

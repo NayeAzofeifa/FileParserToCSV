@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "465", "Lexy", "Oxley", "347-891-5758", "Kenwood", "322 4th Parkway", "Brooklyn", "NY", "11241", "3567631775022834"
+"DETAILS_RECORD", "Electronics", "S", "$5,528.96"
+"DETAILS_RECORD", "Tools", "P", "$2,334.17"
+"DETAILS_RECORD", "Movies", "C", "$1,085.83"
+"DETAILS_RECORD", "TOTAL", "", "$8,948.96"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "394", "Paige", "Dodshon", "816-396-7268", "David", "65514 Thackeray Way", "Kansas City", "MO", "64187", "3534237376506694"
+"DETAILS_RECORD", "Music", "X", "$2,997.02"
+"DETAILS_RECORD", "Home", "S", "$5,059.04"
+"DETAILS_RECORD", "Home", "A", "$561.60"
+"DETAILS_RECORD", "TOTAL", "", "$8,617.66"

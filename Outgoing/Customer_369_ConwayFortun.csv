@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "369", "Conway", "Fortun", "314-132-8792", "Colorado", "37712 Wayridge Crossing", "Saint Louis", "MO", "63143", "201721503798785"
+"DETAILS_RECORD", "Electronics", "A", "$804.89"
+"DETAILS_RECORD", "Shoes", "T", "$3,112.78"
+"DETAILS_RECORD", "Beauty", "N", "$256.44"
+"DETAILS_RECORD", "TOTAL", "", "$4,174.11"

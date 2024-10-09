@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "579", "Devondra", "Sanchis", "202-865-7707", "Dottie", "8156 Porter Park", "Washington", "DC", "20575", "3564628983418534"
+"DETAILS_RECORD", "Outdoors", "S", "$6,802.78"
+"DETAILS_RECORD", "Baby", "T", "$4,593.87"
+"DETAILS_RECORD", "Baby", "S", "$7,290.92"
+"DETAILS_RECORD", "TOTAL", "", "$18,687.57"

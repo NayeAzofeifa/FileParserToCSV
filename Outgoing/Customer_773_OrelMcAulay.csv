@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "773", "Orel", "McAulay", "412-332-2702", "Wayridge", "3 Hazelcrest Circle", "Pittsburgh", "PA", "15250", "3553054744757750"
+"DETAILS_RECORD", "Books", "S", "$6,738.82"
+"DETAILS_RECORD", "Movies", "S", "$8,205.07"
+"DETAILS_RECORD", "Electronics", "S", "$8,128.37"
+"DETAILS_RECORD", "TOTAL", "", "$23,072.26"

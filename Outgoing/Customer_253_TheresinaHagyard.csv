@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "253", "Theresina", "Hagyard", "215-886-6470", "Mariners Cove", "12 Granby Park", "Philadelphia", "PA", "19178", "3567177119012818"
+"DETAILS_RECORD", "Electronics", "T", "$4,085.74"
+"DETAILS_RECORD", "Garden", "T", "$4,402.38"
+"DETAILS_RECORD", "Shoes", "P", "$2,417.87"
+"DETAILS_RECORD", "TOTAL", "", "$10,905.99"

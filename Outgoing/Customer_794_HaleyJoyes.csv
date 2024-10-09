@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "794", "Haley", "Joyes", "915-605-3701", "Rusk", "033 Laurel Center", "El Paso", "TX", "88530", "3553284977306328"
+"DETAILS_RECORD", "Music", "S", "$6,156.14"
+"DETAILS_RECORD", "Garden", "T", "$4,414.89"
+"DETAILS_RECORD", "Garden", "S", "$5,529.28"
+"DETAILS_RECORD", "TOTAL", "", "$16,100.31"

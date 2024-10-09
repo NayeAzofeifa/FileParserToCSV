@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "259", "Delmor", "Prangle", "609-993-1419", "Jenifer", "3 Linden Park", "Trenton", "NJ", "08695", "5602221713916321"
+"DETAILS_RECORD", "Music", "S", "$6,006.05"
+"DETAILS_RECORD", "Kids", "S", "$6,913.45"
+"DETAILS_RECORD", "Beauty", "S", "$7,752.21"
+"DETAILS_RECORD", "TOTAL", "", "$20,671.71"

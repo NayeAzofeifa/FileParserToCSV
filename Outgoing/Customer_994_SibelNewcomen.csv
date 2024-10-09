@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "994", "Sibel", "Newcomen", "713-869-9962", "Golf Course", "0596 Mendota Terrace", "Houston", "TX", "77299", "3549962482700021"
+"DETAILS_RECORD", "Outdoors", "T", "$4,828.12"
+"DETAILS_RECORD", "Baby", "C", "$1,046.81"
+"DETAILS_RECORD", "Industrial", "A", "$770.40"
+"DETAILS_RECORD", "TOTAL", "", "$6,645.33"

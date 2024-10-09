@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "797", "Glendon", "Niessen", "202-929-4895", "American Ash", "47724 Messerschmidt Junction", "Washington", "DC", "56944", "5602253751895356"
+"DETAILS_RECORD", "Kids", "S", "$6,812.58"
+"DETAILS_RECORD", "Computers", "S", "$8,229.66"
+"DETAILS_RECORD", "Toys", "S", "$7,553.99"
+"DETAILS_RECORD", "TOTAL", "", "$22,596.23"

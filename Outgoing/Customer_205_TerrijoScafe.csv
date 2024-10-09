@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "205", "Terrijo", "Scafe", "915-511-6975", "Knutson", "453 Spenser Road", "El Paso", "TX", "79940", "3586764615598841"
+"DETAILS_RECORD", "Home", "T", "$3,555.61"
+"DETAILS_RECORD", "Movies", "S", "$9,105.81"
+"DETAILS_RECORD", "Grocery", "T", "$4,469.98"
+"DETAILS_RECORD", "TOTAL", "", "$17,131.40"

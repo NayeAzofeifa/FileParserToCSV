@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "977", "Bette-ann", "McTerrelly", "718-560-3775", "Rockefeller", "22296 Forest Dale Court", "Flushing", "NY", "11355", "3579299611840581"
+"DETAILS_RECORD", "Outdoors", "S", "$6,135.33"
+"DETAILS_RECORD", "Tools", "N", "$324.71"
+"DETAILS_RECORD", "Music", "S", "$7,291.90"
+"DETAILS_RECORD", "TOTAL", "", "$13,751.94"

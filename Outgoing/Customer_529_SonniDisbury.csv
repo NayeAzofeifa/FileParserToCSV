@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "529", "Sonni", "Disbury", "808-685-0872", "Vidon", "9 North Hill", "Honolulu", "HI", "96805", "5893289728269711"
+"DETAILS_RECORD", "Sports", "S", "$9,201.90"
+"DETAILS_RECORD", "Kids", "T", "$3,565.67"
+"DETAILS_RECORD", "Electronics", "S", "$9,713.63"
+"DETAILS_RECORD", "TOTAL", "", "$22,481.20"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "684", "Paten", "Beake", "202-685-3653", "Butternut", "4 Orin Terrace", "Washington", "DC", "20370", "30369392878834"
+"DETAILS_RECORD", "Sports", "T", "$4,955.56"
+"DETAILS_RECORD", "Home", "L", "$1,728.64"
+"DETAILS_RECORD", "Outdoors", "S", "$7,057.03"
+"DETAILS_RECORD", "TOTAL", "", "$13,741.23"

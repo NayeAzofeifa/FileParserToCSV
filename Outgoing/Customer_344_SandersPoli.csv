@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "344", "Sanders", "Poli", "915-522-7320", "Nova", "59664 Stuart Parkway", "El Paso", "TX", "88519", "5018999215820593105"
+"DETAILS_RECORD", "Music", "T", "$4,859.22"
+"DETAILS_RECORD", "Garden", "C", "$1,138.16"
+"DETAILS_RECORD", "Baby", "T", "$3,917.17"
+"DETAILS_RECORD", "TOTAL", "", "$9,914.55"

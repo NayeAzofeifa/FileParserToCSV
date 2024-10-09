@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "670", "Lind", "Purshouse", "402-279-2897", "Mandrake", "4209 International Drive", "Lincoln", "NE", "68505", "5602213564318696974"
+"DETAILS_RECORD", "Home", "S", "$8,578.31"
+"DETAILS_RECORD", "Grocery", "P", "$2,469.73"
+"DETAILS_RECORD", "Garden", "S", "$7,598.61"
+"DETAILS_RECORD", "TOTAL", "", "$18,646.65"

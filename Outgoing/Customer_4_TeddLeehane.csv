@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "4", "Tedd", "Leehane", "212-516-4292", "Armistice", "7 Ruskin Junction", "New York City", "NY", "10004", "30207522748685"
+"DETAILS_RECORD", "Music", "X", "$2,723.57"
+"DETAILS_RECORD", "Health", "N", "$421.10"
+"DETAILS_RECORD", "Toys", "S", "$5,677.17"
+"DETAILS_RECORD", "TOTAL", "", "$8,821.84"

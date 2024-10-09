@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "433", "Kelvin", "Yannikov", "517-637-8307", "Delaware", "2 East Drive", "Kalamazoo", "MI", "49048", "3560785955908126"
+"DETAILS_RECORD", "Jewelry", "X", "$2,581.00"
+"DETAILS_RECORD", "Kids", "S", "$6,709.29"
+"DETAILS_RECORD", "Outdoors", "S", "$9,501.83"
+"DETAILS_RECORD", "TOTAL", "", "$18,792.12"

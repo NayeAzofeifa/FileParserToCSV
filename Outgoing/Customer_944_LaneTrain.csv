@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "944", "Lane", "Train", "717-383-4078", "Leroy", "292 Bobwhite Trail", "Harrisburg", "PA", "17126", "5602242215210641"
+"DETAILS_RECORD", "Jewelry", "S", "$6,610.50"
+"DETAILS_RECORD", "Games", "P", "$2,291.69"
+"DETAILS_RECORD", "Movies", "S", "$7,133.98"
+"DETAILS_RECORD", "TOTAL", "", "$16,036.17"

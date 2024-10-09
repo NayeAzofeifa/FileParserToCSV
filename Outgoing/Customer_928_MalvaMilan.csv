@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "928", "Malva", "Milan", "405-506-4870", "Swallow", "6 Amoth Way", "Oklahoma City", "OK", "73114", "6763983608415275955"
+"DETAILS_RECORD", "Home", "T", "$3,474.57"
+"DETAILS_RECORD", "Garden", "N", "$495.78"
+"DETAILS_RECORD", "Grocery", "T", "$4,011.32"
+"DETAILS_RECORD", "TOTAL", "", "$7,981.67"

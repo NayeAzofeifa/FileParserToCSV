@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "132", "Aldo", "Coggin", "504-689-6991", "Dahle", "5 Coolidge Park", "New Orleans", "LA", "70174", "3584143708742131"
+"DETAILS_RECORD", "Outdoors", "S", "$5,508.79"
+"DETAILS_RECORD", "Home", "L", "$1,618.53"
+"DETAILS_RECORD", "Garden", "S", "$9,448.56"
+"DETAILS_RECORD", "TOTAL", "", "$16,575.88"

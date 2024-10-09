@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "204", "Tobiah", "Gonthard", "810-294-7424", "Goodland", "02312 Luster Pass", "Flint", "MI", "48505", "3566071037286268"
+"DETAILS_RECORD", "Sports", "S", "$8,566.85"
+"DETAILS_RECORD", "Health", "A", "$875.98"
+"DETAILS_RECORD", "Automotive", "T", "$4,825.27"
+"DETAILS_RECORD", "TOTAL", "", "$14,268.10"

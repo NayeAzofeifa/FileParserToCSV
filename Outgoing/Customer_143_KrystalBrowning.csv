@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "143", "Krystal", "Browning", "412-226-2980", "Scoville", "4 Carioca Avenue", "Pittsburgh", "PA", "15286", "3572876295457365"
+"DETAILS_RECORD", "Music", "P", "$2,319.61"
+"DETAILS_RECORD", "Baby", "C", "$1,330.84"
+"DETAILS_RECORD", "Automotive", "T", "$3,580.52"
+"DETAILS_RECORD", "TOTAL", "", "$7,230.97"

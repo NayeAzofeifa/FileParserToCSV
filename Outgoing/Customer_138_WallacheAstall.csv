@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "138", "Wallache", "Astall", "304-744-7279", "Armistice", "375 Menomonie Parkway", "Huntington", "WV", "25726", "3530150775193952"
+"DETAILS_RECORD", "Tools", "S", "$9,506.47"
+"DETAILS_RECORD", "Music", "S", "$6,157.90"
+"DETAILS_RECORD", "Industrial", "P", "$2,319.76"
+"DETAILS_RECORD", "TOTAL", "", "$17,984.13"

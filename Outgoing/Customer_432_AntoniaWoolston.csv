@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "432", "Antonia", "Woolston", "212-672-8397", "Artisan", "1 Messerschmidt Parkway", "New York City", "NY", "10165", "5641826088617420"
+"DETAILS_RECORD", "Shoes", "T", "$4,383.62"
+"DETAILS_RECORD", "Books", "C", "$1,245.00"
+"DETAILS_RECORD", "Electronics", "S", "$6,966.19"
+"DETAILS_RECORD", "TOTAL", "", "$12,594.81"

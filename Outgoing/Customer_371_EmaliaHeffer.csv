@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "371", "Emalia", "Heffer", "216-388-9860", "Magdeline", "201 Wayridge Trail", "Cleveland", "OH", "44197", "3544963222393890"
+"DETAILS_RECORD", "Toys", "T", "$4,877.07"
+"DETAILS_RECORD", "Beauty", "S", "$6,922.19"
+"DETAILS_RECORD", "Books", "S", "$8,665.72"
+"DETAILS_RECORD", "TOTAL", "", "$20,464.98"

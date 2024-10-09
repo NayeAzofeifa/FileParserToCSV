@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "116", "Conrade", "Barras", "214-324-0590", "Maryland", "886 Anderson Drive", "Irving", "TX", "75037", "6759821646801235740"
+"DETAILS_RECORD", "Beauty", "S", "$7,896.07"
+"DETAILS_RECORD", "Books", "S", "$9,819.25"
+"DETAILS_RECORD", "Health", "A", "$504.83"
+"DETAILS_RECORD", "TOTAL", "", "$18,220.15"

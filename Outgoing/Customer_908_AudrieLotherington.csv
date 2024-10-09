@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "908", "Audrie", "Lotherington", "360-122-7189", "Fairfield", "90775 Lakewood Way", "Olympia", "WA", "98506", "6759087970234821481"
+"DETAILS_RECORD", "Clothing", "N", "$334.04"
+"DETAILS_RECORD", "Automotive", "S", "$8,619.82"
+"DETAILS_RECORD", "Shoes", "X", "$2,705.97"
+"DETAILS_RECORD", "TOTAL", "", "$11,659.83"

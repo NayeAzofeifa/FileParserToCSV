@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "278", "Jelene", "Cumes", "901-420-9596", "Schurz", "95 Armistice Drive", "Memphis", "TN", "38150", "5007668545091304"
+"DETAILS_RECORD", "Music", "S", "$9,433.32"
+"DETAILS_RECORD", "Outdoors", "T", "$4,830.44"
+"DETAILS_RECORD", "Outdoors", "S", "$7,722.96"
+"DETAILS_RECORD", "TOTAL", "", "$21,986.72"

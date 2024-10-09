@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "179", "Mina", "Ellesworth", "831-545-4506", "Fisk", "335 Magdeline Street", "Santa Cruz", "CA", "95064", "5602255449480674430"
+"DETAILS_RECORD", "Industrial", "P", "$2,006.61"
+"DETAILS_RECORD", "Sports", "T", "$3,411.94"
+"DETAILS_RECORD", "Industrial", "P", "$2,202.78"
+"DETAILS_RECORD", "TOTAL", "", "$7,621.33"

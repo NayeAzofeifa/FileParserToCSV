@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "976", "Evelin", "Shere", "864-200-2572", "Marquette", "784 Weeping Birch Street", "Greenville", "SC", "29605", "3565350138179759"
+"DETAILS_RECORD", "Kids", "S", "$6,427.83"
+"DETAILS_RECORD", "Games", "L", "$1,612.18"
+"DETAILS_RECORD", "Kids", "P", "$2,305.75"
+"DETAILS_RECORD", "TOTAL", "", "$10,345.76"

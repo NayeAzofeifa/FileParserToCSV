@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "23", "Cordie", "Kilford", "361-929-9677", "Division", "76823 Blue Bill Park Park", "Corpus Christi", "TX", "78465", "5602254882609526"
+"DETAILS_RECORD", "Garden", "S", "$9,240.96"
+"DETAILS_RECORD", "Movies", "S", "$9,674.50"
+"DETAILS_RECORD", "Automotive", "T", "$3,200.53"
+"DETAILS_RECORD", "TOTAL", "", "$22,115.99"

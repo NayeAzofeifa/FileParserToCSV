@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "484", "Bidget", "Brownlow", "360-323-5082", "Onsgard", "5 Prairie Rose Alley", "Seattle", "WA", "98104", "633110759167623061"
+"DETAILS_RECORD", "Industrial", "S", "$8,833.25"
+"DETAILS_RECORD", "Computers", "T", "$4,110.64"
+"DETAILS_RECORD", "Clothing", "S", "$5,517.06"
+"DETAILS_RECORD", "TOTAL", "", "$18,460.95"

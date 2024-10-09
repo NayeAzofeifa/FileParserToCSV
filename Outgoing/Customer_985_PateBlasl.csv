@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "985", "Pate", "Blasl", "806-587-5603", "Londonderry", "57457 Talmadge Trail", "Amarillo", "TX", "79118", "201400690678833"
+"DETAILS_RECORD", "Beauty", "P", "$2,222.72"
+"DETAILS_RECORD", "Industrial", "S", "$5,963.90"
+"DETAILS_RECORD", "Sports", "X", "$2,662.97"
+"DETAILS_RECORD", "TOTAL", "", "$10,849.59"

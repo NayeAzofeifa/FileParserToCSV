@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "563", "Brandy", "Tremmil", "915-177-7056", "Thierer", "7 Lyons Court", "El Paso", "TX", "88563", "3547911518252061"
+"DETAILS_RECORD", "Tools", "T", "$4,609.62"
+"DETAILS_RECORD", "Toys", "S", "$7,793.10"
+"DETAILS_RECORD", "Computers", "C", "$1,250.45"
+"DETAILS_RECORD", "TOTAL", "", "$13,653.17"

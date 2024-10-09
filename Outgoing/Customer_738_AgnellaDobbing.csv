@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "738", "Agnella", "Dobbing", "719-690-6405", "Ramsey", "1687 Arrowood Crossing", "Colorado Springs", "CO", "80945", "5602220962851435142"
+"DETAILS_RECORD", "Kids", "L", "$1,829.89"
+"DETAILS_RECORD", "Baby", "S", "$8,767.07"
+"DETAILS_RECORD", "Tools", "P", "$2,212.55"
+"DETAILS_RECORD", "TOTAL", "", "$12,809.51"

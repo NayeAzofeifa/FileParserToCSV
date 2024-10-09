@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "80", "Vincenty", "Janjusevic", "205-900-6609", "Aberg", "3 Oak Valley Parkway", "Birmingham", "AL", "35295", "30578010079050"
+"DETAILS_RECORD", "Baby", "N", "$367.23"
+"DETAILS_RECORD", "Outdoors", "T", "$4,617.55"
+"DETAILS_RECORD", "Garden", "T", "$3,961.71"
+"DETAILS_RECORD", "TOTAL", "", "$8,946.49"

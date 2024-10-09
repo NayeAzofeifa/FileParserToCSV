@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "855", "Gerald", "Tollerton", "319-417-0611", "Golf Course", "42702 Rockefeller Lane", "Cedar Rapids", "IA", "52410", "3575720198897102"
+"DETAILS_RECORD", "Books", "A", "$760.36"
+"DETAILS_RECORD", "Industrial", "T", "$4,424.27"
+"DETAILS_RECORD", "Computers", "S", "$7,168.45"
+"DETAILS_RECORD", "TOTAL", "", "$12,353.08"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "814", "Tallou", "Fellon", "651-890-7700", "Muir", "812 Sutherland Alley", "Minneapolis", "MN", "55402", "5018139724831842"
+"DETAILS_RECORD", "Electronics", "C", "$1,218.64"
+"DETAILS_RECORD", "Tools", "S", "$5,813.54"
+"DETAILS_RECORD", "Electronics", "S", "$7,467.95"
+"DETAILS_RECORD", "TOTAL", "", "$14,500.13"

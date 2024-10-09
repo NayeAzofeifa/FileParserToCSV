@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "830", "Basilius", "Alasdair", "281-791-0713", "Park Meadow", "7978 Fieldstone Hill", "Pasadena", "TX", "77505", "374288765187280"
+"DETAILS_RECORD", "Shoes", "S", "$6,022.60"
+"DETAILS_RECORD", "Sports", "C", "$1,314.18"
+"DETAILS_RECORD", "Music", "S", "$5,663.74"
+"DETAILS_RECORD", "TOTAL", "", "$13,000.52"

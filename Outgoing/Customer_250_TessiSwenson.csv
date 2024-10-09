@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "250", "Tessi", "Swenson", "229-187-5812", "Roth", "9144 Nancy Point", "Valdosta", "GA", "31605", "4017959755638"
+"DETAILS_RECORD", "Jewelry", "S", "$9,450.30"
+"DETAILS_RECORD", "Jewelry", "T", "$3,199.32"
+"DETAILS_RECORD", "Toys", "S", "$6,050.31"
+"DETAILS_RECORD", "TOTAL", "", "$18,699.93"

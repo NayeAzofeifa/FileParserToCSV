@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "60", "Waylen", "Marle", "515-890-2320", "Grover", "96 Haas Way", "Des Moines", "IA", "50393", "50203908948196864"
+"DETAILS_RECORD", "Books", "T", "$3,807.43"
+"DETAILS_RECORD", "Beauty", "T", "$4,102.19"
+"DETAILS_RECORD", "Shoes", "S", "$5,949.08"
+"DETAILS_RECORD", "TOTAL", "", "$13,858.70"

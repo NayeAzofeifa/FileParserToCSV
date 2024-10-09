@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "137", "Claudetta", "Harp", "504-475-0778", "Johnson", "1897 Kingsford Place", "New Orleans", "LA", "70142", "6709004029974881"
+"DETAILS_RECORD", "Beauty", "N", "$240.01"
+"DETAILS_RECORD", "Outdoors", "S", "$5,156.55"
+"DETAILS_RECORD", "Movies", "S", "$7,487.76"
+"DETAILS_RECORD", "TOTAL", "", "$12,884.32"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "973", "Kim", "Colyer", "312-397-3972", "Melrose", "50685 Milwaukee Way", "Chicago", "IL", "60636", "5107608072407340"
+"DETAILS_RECORD", "Grocery", "S", "$9,624.28"
+"DETAILS_RECORD", "Sports", "P", "$2,456.12"
+"DETAILS_RECORD", "Automotive", "T", "$3,030.95"
+"DETAILS_RECORD", "TOTAL", "", "$15,111.35"

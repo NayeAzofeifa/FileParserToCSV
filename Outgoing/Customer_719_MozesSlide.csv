@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "719", "Mozes", "Slide", "304-459-2166", "Bunker Hill", "535 Green Place", "Huntington", "WV", "25711", "3564975511528247"
+"DETAILS_RECORD", "Beauty", "T", "$4,489.98"
+"DETAILS_RECORD", "Baby", "X", "$2,926.41"
+"DETAILS_RECORD", "Health", "S", "$9,569.91"
+"DETAILS_RECORD", "TOTAL", "", "$16,986.30"

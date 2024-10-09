@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "871", "Micky", "Larkin", "317-812-0241", "Caliangt", "80566 Little Fleur Place", "Indianapolis", "IN", "46216", "201636579466754"
+"DETAILS_RECORD", "Automotive", "T", "$4,026.97"
+"DETAILS_RECORD", "Kids", "L", "$1,764.93"
+"DETAILS_RECORD", "Music", "S", "$7,424.76"
+"DETAILS_RECORD", "TOTAL", "", "$13,216.66"

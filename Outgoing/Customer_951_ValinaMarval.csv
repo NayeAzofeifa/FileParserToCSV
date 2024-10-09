@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "951", "Valina", "Marval", "407-624-1408", "Fieldstone", "94277 Eggendart Crossing", "Orlando", "FL", "32854", "3558625939445650"
+"DETAILS_RECORD", "Shoes", "S", "$9,099.52"
+"DETAILS_RECORD", "Health", "S", "$6,032.30"
+"DETAILS_RECORD", "Beauty", "X", "$2,872.61"
+"DETAILS_RECORD", "TOTAL", "", "$18,004.43"

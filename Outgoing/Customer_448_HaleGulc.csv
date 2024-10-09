@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "448", "Hale", "Gulc", "601-377-6724", "Oxford", "9145 Westend Circle", "Jackson", "MS", "39236", "3533294265345669"
+"DETAILS_RECORD", "Books", "S", "$6,382.83"
+"DETAILS_RECORD", "Outdoors", "N", "$369.85"
+"DETAILS_RECORD", "Baby", "S", "$7,108.74"
+"DETAILS_RECORD", "TOTAL", "", "$13,861.42"

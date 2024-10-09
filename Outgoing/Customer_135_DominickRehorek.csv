@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "135", "Dominick", "Rehorek", "423-528-9527", "Hoepker", "731 Colorado Place", "Chattanooga", "TN", "37405", "3538275839848937"
+"DETAILS_RECORD", "Outdoors", "X", "$2,688.75"
+"DETAILS_RECORD", "Automotive", "N", "$60.71"
+"DETAILS_RECORD", "Music", "N", "$337.89"
+"DETAILS_RECORD", "TOTAL", "", "$3,087.35"

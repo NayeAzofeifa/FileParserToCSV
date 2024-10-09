@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "317", "Cherida", "Willford", "309-265-1152", "Mcguire", "33 4th Place", "Peoria", "IL", "61629", "3529453892231603"
+"DETAILS_RECORD", "Games", "T", "$3,470.88"
+"DETAILS_RECORD", "Computers", "S", "$7,061.95"
+"DETAILS_RECORD", "Clothing", "L", "$1,940.58"
+"DETAILS_RECORD", "TOTAL", "", "$12,473.41"

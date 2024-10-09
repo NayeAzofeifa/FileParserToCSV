@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "979", "Annabell", "Caslett", "253-488-4203", "Florence", "020 Merchant Road", "Tacoma", "WA", "98464", "5610929985863779"
+"DETAILS_RECORD", "Sports", "L", "$1,906.46"
+"DETAILS_RECORD", "Garden", "S", "$6,762.07"
+"DETAILS_RECORD", "Books", "S", "$8,733.47"
+"DETAILS_RECORD", "TOTAL", "", "$17,402.00"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "284", "Arther", "Petyt", "816-654-4110", "Buell", "32890 Stang Circle", "Saint Joseph", "MO", "64504", "3555740106781333"
+"DETAILS_RECORD", "Sports", "A", "$827.62"
+"DETAILS_RECORD", "Grocery", "T", "$4,479.02"
+"DETAILS_RECORD", "Garden", "T", "$4,501.47"
+"DETAILS_RECORD", "TOTAL", "", "$9,808.11"

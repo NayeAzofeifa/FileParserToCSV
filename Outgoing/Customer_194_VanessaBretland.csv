@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "194", "Vanessa", "Bretland", "404-850-3178", "Pond", "6 Kensington Circle", "Atlanta", "GA", "30306", "6331105665261078593"
+"DETAILS_RECORD", "Electronics", "X", "$2,605.63"
+"DETAILS_RECORD", "Industrial", "S", "$9,671.63"
+"DETAILS_RECORD", "Music", "S", "$5,676.17"
+"DETAILS_RECORD", "TOTAL", "", "$17,953.43"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "83", "Lorens", "Siemens", "214-941-9659", "Elka", "07136 Green Ridge Alley", "Garland", "TX", "75044", "5602251238316715"
+"DETAILS_RECORD", "Music", "S", "$5,571.02"
+"DETAILS_RECORD", "Computers", "L", "$1,774.43"
+"DETAILS_RECORD", "Grocery", "S", "$9,371.58"
+"DETAILS_RECORD", "TOTAL", "", "$16,717.03"

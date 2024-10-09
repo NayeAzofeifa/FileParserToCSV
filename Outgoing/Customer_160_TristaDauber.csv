@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "160", "Trista", "Dauber", "972-706-9565", "Cody", "9 School Point", "Dallas", "TX", "75246", "5602221389595425"
+"DETAILS_RECORD", "Clothing", "S", "$8,450.49"
+"DETAILS_RECORD", "Toys", "S", "$5,976.93"
+"DETAILS_RECORD", "Jewelry", "X", "$2,940.90"
+"DETAILS_RECORD", "TOTAL", "", "$17,368.32"

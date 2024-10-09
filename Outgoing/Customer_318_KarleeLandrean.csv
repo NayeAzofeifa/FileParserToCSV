@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "318", "Karlee", "Landrean", "850-696-1895", "Grayhawk", "4530 Swallow Road", "Pensacola", "FL", "32590", "5392536328922891"
+"DETAILS_RECORD", "Music", "T", "$4,621.26"
+"DETAILS_RECORD", "Computers", "X", "$2,858.68"
+"DETAILS_RECORD", "Toys", "P", "$2,310.59"
+"DETAILS_RECORD", "TOTAL", "", "$9,790.53"

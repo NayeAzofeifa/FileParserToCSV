@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "682", "Claybourne", "Kyne", "318-552-4466", "Cardinal", "4043 Little Fleur Way", "Boston", "MA", "02104", "3569962113106080"
+"DETAILS_RECORD", "Shoes", "S", "$6,935.03"
+"DETAILS_RECORD", "Sports", "T", "$3,456.92"
+"DETAILS_RECORD", "Outdoors", "S", "$9,977.30"
+"DETAILS_RECORD", "TOTAL", "", "$20,369.25"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "354", "Angy", "Boner", "773-494-5209", "Red Cloud", "2 Coolidge Road", "Chicago", "IL", "60641", "374288909984550"
+"DETAILS_RECORD", "Toys", "L", "$1,527.87"
+"DETAILS_RECORD", "Beauty", "L", "$1,645.87"
+"DETAILS_RECORD", "Garden", "T", "$4,362.40"
+"DETAILS_RECORD", "TOTAL", "", "$7,536.14"

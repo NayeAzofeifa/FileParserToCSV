@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "171", "Trueman", "Eminson", "202-366-4619", "Roth", "0644 Mendota Trail", "Washington", "DC", "20046", "3561016885569211"
+"DETAILS_RECORD", "Games", "S", "$8,138.85"
+"DETAILS_RECORD", "Toys", "N", "$52.66"
+"DETAILS_RECORD", "Toys", "S", "$9,675.50"
+"DETAILS_RECORD", "TOTAL", "", "$17,867.01"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "42", "Winne", "Crosse", "772-226-0884", "Hayes", "36218 Lakewood Gardens Road", "Fort Pierce", "FL", "34981", "3578472796369467"
+"DETAILS_RECORD", "Home", "S", "$5,212.76"
+"DETAILS_RECORD", "Shoes", "S", "$7,426.62"
+"DETAILS_RECORD", "Automotive", "S", "$6,506.29"
+"DETAILS_RECORD", "TOTAL", "", "$19,145.67"

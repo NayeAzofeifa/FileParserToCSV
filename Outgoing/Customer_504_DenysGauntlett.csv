@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "504", "Denys", "Gauntlett", "816-890-9346", "Cascade", "420 Scott Alley", "Kansas City", "MO", "64153", "4844002576034449"
+"DETAILS_RECORD", "Books", "P", "$2,315.21"
+"DETAILS_RECORD", "Health", "S", "$5,709.46"
+"DETAILS_RECORD", "Computers", "P", "$2,065.05"
+"DETAILS_RECORD", "TOTAL", "", "$10,089.72"

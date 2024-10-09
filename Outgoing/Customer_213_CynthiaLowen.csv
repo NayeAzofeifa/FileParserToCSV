@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "213", "Cynthia", "Lowen", "314-377-6188", "Hagan", "853 Straubel Point", "Saint Louis", "MO", "63131", "3553496812788573"
+"DETAILS_RECORD", "Clothing", "P", "$2,448.24"
+"DETAILS_RECORD", "Baby", "S", "$9,791.76"
+"DETAILS_RECORD", "Health", "S", "$9,621.39"
+"DETAILS_RECORD", "TOTAL", "", "$21,861.39"

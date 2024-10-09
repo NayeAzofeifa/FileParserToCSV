@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "946", "Beatrice", "Sunnex", "315-922-1241", "Holmberg", "5621 Prairieview Avenue", "Syracuse", "NY", "13224", "3532123158634809"
+"DETAILS_RECORD", "Toys", "S", "$5,574.00"
+"DETAILS_RECORD", "Clothing", "S", "$9,741.28"
+"DETAILS_RECORD", "Books", "S", "$9,834.72"
+"DETAILS_RECORD", "TOTAL", "", "$25,150.00"

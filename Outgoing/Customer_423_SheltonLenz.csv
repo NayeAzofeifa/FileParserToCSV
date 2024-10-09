@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "423", "Shelton", "Lenz", "202-492-9968", "Troy", "69314 Truax Plaza", "Washington", "DC", "20575", "3544019541245988"
+"DETAILS_RECORD", "Electronics", "A", "$873.94"
+"DETAILS_RECORD", "Outdoors", "S", "$6,085.13"
+"DETAILS_RECORD", "Tools", "P", "$2,156.90"
+"DETAILS_RECORD", "TOTAL", "", "$9,115.97"

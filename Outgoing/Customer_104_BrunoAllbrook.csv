@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "104", "Bruno", "Allbrook", "404-107-7392", "Crest Line", "39 Ramsey Trail", "Atlanta", "GA", "31136", "561038160356244318"
+"DETAILS_RECORD", "Books", "S", "$9,832.10"
+"DETAILS_RECORD", "Music", "C", "$1,232.56"
+"DETAILS_RECORD", "Home", "T", "$3,624.91"
+"DETAILS_RECORD", "TOTAL", "", "$14,689.57"

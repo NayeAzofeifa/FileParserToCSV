@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "480", "Papageno", "Haslam", "215-589-0442", "Monument", "19176 Dayton Avenue", "Philadelphia", "PA", "19104", "344574223689596"
+"DETAILS_RECORD", "Health", "T", "$4,154.64"
+"DETAILS_RECORD", "Music", "S", "$5,922.55"
+"DETAILS_RECORD", "Health", "T", "$3,632.04"
+"DETAILS_RECORD", "TOTAL", "", "$13,709.23"

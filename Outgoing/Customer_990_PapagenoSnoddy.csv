@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "990", "Papageno", "Snoddy", "917-460-2316", "Susan", "8066 Lake View Trail", "Jamaica", "NY", "11436", "3541268364958077"
+"DETAILS_RECORD", "Toys", "S", "$7,204.87"
+"DETAILS_RECORD", "Baby", "X", "$2,710.19"
+"DETAILS_RECORD", "Movies", "P", "$2,222.34"
+"DETAILS_RECORD", "TOTAL", "", "$12,137.40"

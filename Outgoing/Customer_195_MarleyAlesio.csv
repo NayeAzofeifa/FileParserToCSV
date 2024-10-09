@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "195", "Marley", "Alesio", "202-912-2417", "Hallows", "18 Superior Trail", "Washington", "DC", "20530", "3568431071095843"
+"DETAILS_RECORD", "Automotive", "T", "$3,598.60"
+"DETAILS_RECORD", "Movies", "L", "$1,739.96"
+"DETAILS_RECORD", "Beauty", "S", "$9,699.08"
+"DETAILS_RECORD", "TOTAL", "", "$15,037.64"

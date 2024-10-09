@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "210", "Ayn", "Izatt", "520-610-7814", "Hermina", "8 Ohio Trail", "Tucson", "AZ", "85710", "6763184120496399"
+"DETAILS_RECORD", "Baby", "A", "$993.68"
+"DETAILS_RECORD", "Health", "C", "$1,346.29"
+"DETAILS_RECORD", "Sports", "S", "$8,585.73"
+"DETAILS_RECORD", "TOTAL", "", "$10,925.70"

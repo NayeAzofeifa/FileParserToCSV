@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "214", "Lorne", "Woofendell", "609-612-3088", "Acker", "0645 School Alley", "Trenton", "NJ", "08650", "4936641481072390733"
+"DETAILS_RECORD", "Jewelry", "N", "$223.71"
+"DETAILS_RECORD", "Baby", "X", "$2,532.83"
+"DETAILS_RECORD", "Baby", "S", "$6,618.75"
+"DETAILS_RECORD", "TOTAL", "", "$9,375.29"

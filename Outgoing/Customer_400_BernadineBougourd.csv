@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "400", "Bernadine", "Bougourd", "205-257-3525", "Elgar", "47 Esker Avenue", "Birmingham", "AL", "35295", "5469496605304297"
+"DETAILS_RECORD", "Electronics", "T", "$3,575.71"
+"DETAILS_RECORD", "Tools", "S", "$6,113.23"
+"DETAILS_RECORD", "Home", "C", "$1,033.92"
+"DETAILS_RECORD", "TOTAL", "", "$10,722.86"

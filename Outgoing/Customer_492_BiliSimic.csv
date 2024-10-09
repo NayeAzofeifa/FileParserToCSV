@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "492", "Bili", "Simic", "830-813-1630", "Florence", "204 Vera Center", "San Antonio", "TX", "78255", "3567749949652813"
+"DETAILS_RECORD", "Electronics", "S", "$5,623.52"
+"DETAILS_RECORD", "Sports", "T", "$3,282.14"
+"DETAILS_RECORD", "Games", "S", "$6,764.85"
+"DETAILS_RECORD", "TOTAL", "", "$15,670.51"

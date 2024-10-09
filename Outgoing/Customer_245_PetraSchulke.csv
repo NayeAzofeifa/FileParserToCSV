@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "245", "Petra", "Schulke", "309-806-1296", "7th", "5 Crest Line Court", "Peoria", "IL", "61605", "3557376351092163"
+"DETAILS_RECORD", "Industrial", "S", "$9,764.47"
+"DETAILS_RECORD", "Baby", "S", "$5,327.02"
+"DETAILS_RECORD", "Outdoors", "A", "$849.38"
+"DETAILS_RECORD", "TOTAL", "", "$15,940.87"

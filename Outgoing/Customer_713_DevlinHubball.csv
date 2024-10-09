@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "713", "Devlin", "Hubball", "361-129-0893", "Graceland", "92 Hansons Lane", "Corpus Christi", "TX", "78405", "4041375038692"
+"DETAILS_RECORD", "Industrial", "S", "$8,483.20"
+"DETAILS_RECORD", "Sports", "A", "$832.17"
+"DETAILS_RECORD", "Movies", "S", "$6,645.63"
+"DETAILS_RECORD", "TOTAL", "", "$15,961.00"

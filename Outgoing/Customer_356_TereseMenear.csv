@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "356", "Terese", "Menear", "215-119-7583", "Crescent Oaks", "2 Arrowood Alley", "Philadelphia", "PA", "19093", "5602220945694028802"
+"DETAILS_RECORD", "Automotive", "S", "$9,092.48"
+"DETAILS_RECORD", "Home", "T", "$4,384.97"
+"DETAILS_RECORD", "Toys", "S", "$9,568.37"
+"DETAILS_RECORD", "TOTAL", "", "$23,045.82"

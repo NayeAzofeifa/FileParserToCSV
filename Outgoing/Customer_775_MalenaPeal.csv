@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "775", "Malena", "Peal", "323-536-7107", "Melby", "74 Scofield Circle", "Los Angeles", "CA", "90076", "5100171030766676"
+"DETAILS_RECORD", "Grocery", "S", "$9,068.63"
+"DETAILS_RECORD", "Games", "T", "$4,445.69"
+"DETAILS_RECORD", "Health", "S", "$5,157.07"
+"DETAILS_RECORD", "TOTAL", "", "$18,671.39"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "655", "Sabrina", "Valerius", "713-612-3278", "Pond", "40085 Farragut Parkway", "Houston", "TX", "77271", "3545802184192586"
+"DETAILS_RECORD", "Beauty", "A", "$923.13"
+"DETAILS_RECORD", "Electronics", "S", "$6,826.43"
+"DETAILS_RECORD", "Garden", "S", "$5,255.63"
+"DETAILS_RECORD", "TOTAL", "", "$13,005.19"

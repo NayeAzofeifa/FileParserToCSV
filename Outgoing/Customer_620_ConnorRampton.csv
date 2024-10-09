@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "620", "Connor", "Rampton", "310-955-2621", "Susan", "412 Carberry Alley", "Garden Grove", "CA", "92844", "30028026052634"
+"DETAILS_RECORD", "Automotive", "S", "$8,631.65"
+"DETAILS_RECORD", "Automotive", "T", "$3,277.82"
+"DETAILS_RECORD", "Tools", "L", "$1,773.46"
+"DETAILS_RECORD", "TOTAL", "", "$13,682.93"

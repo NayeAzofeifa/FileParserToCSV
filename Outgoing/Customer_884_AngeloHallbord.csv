@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "884", "Angelo", "Hallbord", "205-894-8656", "Express", "5 Buell Lane", "Birmingham", "AL", "35263", "3546290654110974"
+"DETAILS_RECORD", "Kids", "S", "$7,858.63"
+"DETAILS_RECORD", "Grocery", "S", "$7,624.64"
+"DETAILS_RECORD", "Electronics", "S", "$6,420.50"
+"DETAILS_RECORD", "TOTAL", "", "$21,903.77"

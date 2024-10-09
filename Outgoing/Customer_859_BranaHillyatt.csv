@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "859", "Brana", "Hillyatt", "513-713-8576", "Blackbird", "0 Lotheville Lane", "Cincinnati", "OH", "45243", "3531375649956297"
+"DETAILS_RECORD", "Beauty", "S", "$8,992.98"
+"DETAILS_RECORD", "Home", "S", "$7,479.71"
+"DETAILS_RECORD", "Music", "N", "$220.95"
+"DETAILS_RECORD", "TOTAL", "", "$16,693.64"

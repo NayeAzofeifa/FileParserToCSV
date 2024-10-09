@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "698", "Wakefield", "Dougal", "321-908-7934", "Arkansas", "5 Dryden Place", "Melbourne", "FL", "32941", "3586804599171189"
+"DETAILS_RECORD", "Industrial", "S", "$7,728.94"
+"DETAILS_RECORD", "Jewelry", "S", "$6,960.44"
+"DETAILS_RECORD", "Home", "P", "$2,320.74"
+"DETAILS_RECORD", "TOTAL", "", "$17,010.12"

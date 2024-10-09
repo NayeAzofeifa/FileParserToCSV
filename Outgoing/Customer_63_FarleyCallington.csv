@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "63", "Farley", "Callington", "714-163-8682", "Hazelcrest", "16 Monica Place", "Garden Grove", "CA", "92645", "5160023600124173"
+"DETAILS_RECORD", "Toys", "S", "$7,107.74"
+"DETAILS_RECORD", "Computers", "S", "$8,219.47"
+"DETAILS_RECORD", "Shoes", "X", "$2,894.83"
+"DETAILS_RECORD", "TOTAL", "", "$18,222.04"

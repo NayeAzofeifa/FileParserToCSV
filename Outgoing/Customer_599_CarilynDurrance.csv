@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "599", "Carilyn", "Durrance", "706-659-2640", "Barnett", "73 Westend Hill", "Athens", "GA", "30605", "6380293849437429"
+"DETAILS_RECORD", "Home", "S", "$9,784.58"
+"DETAILS_RECORD", "Movies", "S", "$9,179.57"
+"DETAILS_RECORD", "Music", "S", "$5,869.71"
+"DETAILS_RECORD", "TOTAL", "", "$24,833.86"

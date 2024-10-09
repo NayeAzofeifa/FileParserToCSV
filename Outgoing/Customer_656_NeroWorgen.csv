@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "656", "Nero", "Worgen", "407-947-1875", "Annamark", "51 Buell Terrace", "Orlando", "FL", "32859", "5602255578934631"
+"DETAILS_RECORD", "Jewelry", "S", "$5,518.43"
+"DETAILS_RECORD", "Baby", "S", "$5,197.21"
+"DETAILS_RECORD", "Beauty", "P", "$2,132.24"
+"DETAILS_RECORD", "TOTAL", "", "$12,847.88"

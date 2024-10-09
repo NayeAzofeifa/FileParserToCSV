@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "494", "Buiron", "Cleiment", "281-917-3446", "Sage", "6823 Oak Valley Way", "Humble", "TX", "77346", "560222087113272365"
+"DETAILS_RECORD", "Home", "S", "$7,412.61"
+"DETAILS_RECORD", "Outdoors", "T", "$3,011.30"
+"DETAILS_RECORD", "Movies", "S", "$7,194.50"
+"DETAILS_RECORD", "TOTAL", "", "$17,618.41"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "766", "Lonnard", "Wingatt", "323-674-0792", "Green", "9 Dottie Junction", "Glendale", "CA", "91205", "30140031376575"
+"DETAILS_RECORD", "Jewelry", "A", "$767.58"
+"DETAILS_RECORD", "Health", "S", "$8,768.64"
+"DETAILS_RECORD", "Sports", "S", "$9,964.94"
+"DETAILS_RECORD", "TOTAL", "", "$19,501.16"

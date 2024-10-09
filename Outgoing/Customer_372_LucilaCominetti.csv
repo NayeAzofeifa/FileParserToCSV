@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "372", "Lucila", "Cominetti", "225-150-4820", "Forest", "349 Blaine Hill", "Baton Rouge", "LA", "70805", "4405559068568037"
+"DETAILS_RECORD", "Sports", "T", "$4,073.17"
+"DETAILS_RECORD", "Movies", "T", "$4,675.63"
+"DETAILS_RECORD", "Sports", "S", "$5,445.62"
+"DETAILS_RECORD", "TOTAL", "", "$14,194.42"

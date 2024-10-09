@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "366", "Sandy", "Hamper", "410-904-7612", "4th", "64 Amoth Circle", "Baltimore", "MD", "21282", "5602237336682868"
+"DETAILS_RECORD", "Beauty", "S", "$8,893.77"
+"DETAILS_RECORD", "Kids", "A", "$658.78"
+"DETAILS_RECORD", "Garden", "S", "$7,014.81"
+"DETAILS_RECORD", "TOTAL", "", "$16,567.36"

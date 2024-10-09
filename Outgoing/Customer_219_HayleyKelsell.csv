@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "219", "Hayley", "Kelsell", "202-163-0421", "Summer Ridge", "5 Schurz Road", "Washington", "DC", "20073", "3539955154723927"
+"DETAILS_RECORD", "Shoes", "T", "$4,726.75"
+"DETAILS_RECORD", "Automotive", "T", "$3,662.36"
+"DETAILS_RECORD", "Kids", "L", "$1,536.51"
+"DETAILS_RECORD", "TOTAL", "", "$9,925.62"

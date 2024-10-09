@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "399", "Curt", "D'Angeli", "651-399-5932", "Kensington", "42397 Stuart Terrace", "Minneapolis", "MN", "55417", "3559625842013792"
+"DETAILS_RECORD", "Music", "T", "$3,366.49"
+"DETAILS_RECORD", "Baby", "X", "$2,695.66"
+"DETAILS_RECORD", "Kids", "T", "$4,302.53"
+"DETAILS_RECORD", "TOTAL", "", "$10,364.68"

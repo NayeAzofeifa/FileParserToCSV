@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "388", "Cameron", "MacPhee", "781-161-5638", "Schlimgen", "661 Brentwood Lane", "Boston", "MA", "02114", "4041593862477"
+"DETAILS_RECORD", "Tools", "S", "$7,223.46"
+"DETAILS_RECORD", "Automotive", "S", "$9,245.10"
+"DETAILS_RECORD", "Grocery", "S", "$9,593.16"
+"DETAILS_RECORD", "TOTAL", "", "$26,061.72"

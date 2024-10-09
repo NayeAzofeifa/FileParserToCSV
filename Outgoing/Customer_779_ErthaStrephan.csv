@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "779", "Ertha", "Strephan", "260-343-4178", "Merrick", "95418 Ludington Trail", "Fort Wayne", "IN", "46805", "3542237641766966"
+"DETAILS_RECORD", "Beauty", "S", "$9,621.80"
+"DETAILS_RECORD", "Home", "S", "$5,030.41"
+"DETAILS_RECORD", "Outdoors", "L", "$1,826.37"
+"DETAILS_RECORD", "TOTAL", "", "$16,478.58"

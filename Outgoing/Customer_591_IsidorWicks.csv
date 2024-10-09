@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "591", "Isidor", "Wicks", "713-976-2255", "Grasskamp", "15 Toban Point", "Houston", "TX", "77035", "5610461747703761022"
+"DETAILS_RECORD", "Games", "S", "$6,751.74"
+"DETAILS_RECORD", "Automotive", "S", "$8,729.02"
+"DETAILS_RECORD", "Kids", "C", "$1,268.92"
+"DETAILS_RECORD", "TOTAL", "", "$16,749.68"

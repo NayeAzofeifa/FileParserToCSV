@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "647", "Emlynn", "Jenkerson", "419-351-1801", "Manitowish", "16158 Aberg Park", "Mansfield", "OH", "44905", "3552719418860756"
+"DETAILS_RECORD", "Shoes", "P", "$2,469.95"
+"DETAILS_RECORD", "Music", "S", "$8,954.94"
+"DETAILS_RECORD", "Health", "S", "$5,118.17"
+"DETAILS_RECORD", "TOTAL", "", "$16,543.06"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "405", "Pauletta", "Constantine", "408-229-3441", "Continental", "704 Anzinger Trail", "San Jose", "CA", "95194", "4175007183660386"
+"DETAILS_RECORD", "Home", "T", "$4,494.30"
+"DETAILS_RECORD", "Books", "C", "$1,279.06"
+"DETAILS_RECORD", "Kids", "S", "$6,632.90"
+"DETAILS_RECORD", "TOTAL", "", "$12,406.26"

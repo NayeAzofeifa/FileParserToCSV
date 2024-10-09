@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "330", "Malanie", "Atkinson", "720-398-9273", "Hintze", "03 Oakridge Plaza", "Littleton", "CO", "80161", "3577683584947337"
+"DETAILS_RECORD", "Grocery", "S", "$5,414.28"
+"DETAILS_RECORD", "Industrial", "A", "$528.46"
+"DETAILS_RECORD", "Jewelry", "L", "$1,790.19"
+"DETAILS_RECORD", "TOTAL", "", "$7,732.93"

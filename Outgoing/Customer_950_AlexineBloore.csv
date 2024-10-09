@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "950", "Alexine", "Bloore", "517-225-6758", "Fieldstone", "28045 Hudson Circle", "Lansing", "MI", "48919", "3566009465982495"
+"DETAILS_RECORD", "Clothing", "S", "$8,493.34"
+"DETAILS_RECORD", "Movies", "S", "$7,295.20"
+"DETAILS_RECORD", "Games", "S", "$6,214.98"
+"DETAILS_RECORD", "TOTAL", "", "$22,003.52"

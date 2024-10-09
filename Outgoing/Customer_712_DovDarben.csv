@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "712", "Dov", "Darben", "210-260-2216", "Anniversary", "4166 1st Circle", "San Antonio", "TX", "78205", "4041371829104239"
+"DETAILS_RECORD", "Electronics", "S", "$6,032.16"
+"DETAILS_RECORD", "Music", "T", "$4,893.23"
+"DETAILS_RECORD", "Garden", "C", "$1,369.13"
+"DETAILS_RECORD", "TOTAL", "", "$12,294.52"

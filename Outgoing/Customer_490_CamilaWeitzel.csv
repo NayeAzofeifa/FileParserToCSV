@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "490", "Camila", "Weitzel", "718-657-2160", "Corry", "834 Charing Cross Park", "Jamaica", "NY", "11447", "201705663211937"
+"DETAILS_RECORD", "Games", "T", "$4,150.68"
+"DETAILS_RECORD", "Shoes", "T", "$4,875.75"
+"DETAILS_RECORD", "Baby", "S", "$9,390.85"
+"DETAILS_RECORD", "TOTAL", "", "$18,417.28"

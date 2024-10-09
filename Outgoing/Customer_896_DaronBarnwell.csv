@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "896", "Daron", "Barnwell", "630-636-4237", "Waywood", "21 Saint Paul Place", "Naperville", "IL", "60567", "3567553678904506"
+"DETAILS_RECORD", "Jewelry", "S", "$8,242.40"
+"DETAILS_RECORD", "Games", "S", "$5,221.47"
+"DETAILS_RECORD", "Grocery", "N", "$3.98"
+"DETAILS_RECORD", "TOTAL", "", "$13,467.85"

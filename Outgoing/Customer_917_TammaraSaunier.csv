@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "917", "Tammara", "Saunier", "786-435-1759", "Clarendon", "67846 Burning Wood Lane", "Miami", "FL", "33134", "3560391651112103"
+"DETAILS_RECORD", "Industrial", "S", "$7,283.40"
+"DETAILS_RECORD", "Home", "S", "$9,648.46"
+"DETAILS_RECORD", "Movies", "X", "$2,930.11"
+"DETAILS_RECORD", "TOTAL", "", "$19,861.97"

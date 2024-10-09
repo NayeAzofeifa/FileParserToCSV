@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "136", "Kristoffer", "Jago", "360-760-0519", "American Ash", "487 Doe Crossing Circle", "Seattle", "WA", "98104", "6390147444320398"
+"DETAILS_RECORD", "Outdoors", "T", "$3,855.82"
+"DETAILS_RECORD", "Music", "S", "$8,900.48"
+"DETAILS_RECORD", "Tools", "N", "$43.08"
+"DETAILS_RECORD", "TOTAL", "", "$12,799.38"

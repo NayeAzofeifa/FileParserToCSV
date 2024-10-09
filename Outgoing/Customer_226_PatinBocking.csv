@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "226", "Patin", "Bocking", "505-653-2800", "Hoffman", "24 Sunbrook Park", "Santa Fe", "NM", "87505", "4041371222050"
+"DETAILS_RECORD", "Sports", "T", "$3,462.15"
+"DETAILS_RECORD", "Books", "L", "$1,592.36"
+"DETAILS_RECORD", "Sports", "N", "$2.09"
+"DETAILS_RECORD", "TOTAL", "", "$5,056.60"

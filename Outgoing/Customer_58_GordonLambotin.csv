@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "58", "Gordon", "Lambotin", "203-548-5424", "Melvin", "9 Anhalt Street", "New Haven", "CT", "06520", "06045644460585770"
+"DETAILS_RECORD", "Movies", "A", "$550.03"
+"DETAILS_RECORD", "Grocery", "S", "$6,126.92"
+"DETAILS_RECORD", "Clothing", "C", "$1,190.92"
+"DETAILS_RECORD", "TOTAL", "", "$7,867.87"

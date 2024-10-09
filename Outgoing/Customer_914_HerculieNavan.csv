@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "914", "Herculie", "Navan", "817-399-8625", "Sutteridge", "72976 Eliot Terrace", "Fort Worth", "TX", "76121", "5108752901926432"
+"DETAILS_RECORD", "Music", "P", "$2,498.40"
+"DETAILS_RECORD", "Sports", "S", "$9,026.52"
+"DETAILS_RECORD", "Industrial", "X", "$2,948.03"
+"DETAILS_RECORD", "TOTAL", "", "$14,472.95"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "872", "Katina", "Domelow", "915-592-4574", "Colorado", "771 Dexter Crossing", "El Paso", "TX", "79999", "3568698302151013"
+"DETAILS_RECORD", "Outdoors", "S", "$6,517.35"
+"DETAILS_RECORD", "Toys", "S", "$7,409.76"
+"DETAILS_RECORD", "Beauty", "S", "$7,013.20"
+"DETAILS_RECORD", "TOTAL", "", "$20,940.31"

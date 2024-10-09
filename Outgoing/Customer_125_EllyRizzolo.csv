@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "125", "Elly", "Rizzolo", "210-537-6436", "Orin", "18203 Spaight Parkway", "San Antonio", "TX", "78230", "5455301365488064"
+"DETAILS_RECORD", "Movies", "T", "$3,294.45"
+"DETAILS_RECORD", "Electronics", "S", "$8,150.74"
+"DETAILS_RECORD", "Jewelry", "S", "$6,967.42"
+"DETAILS_RECORD", "TOTAL", "", "$18,412.61"

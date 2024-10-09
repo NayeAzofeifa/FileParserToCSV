@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "516", "Tori", "Klezmski", "907-973-8947", "Sauthoff", "59351 Stone Corner Circle", "Anchorage", "AK", "99599", "3579711469458795"
+"DETAILS_RECORD", "Automotive", "S", "$6,899.71"
+"DETAILS_RECORD", "Toys", "T", "$3,882.77"
+"DETAILS_RECORD", "Beauty", "S", "$6,634.77"
+"DETAILS_RECORD", "TOTAL", "", "$17,417.25"

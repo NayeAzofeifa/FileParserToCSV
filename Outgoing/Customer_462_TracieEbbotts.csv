@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "462", "Tracie", "Ebbotts", "813-578-7054", "Magdeline", "5 Holy Cross Center", "Tampa", "FL", "33620", "4911479758153007"
+"DETAILS_RECORD", "Toys", "N", "$389.06"
+"DETAILS_RECORD", "Music", "S", "$5,961.00"
+"DETAILS_RECORD", "Industrial", "N", "$198.27"
+"DETAILS_RECORD", "TOTAL", "", "$6,548.33"

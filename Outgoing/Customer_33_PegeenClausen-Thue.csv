@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "33", "Pegeen", "Clausen-Thue", "941-292-5592", "Blaine", "9728 Lukken Junction", "North Port", "FL", "34290", "4903779582978270327"
+"DETAILS_RECORD", "Clothing", "N", "$3.06"
+"DETAILS_RECORD", "Shoes", "S", "$5,684.33"
+"DETAILS_RECORD", "Music", "S", "$6,306.54"
+"DETAILS_RECORD", "TOTAL", "", "$11,993.93"

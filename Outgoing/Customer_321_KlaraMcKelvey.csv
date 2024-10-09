@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "321", "Klara", "McKelvey", "816-931-2174", "Northland", "24774 Kedzie Place", "Kansas City", "MO", "64153", "3565577146463060"
+"DETAILS_RECORD", "Grocery", "S", "$7,648.04"
+"DETAILS_RECORD", "Industrial", "A", "$992.57"
+"DETAILS_RECORD", "Movies", "T", "$3,183.56"
+"DETAILS_RECORD", "TOTAL", "", "$11,824.17"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "289", "Graehme", "Leaney", "716-270-8888", "Debra", "77 Arrowood Road", "Buffalo", "NY", "14225", "5108754663678318"
+"DETAILS_RECORD", "Clothing", "S", "$7,030.14"
+"DETAILS_RECORD", "Industrial", "N", "$390.06"
+"DETAILS_RECORD", "Books", "S", "$5,669.30"
+"DETAILS_RECORD", "TOTAL", "", "$13,089.50"

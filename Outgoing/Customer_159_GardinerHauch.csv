@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "159", "Gardiner", "Hauch", "618-229-1986", "Bashford", "450 Grasskamp Plaza", "East Saint Louis", "IL", "62205", "6384931526909469"
+"DETAILS_RECORD", "Books", "S", "$7,777.26"
+"DETAILS_RECORD", "Electronics", "S", "$7,781.54"
+"DETAILS_RECORD", "Outdoors", "S", "$6,962.72"
+"DETAILS_RECORD", "TOTAL", "", "$22,521.52"

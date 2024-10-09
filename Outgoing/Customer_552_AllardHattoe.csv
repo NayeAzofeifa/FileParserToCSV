@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "552", "Allard", "Hattoe", "202-667-8937", "Esker", "781 Toban Court", "Washington", "DC", "20575", "3538405894980917"
+"DETAILS_RECORD", "Home", "S", "$6,711.84"
+"DETAILS_RECORD", "Industrial", "P", "$2,088.62"
+"DETAILS_RECORD", "Jewelry", "S", "$8,356.48"
+"DETAILS_RECORD", "TOTAL", "", "$17,156.94"

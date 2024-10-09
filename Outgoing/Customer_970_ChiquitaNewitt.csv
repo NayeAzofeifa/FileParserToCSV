@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "970", "Chiquita", "Newitt", "915-952-1528", "Westerfield", "5 Burning Wood Place", "El Paso", "TX", "88569", "4913552305015081"
+"DETAILS_RECORD", "Health", "S", "$7,071.99"
+"DETAILS_RECORD", "Grocery", "X", "$2,831.00"
+"DETAILS_RECORD", "Sports", "S", "$5,935.42"
+"DETAILS_RECORD", "TOTAL", "", "$15,838.41"

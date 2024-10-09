@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "427", "Xylina", "Bruyet", "313-158-8004", "Pearson", "49343 Rockefeller Parkway", "Detroit", "MI", "48211", "5602237568038243"
+"DETAILS_RECORD", "Grocery", "P", "$2,046.85"
+"DETAILS_RECORD", "Beauty", "T", "$3,711.40"
+"DETAILS_RECORD", "Clothing", "S", "$7,655.54"
+"DETAILS_RECORD", "TOTAL", "", "$13,413.79"

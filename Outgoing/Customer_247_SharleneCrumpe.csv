@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "247", "Sharlene", "Crumpe", "626-621-0692", "Mcbride", "45 Rusk Place", "Pasadena", "CA", "91186", "3532285327003966"
+"DETAILS_RECORD", "Books", "S", "$6,781.39"
+"DETAILS_RECORD", "Grocery", "T", "$4,828.43"
+"DETAILS_RECORD", "Electronics", "T", "$3,145.37"
+"DETAILS_RECORD", "TOTAL", "", "$14,755.19"

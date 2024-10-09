@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "835", "Kally", "Bolderstone", "720-723-6501", "Kropf", "92 1st Way", "Denver", "CO", "80204", "6385626055553287"
+"DETAILS_RECORD", "Computers", "S", "$9,631.08"
+"DETAILS_RECORD", "Garden", "T", "$3,464.77"
+"DETAILS_RECORD", "Health", "N", "$183.04"
+"DETAILS_RECORD", "TOTAL", "", "$13,278.89"

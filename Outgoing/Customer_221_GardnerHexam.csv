@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "221", "Gardner", "Hexam", "818-648-2010", "Golf Course", "6356 Express Avenue", "Glendale", "CA", "91210", "3580611677898666"
+"DETAILS_RECORD", "Beauty", "T", "$4,620.95"
+"DETAILS_RECORD", "Jewelry", "S", "$8,946.68"
+"DETAILS_RECORD", "Garden", "P", "$2,483.19"
+"DETAILS_RECORD", "TOTAL", "", "$16,050.82"

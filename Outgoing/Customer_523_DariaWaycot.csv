@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "523", "Daria", "Waycot", "305-421-4167", "Lakewood Gardens", "5461 New Castle Way", "Naples", "FL", "33961", "5576880554557833"
+"DETAILS_RECORD", "Toys", "X", "$2,775.71"
+"DETAILS_RECORD", "Movies", "L", "$1,587.52"
+"DETAILS_RECORD", "Kids", "T", "$3,834.35"
+"DETAILS_RECORD", "TOTAL", "", "$8,197.58"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "765", "Gibbie", "Benterman", "682-407-3268", "Sauthoff", "48 Glendale Parkway", "Fort Worth", "TX", "76198", "374622012714258"
+"DETAILS_RECORD", "Beauty", "P", "$2,019.07"
+"DETAILS_RECORD", "Shoes", "T", "$3,229.85"
+"DETAILS_RECORD", "Home", "N", "$105.89"
+"DETAILS_RECORD", "TOTAL", "", "$5,354.81"

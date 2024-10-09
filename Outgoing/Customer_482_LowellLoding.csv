@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "482", "Lowell", "Loding", "801-984-4315", "Milwaukee", "228 Mockingbird Way", "Provo", "UT", "84605", "3579296547281260"
+"DETAILS_RECORD", "Toys", "C", "$1,184.99"
+"DETAILS_RECORD", "Toys", "S", "$9,712.51"
+"DETAILS_RECORD", "Computers", "S", "$6,236.34"
+"DETAILS_RECORD", "TOTAL", "", "$17,133.84"

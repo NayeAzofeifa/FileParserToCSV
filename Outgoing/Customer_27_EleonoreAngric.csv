@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "27", "Eleonore", "Angric", "916-947-6553", "Forest", "41 Clyde Gallagher Parkway", "Sacramento", "CA", "94297", "3575162535667635"
+"DETAILS_RECORD", "Jewelry", "S", "$7,539.46"
+"DETAILS_RECORD", "Jewelry", "X", "$2,838.01"
+"DETAILS_RECORD", "Toys", "S", "$7,352.19"
+"DETAILS_RECORD", "TOTAL", "", "$17,729.66"

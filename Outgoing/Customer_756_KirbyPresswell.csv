@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "756", "Kirby", "Presswell", "520-208-4699", "Sachtjen", "6613 Cordelia Alley", "Tucson", "AZ", "85754", "6759908046669213580"
+"DETAILS_RECORD", "Music", "X", "$2,978.71"
+"DETAILS_RECORD", "Toys", "S", "$7,450.24"
+"DETAILS_RECORD", "Games", "S", "$5,864.13"
+"DETAILS_RECORD", "TOTAL", "", "$16,293.08"

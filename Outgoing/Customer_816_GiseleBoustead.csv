@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "816", "Gisele", "Boustead", "205-234-6076", "Stuart", "0524 Manufacturers Alley", "Tuscaloosa", "AL", "35405", "3586213759573053"
+"DETAILS_RECORD", "Shoes", "T", "$4,386.02"
+"DETAILS_RECORD", "Electronics", "S", "$9,441.80"
+"DETAILS_RECORD", "Garden", "S", "$5,790.39"
+"DETAILS_RECORD", "TOTAL", "", "$19,618.21"

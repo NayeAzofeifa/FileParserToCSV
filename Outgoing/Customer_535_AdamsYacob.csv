@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "535", "Adams", "Yacob", "253-347-5946", "Village Green", "9955 Stang Hill", "Olympia", "WA", "98516", "6399157465764813"
+"DETAILS_RECORD", "Shoes", "N", "$102.71"
+"DETAILS_RECORD", "Computers", "T", "$3,881.14"
+"DETAILS_RECORD", "Garden", "S", "$9,756.88"
+"DETAILS_RECORD", "TOTAL", "", "$13,740.73"

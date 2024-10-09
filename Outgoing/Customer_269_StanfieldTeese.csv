@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "269", "Stanfield", "Teese", "215-580-2924", "Gale", "6040 Transport Junction", "Philadelphia", "PA", "19093", "5002355017791786"
+"DETAILS_RECORD", "Music", "S", "$9,682.31"
+"DETAILS_RECORD", "Grocery", "P", "$2,109.24"
+"DETAILS_RECORD", "Toys", "X", "$2,839.60"
+"DETAILS_RECORD", "TOTAL", "", "$14,631.15"

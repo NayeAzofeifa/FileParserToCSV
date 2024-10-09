@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "740", "Padgett", "Mayo", "786-499-9335", "Warner", "58963 Green Ridge Way", "Miami", "FL", "33180", "630472489577728718"
+"DETAILS_RECORD", "Clothing", "S", "$9,166.27"
+"DETAILS_RECORD", "Outdoors", "S", "$7,235.07"
+"DETAILS_RECORD", "Beauty", "L", "$1,506.58"
+"DETAILS_RECORD", "TOTAL", "", "$17,907.92"

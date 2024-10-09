@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "809", "Maryjane", "McLaverty", "720-619-2149", "Waxwing", "471 Nancy Park", "Denver", "CO", "80235", "3559045160601427"
+"DETAILS_RECORD", "Games", "T", "$3,183.08"
+"DETAILS_RECORD", "Computers", "S", "$9,595.20"
+"DETAILS_RECORD", "Toys", "T", "$3,677.21"
+"DETAILS_RECORD", "TOTAL", "", "$16,455.49"

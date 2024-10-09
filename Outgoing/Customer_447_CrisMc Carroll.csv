@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "447", "Cris", "Mc Carroll", "916-647-2602", "Sherman", "80829 Tennessee Trail", "Sacramento", "CA", "95828", "3577313837887128"
+"DETAILS_RECORD", "Automotive", "S", "$6,166.26"
+"DETAILS_RECORD", "Baby", "C", "$1,228.10"
+"DETAILS_RECORD", "Toys", "N", "$344.85"
+"DETAILS_RECORD", "TOTAL", "", "$7,739.21"

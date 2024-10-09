@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "186", "Lindsay", "Barlass", "615-791-3570", "Forest Dale", "06709 Forest Run Court", "Nashville", "TN", "37205", "3532030790267494"
+"DETAILS_RECORD", "Automotive", "S", "$7,572.64"
+"DETAILS_RECORD", "Music", "T", "$3,482.01"
+"DETAILS_RECORD", "Sports", "T", "$4,547.17"
+"DETAILS_RECORD", "TOTAL", "", "$15,601.82"

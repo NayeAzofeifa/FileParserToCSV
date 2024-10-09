@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "167", "Celisse", "Hassall", "202-508-2674", "Bay", "5 Superior Alley", "Washington", "DC", "20580", "3528739002467652"
+"DETAILS_RECORD", "Sports", "S", "$5,684.05"
+"DETAILS_RECORD", "Games", "L", "$1,667.80"
+"DETAILS_RECORD", "Games", "S", "$8,306.86"
+"DETAILS_RECORD", "TOTAL", "", "$15,658.71"

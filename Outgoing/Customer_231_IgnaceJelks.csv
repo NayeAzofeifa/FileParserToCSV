@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "231", "Ignace", "Jelks", "601-870-7878", "Dawn", "82 Dapin Street", "Hattiesburg", "MS", "39404", "3532346370612648"
+"DETAILS_RECORD", "Outdoors", "S", "$6,346.80"
+"DETAILS_RECORD", "Books", "S", "$8,552.47"
+"DETAILS_RECORD", "Health", "X", "$2,597.15"
+"DETAILS_RECORD", "TOTAL", "", "$17,496.42"

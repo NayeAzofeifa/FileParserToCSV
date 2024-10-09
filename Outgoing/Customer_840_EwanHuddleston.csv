@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "840", "Ewan", "Huddleston", "212-226-0137", "Lillian", "089 Red Cloud Plaza", "New York City", "NY", "10150", "3545918591776371"
+"DETAILS_RECORD", "Clothing", "T", "$3,552.44"
+"DETAILS_RECORD", "Computers", "T", "$3,329.43"
+"DETAILS_RECORD", "Games", "T", "$3,968.64"
+"DETAILS_RECORD", "TOTAL", "", "$10,850.51"

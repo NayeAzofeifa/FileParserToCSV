@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "340", "Florry", "Schruur", "614-769-9742", "Algoma", "98 Hermina Road", "Columbus", "OH", "43215", "3551690456768998"
+"DETAILS_RECORD", "Games", "T", "$4,886.42"
+"DETAILS_RECORD", "Home", "S", "$7,957.71"
+"DETAILS_RECORD", "Music", "S", "$9,701.71"
+"DETAILS_RECORD", "TOTAL", "", "$22,545.84"

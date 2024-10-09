@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "689", "Carter", "Grigoryev", "214-587-9847", "Jenifer", "31 Dexter Lane", "Dallas", "TX", "75342", "3567251228501654"
+"DETAILS_RECORD", "Music", "S", "$5,702.41"
+"DETAILS_RECORD", "Sports", "L", "$1,766.16"
+"DETAILS_RECORD", "Garden", "P", "$2,236.94"
+"DETAILS_RECORD", "TOTAL", "", "$9,705.51"

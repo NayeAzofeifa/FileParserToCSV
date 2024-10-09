@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "578", "Evelin", "Bowick", "602-292-7683", "Jenifer", "18 Debs Road", "Phoenix", "AZ", "85072", "502026099616077571"
+"DETAILS_RECORD", "Industrial", "N", "$470.86"
+"DETAILS_RECORD", "Sports", "S", "$6,180.64"
+"DETAILS_RECORD", "Garden", "S", "$5,115.35"
+"DETAILS_RECORD", "TOTAL", "", "$11,766.85"

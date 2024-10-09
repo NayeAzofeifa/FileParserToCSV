@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "481", "Magda", "Sagrott", "916-347-9103", "Charing Cross", "88945 Raven Trail", "Sacramento", "CA", "94263", "5602229931393921944"
+"DETAILS_RECORD", "Shoes", "X", "$2,575.86"
+"DETAILS_RECORD", "Music", "S", "$8,227.72"
+"DETAILS_RECORD", "Sports", "S", "$7,508.84"
+"DETAILS_RECORD", "TOTAL", "", "$18,312.42"

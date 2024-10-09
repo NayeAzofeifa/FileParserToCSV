@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "285", "Alexina", "Minihane", "215-642-9263", "Green Ridge", "0 Scofield Drive", "Philadelphia", "PA", "19191", "3588427971371330"
+"DETAILS_RECORD", "Industrial", "S", "$6,172.34"
+"DETAILS_RECORD", "Grocery", "S", "$9,343.68"
+"DETAILS_RECORD", "Baby", "S", "$6,187.25"
+"DETAILS_RECORD", "TOTAL", "", "$21,703.27"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "715", "Dilly", "McFeate", "248-376-6555", "Bartillon", "8 Raven Court", "Troy", "MI", "48098", "3558264712439761"
+"DETAILS_RECORD", "Grocery", "S", "$8,599.06"
+"DETAILS_RECORD", "Grocery", "S", "$6,092.44"
+"DETAILS_RECORD", "Music", "L", "$1,583.12"
+"DETAILS_RECORD", "TOTAL", "", "$16,274.62"

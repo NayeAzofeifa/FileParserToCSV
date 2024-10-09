@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "487", "Kelley", "Carlisso", "203-296-1094", "Sommers", "9 Northridge Avenue", "New Haven", "CT", "06510", "502086811675875266"
+"DETAILS_RECORD", "Garden", "T", "$4,468.33"
+"DETAILS_RECORD", "Grocery", "L", "$1,984.56"
+"DETAILS_RECORD", "Music", "S", "$9,626.13"
+"DETAILS_RECORD", "TOTAL", "", "$16,079.02"

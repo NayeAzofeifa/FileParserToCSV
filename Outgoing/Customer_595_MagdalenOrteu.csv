@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "595", "Magdalen", "Orteu", "949-835-7685", "Hanson", "0 Waywood Terrace", "Anaheim", "CA", "92805", "5109413837513864"
+"DETAILS_RECORD", "Home", "N", "$113.36"
+"DETAILS_RECORD", "Automotive", "N", "$73.15"
+"DETAILS_RECORD", "Electronics", "S", "$6,852.51"
+"DETAILS_RECORD", "TOTAL", "", "$7,039.02"

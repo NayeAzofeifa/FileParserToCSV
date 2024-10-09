@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "8", "Erny", "Juniper", "503-583-0247", "Mallard", "074 Prentice Lane", "Portland", "OR", "97286", "3550075430292243"
+"DETAILS_RECORD", "Sports", "T", "$4,770.08"
+"DETAILS_RECORD", "Clothing", "S", "$9,902.11"
+"DETAILS_RECORD", "Kids", "L", "$1,709.42"
+"DETAILS_RECORD", "TOTAL", "", "$16,381.61"

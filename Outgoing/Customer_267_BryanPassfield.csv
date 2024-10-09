@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "267", "Bryan", "Passfield", "770-169-1561", "Vera", "496 Heath Parkway", "Marietta", "GA", "30061", "5602258786884135"
+"DETAILS_RECORD", "Tools", "C", "$1,317.99"
+"DETAILS_RECORD", "Grocery", "S", "$8,900.62"
+"DETAILS_RECORD", "Grocery", "T", "$3,853.16"
+"DETAILS_RECORD", "TOTAL", "", "$14,071.77"

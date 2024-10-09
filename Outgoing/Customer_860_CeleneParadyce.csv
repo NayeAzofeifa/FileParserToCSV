@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "860", "Celene", "Paradyce", "330-448-2118", "Elgar", "15827 Caliangt Drive", "Akron", "OH", "44310", "30064511598914"
+"DETAILS_RECORD", "Home", "S", "$8,469.28"
+"DETAILS_RECORD", "Industrial", "T", "$3,158.35"
+"DETAILS_RECORD", "Shoes", "P", "$2,230.04"
+"DETAILS_RECORD", "TOTAL", "", "$13,857.67"

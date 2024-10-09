@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "387", "Jannel", "Sculpher", "401-665-0272", "Farwell", "96 Haas Way", "Providence", "RI", "02912", "5602224070618772603"
+"DETAILS_RECORD", "Toys", "S", "$6,494.95"
+"DETAILS_RECORD", "Automotive", "S", "$6,467.09"
+"DETAILS_RECORD", "Games", "S", "$5,022.14"
+"DETAILS_RECORD", "TOTAL", "", "$17,984.18"

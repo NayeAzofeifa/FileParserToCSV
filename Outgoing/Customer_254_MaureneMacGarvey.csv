@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "254", "Maurene", "MacGarvey", "706-107-0406", "Bunker Hill", "0 Dottie Parkway", "Augusta", "GA", "30911", "3580753991359577"
+"DETAILS_RECORD", "Beauty", "T", "$3,830.05"
+"DETAILS_RECORD", "Industrial", "S", "$5,500.31"
+"DETAILS_RECORD", "Home", "S", "$5,162.32"
+"DETAILS_RECORD", "TOTAL", "", "$14,492.68"

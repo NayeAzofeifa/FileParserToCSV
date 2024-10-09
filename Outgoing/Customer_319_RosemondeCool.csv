@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "319", "Rosemonde", "Cool", "212-735-0235", "Waywood", "7404 Armistice Terrace", "New York City", "NY", "10045", "3545875805375657"
+"DETAILS_RECORD", "Shoes", "T", "$4,691.18"
+"DETAILS_RECORD", "Garden", "S", "$7,706.08"
+"DETAILS_RECORD", "Outdoors", "N", "$183.41"
+"DETAILS_RECORD", "TOTAL", "", "$12,580.67"

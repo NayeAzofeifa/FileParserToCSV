@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "730", "Minor", "Vasin", "202-960-5233", "Swallow", "87 David Road", "Washington", "DC", "20073", "3538411399473416"
+"DETAILS_RECORD", "Outdoors", "L", "$1,522.11"
+"DETAILS_RECORD", "Kids", "P", "$2,351.71"
+"DETAILS_RECORD", "Books", "S", "$9,494.18"
+"DETAILS_RECORD", "TOTAL", "", "$13,368.00"

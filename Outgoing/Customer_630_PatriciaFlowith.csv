@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "630", "Patricia", "Flowith", "503-514-2346", "Veith", "56 Schiller Alley", "Portland", "OR", "97296", "5048374534339785"
+"DETAILS_RECORD", "Grocery", "S", "$5,385.22"
+"DETAILS_RECORD", "Garden", "P", "$2,098.59"
+"DETAILS_RECORD", "Electronics", "N", "$8.50"
+"DETAILS_RECORD", "TOTAL", "", "$7,492.31"

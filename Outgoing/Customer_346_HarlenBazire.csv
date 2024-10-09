@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "346", "Harlen", "Bazire", "701-520-1814", "Orin", "6 Northwestern Park", "Bismarck", "ND", "58505", "201852889170917"
+"DETAILS_RECORD", "Tools", "S", "$7,172.90"
+"DETAILS_RECORD", "Kids", "T", "$4,523.54"
+"DETAILS_RECORD", "Beauty", "S", "$5,091.44"
+"DETAILS_RECORD", "TOTAL", "", "$16,787.88"

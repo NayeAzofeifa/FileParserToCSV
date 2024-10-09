@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "96", "Stefan", "Chamney", "423-694-2216", "Kensington", "60 Hintze Hill", "Chattanooga", "TN", "37450", "337941015255507"
+"DETAILS_RECORD", "Computers", "T", "$4,126.12"
+"DETAILS_RECORD", "Books", "S", "$6,258.54"
+"DETAILS_RECORD", "Automotive", "S", "$8,925.60"
+"DETAILS_RECORD", "TOTAL", "", "$19,310.26"

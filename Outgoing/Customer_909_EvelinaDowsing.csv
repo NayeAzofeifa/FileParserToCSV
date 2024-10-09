@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "909", "Evelina", "Dowsing", "505-360-5673", "Bashford", "596 Kennedy Center", "Albuquerque", "NM", "87180", "5602228000253136"
+"DETAILS_RECORD", "Sports", "S", "$5,197.00"
+"DETAILS_RECORD", "Games", "T", "$3,273.17"
+"DETAILS_RECORD", "Kids", "A", "$738.37"
+"DETAILS_RECORD", "TOTAL", "", "$9,208.54"

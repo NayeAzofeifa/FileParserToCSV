@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "789", "Adelina", "Madison", "314-893-5806", "Lukken", "2515 Shoshone Drive", "Saint Louis", "MO", "63121", "3569710901855768"
+"DETAILS_RECORD", "Industrial", "S", "$7,312.64"
+"DETAILS_RECORD", "Electronics", "A", "$639.93"
+"DETAILS_RECORD", "Electronics", "S", "$8,208.62"
+"DETAILS_RECORD", "TOTAL", "", "$16,161.19"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "266", "Kalli", "Gudge", "336-170-8468", "Di Loreto", "324 Shelley Alley", "High Point", "NC", "27264", "560222523417777766"
+"DETAILS_RECORD", "Health", "A", "$634.56"
+"DETAILS_RECORD", "Jewelry", "T", "$3,311.24"
+"DETAILS_RECORD", "Beauty", "S", "$8,687.95"
+"DETAILS_RECORD", "TOTAL", "", "$12,633.75"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "969", "Bone", "Brewer", "605-517-4722", "Fair Oaks", "95302 2nd Alley", "Sioux Falls", "SD", "57105", "6334106252813133"
+"DETAILS_RECORD", "Tools", "T", "$4,226.13"
+"DETAILS_RECORD", "Home", "T", "$3,605.55"
+"DETAILS_RECORD", "Electronics", "S", "$9,970.97"
+"DETAILS_RECORD", "TOTAL", "", "$17,802.65"

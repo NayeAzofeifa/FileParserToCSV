@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "822", "Tamara", "Yegorov", "202-381-3158", "Clove", "88037 Quincy Park", "Washington", "DC", "20508", "3585734113803267"
+"DETAILS_RECORD", "Shoes", "T", "$3,789.39"
+"DETAILS_RECORD", "Games", "T", "$3,344.14"
+"DETAILS_RECORD", "Industrial", "X", "$2,517.88"
+"DETAILS_RECORD", "TOTAL", "", "$9,651.41"

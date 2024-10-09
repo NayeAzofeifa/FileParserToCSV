@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "511", "Jessika", "Brecknall", "520-410-7387", "Fulton", "2839 Sundown Center", "Tucson", "AZ", "85754", "5430919955918370"
+"DETAILS_RECORD", "Industrial", "T", "$4,515.54"
+"DETAILS_RECORD", "Sports", "S", "$6,941.61"
+"DETAILS_RECORD", "Outdoors", "S", "$6,400.45"
+"DETAILS_RECORD", "TOTAL", "", "$17,857.60"

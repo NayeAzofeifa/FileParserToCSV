@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "847", "Ellary", "Turton", "202-233-2631", "Green Ridge", "4240 Miller Junction", "Washington", "DC", "20380", "201625969671024"
+"DETAILS_RECORD", "Tools", "S", "$8,858.62"
+"DETAILS_RECORD", "Kids", "S", "$7,538.81"
+"DETAILS_RECORD", "Games", "S", "$6,563.01"
+"DETAILS_RECORD", "TOTAL", "", "$22,960.44"

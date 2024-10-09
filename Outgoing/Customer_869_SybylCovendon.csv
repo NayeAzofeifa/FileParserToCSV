@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "869", "Sybyl", "Covendon", "901-192-7703", "Derek", "66779 Di Loreto Circle", "Memphis", "TN", "38126", "3580868757064748"
+"DETAILS_RECORD", "Beauty", "S", "$5,416.27"
+"DETAILS_RECORD", "Outdoors", "S", "$7,986.40"
+"DETAILS_RECORD", "Beauty", "N", "$386.46"
+"DETAILS_RECORD", "TOTAL", "", "$13,789.13"

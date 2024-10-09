@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "761", "Aron", "Iliff", "713-939-9251", "Red Cloud", "79446 Warrior Place", "Houston", "TX", "77255", "630426177927599411"
+"DETAILS_RECORD", "Garden", "X", "$2,694.02"
+"DETAILS_RECORD", "Toys", "T", "$4,725.82"
+"DETAILS_RECORD", "Shoes", "T", "$4,781.08"
+"DETAILS_RECORD", "TOTAL", "", "$12,200.92"

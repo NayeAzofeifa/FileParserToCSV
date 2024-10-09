@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "10", "Alasteir", "Dike", "817-464-2190", "Eagle Crest", "446 Dixon Pass", "Irving", "TX", "75062", "3559955639351281"
+"DETAILS_RECORD", "Outdoors", "L", "$1,918.34"
+"DETAILS_RECORD", "Shoes", "S", "$9,492.48"
+"DETAILS_RECORD", "Home", "S", "$7,089.40"
+"DETAILS_RECORD", "TOTAL", "", "$18,500.22"

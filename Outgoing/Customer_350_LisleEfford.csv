@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "350", "Lisle", "Efford", "817-493-3853", "Amoth", "17 Dryden Street", "Fort Worth", "TX", "76121", "3555003685814557"
+"DETAILS_RECORD", "Movies", "S", "$8,025.29"
+"DETAILS_RECORD", "Baby", "T", "$3,598.89"
+"DETAILS_RECORD", "Health", "S", "$9,655.55"
+"DETAILS_RECORD", "TOTAL", "", "$21,279.73"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "79", "Clare", "Feldon", "321-347-0007", "Moose", "6365 Homewood Circle", "Melbourne", "FL", "32919", "560225093145406259"
+"DETAILS_RECORD", "Games", "S", "$5,436.77"
+"DETAILS_RECORD", "Music", "S", "$7,170.27"
+"DETAILS_RECORD", "Tools", "S", "$6,892.76"
+"DETAILS_RECORD", "TOTAL", "", "$19,499.80"

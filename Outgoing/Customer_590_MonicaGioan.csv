@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "590", "Monica", "Gioan", "971-434-7704", "Crownhardt", "65375 Elmside Avenue", "Portland", "OR", "97255", "4026401345073276"
+"DETAILS_RECORD", "Clothing", "S", "$8,348.30"
+"DETAILS_RECORD", "Outdoors", "C", "$1,391.79"
+"DETAILS_RECORD", "Grocery", "L", "$1,576.49"
+"DETAILS_RECORD", "TOTAL", "", "$11,316.58"

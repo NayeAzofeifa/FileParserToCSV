@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "544", "Alanah", "de Grey", "518-202-9389", "Green", "61 Anniversary Trail", "Albany", "NY", "12232", "3554647852717265"
+"DETAILS_RECORD", "Books", "S", "$8,693.36"
+"DETAILS_RECORD", "Toys", "P", "$2,424.27"
+"DETAILS_RECORD", "Tools", "S", "$9,388.38"
+"DETAILS_RECORD", "TOTAL", "", "$20,506.01"

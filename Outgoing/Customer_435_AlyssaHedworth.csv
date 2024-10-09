@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "435", "Alyssa", "Hedworth", "915-971-1041", "Farmco", "52784 Dapin Hill", "El Paso", "TX", "79999", "5556762253417069"
+"DETAILS_RECORD", "Games", "T", "$3,791.02"
+"DETAILS_RECORD", "Beauty", "S", "$9,162.85"
+"DETAILS_RECORD", "Tools", "T", "$4,421.02"
+"DETAILS_RECORD", "TOTAL", "", "$17,374.89"

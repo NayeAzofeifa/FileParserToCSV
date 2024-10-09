@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "498", "Ardis", "Harpham", "323-922-7282", "West", "27237 Steensland Pass", "Burbank", "CA", "91505", "3562509390303273"
+"DETAILS_RECORD", "Automotive", "T", "$3,497.17"
+"DETAILS_RECORD", "Computers", "S", "$8,298.45"
+"DETAILS_RECORD", "Toys", "C", "$1,248.14"
+"DETAILS_RECORD", "TOTAL", "", "$13,043.76"

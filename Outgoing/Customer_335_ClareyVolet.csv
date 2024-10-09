@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "335", "Clarey", "Volet", "850-555-9274", "Clove", "5125 Northport Crossing", "Pensacola", "FL", "32526", "30489969987667"
+"DETAILS_RECORD", "Tools", "C", "$1,057.62"
+"DETAILS_RECORD", "Tools", "S", "$6,633.00"
+"DETAILS_RECORD", "Home", "T", "$4,789.59"
+"DETAILS_RECORD", "TOTAL", "", "$12,480.21"

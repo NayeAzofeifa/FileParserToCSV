@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "913", "Hans", "Stapylton", "215-170-5033", "Forster", "1537 Vahlen Place", "Philadelphia", "PA", "19125", "5100132009635490"
+"DETAILS_RECORD", "Home", "S", "$9,575.11"
+"DETAILS_RECORD", "Grocery", "S", "$8,571.80"
+"DETAILS_RECORD", "Grocery", "X", "$2,507.25"
+"DETAILS_RECORD", "TOTAL", "", "$20,654.16"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "488", "Delora", "Tripett", "754-776-5605", "Artisan", "2178 Mayer Alley", "Fort Lauderdale", "FL", "33355", "30134454216715"
+"DETAILS_RECORD", "Games", "S", "$8,335.13"
+"DETAILS_RECORD", "Shoes", "T", "$3,411.22"
+"DETAILS_RECORD", "Baby", "S", "$9,707.27"
+"DETAILS_RECORD", "TOTAL", "", "$21,453.62"

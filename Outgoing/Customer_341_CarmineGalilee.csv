@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "341", "Carmine", "Galilee", "309-171-1722", "Stoughton", "9 Veith Hill", "Peoria", "IL", "61640", "3552509282519459"
+"DETAILS_RECORD", "Books", "S", "$6,720.14"
+"DETAILS_RECORD", "Jewelry", "T", "$4,086.22"
+"DETAILS_RECORD", "Kids", "S", "$8,802.75"
+"DETAILS_RECORD", "TOTAL", "", "$19,609.11"

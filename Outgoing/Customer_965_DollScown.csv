@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "965", "Doll", "Scown", "770-624-3345", "East", "8119 Merry Park", "Marietta", "GA", "30061", "4471274447741946"
+"DETAILS_RECORD", "Electronics", "X", "$2,946.46"
+"DETAILS_RECORD", "Baby", "S", "$6,413.69"
+"DETAILS_RECORD", "Movies", "S", "$6,607.48"
+"DETAILS_RECORD", "TOTAL", "", "$15,967.63"

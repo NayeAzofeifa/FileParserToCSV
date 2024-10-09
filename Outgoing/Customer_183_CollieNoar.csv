@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "183", "Collie", "Noar", "704-912-8024", "Kingsford", "6 La Follette Terrace", "Charlotte", "NC", "28278", "4905123256807627"
+"DETAILS_RECORD", "Games", "S", "$5,043.57"
+"DETAILS_RECORD", "Jewelry", "N", "$155.20"
+"DETAILS_RECORD", "Movies", "T", "$4,365.04"
+"DETAILS_RECORD", "TOTAL", "", "$9,563.81"

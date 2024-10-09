@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "668", "Valentine", "Light", "586-476-3855", "Gina", "215 Dottie Street", "Detroit", "MI", "48224", "3574229457726649"
+"DETAILS_RECORD", "Baby", "S", "$7,111.66"
+"DETAILS_RECORD", "Music", "X", "$2,677.94"
+"DETAILS_RECORD", "Computers", "S", "$5,274.65"
+"DETAILS_RECORD", "TOTAL", "", "$15,064.25"

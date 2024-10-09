@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "621", "Kelsey", "Blas", "626-403-7347", "Brown", "3788 Dwight Alley", "Pasadena", "CA", "91125", "67620470683477339"
+"DETAILS_RECORD", "Outdoors", "S", "$7,014.40"
+"DETAILS_RECORD", "Sports", "A", "$545.50"
+"DETAILS_RECORD", "Outdoors", "S", "$9,117.42"
+"DETAILS_RECORD", "TOTAL", "", "$16,677.32"

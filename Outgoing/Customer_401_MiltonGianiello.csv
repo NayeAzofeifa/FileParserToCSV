@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "401", "Milton", "Gianiello", "678-165-3499", "South", "8 Milwaukee Center", "Atlanta", "GA", "30306", "6385128012136397"
+"DETAILS_RECORD", "Baby", "T", "$3,950.16"
+"DETAILS_RECORD", "Kids", "T", "$4,077.86"
+"DETAILS_RECORD", "Toys", "S", "$6,976.36"
+"DETAILS_RECORD", "TOTAL", "", "$15,004.38"

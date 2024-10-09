@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "862", "Catina", "Samwaye", "405-553-7007", "Springs", "1 Marquette Center", "Oklahoma City", "OK", "73157", "30418354181578"
+"DETAILS_RECORD", "Outdoors", "A", "$503.30"
+"DETAILS_RECORD", "Computers", "X", "$2,556.10"
+"DETAILS_RECORD", "Garden", "S", "$9,951.35"
+"DETAILS_RECORD", "TOTAL", "", "$13,010.75"

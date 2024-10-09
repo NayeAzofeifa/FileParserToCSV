@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "430", "Dinah", "Hindge", "423-325-0651", "Memorial", "5671 Sunfield Point", "Johnson City", "TN", "37605", "30587708570486"
+"DETAILS_RECORD", "Kids", "T", "$3,396.09"
+"DETAILS_RECORD", "Grocery", "T", "$4,794.62"
+"DETAILS_RECORD", "Outdoors", "S", "$7,110.41"
+"DETAILS_RECORD", "TOTAL", "", "$15,301.12"

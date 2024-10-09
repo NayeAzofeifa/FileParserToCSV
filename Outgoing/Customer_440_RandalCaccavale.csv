@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "440", "Randal", "Caccavale", "607-887-5827", "Kingsford", "930 Corscot Circle", "Elmira", "NY", "14905", "3539354383299885"
+"DETAILS_RECORD", "Clothing", "S", "$8,216.72"
+"DETAILS_RECORD", "Garden", "S", "$5,235.38"
+"DETAILS_RECORD", "Jewelry", "T", "$3,615.13"
+"DETAILS_RECORD", "TOTAL", "", "$17,067.23"

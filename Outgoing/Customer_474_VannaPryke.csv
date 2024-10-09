@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "474", "Vanna", "Pryke", "202-625-0605", "Waywood", "6 Valley Edge Avenue", "Washington", "DC", "20051", "3550758829879346"
+"DETAILS_RECORD", "Toys", "N", "$472.46"
+"DETAILS_RECORD", "Home", "C", "$1,448.28"
+"DETAILS_RECORD", "Computers", "T", "$3,742.25"
+"DETAILS_RECORD", "TOTAL", "", "$5,662.99"

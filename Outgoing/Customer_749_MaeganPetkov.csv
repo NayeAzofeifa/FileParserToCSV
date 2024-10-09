@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "749", "Maegan", "Petkov", "307-733-6033", "Sommers", "7089 Paget Court", "Cheyenne", "WY", "82007", "3582229182525795"
+"DETAILS_RECORD", "Computers", "S", "$9,814.99"
+"DETAILS_RECORD", "Baby", "T", "$4,397.02"
+"DETAILS_RECORD", "Beauty", "S", "$5,229.59"
+"DETAILS_RECORD", "TOTAL", "", "$19,441.60"

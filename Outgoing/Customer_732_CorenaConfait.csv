@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "732", "Corena", "Confait", "806-575-7625", "Crescent Oaks", "5 Springview Street", "Amarillo", "TX", "79188", "3552051677612821"
+"DETAILS_RECORD", "Grocery", "S", "$6,443.13"
+"DETAILS_RECORD", "Music", "T", "$3,162.11"
+"DETAILS_RECORD", "Jewelry", "P", "$2,011.43"
+"DETAILS_RECORD", "TOTAL", "", "$11,616.67"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "923", "Annmaria", "Stuttard", "816-981-6309", "Springview", "77262 Vernon Trail", "Shawnee Mission", "KS", "66205", "5602224173629277"
+"DETAILS_RECORD", "Baby", "C", "$1,037.19"
+"DETAILS_RECORD", "Kids", "S", "$9,765.91"
+"DETAILS_RECORD", "Games", "T", "$3,053.70"
+"DETAILS_RECORD", "TOTAL", "", "$13,856.80"

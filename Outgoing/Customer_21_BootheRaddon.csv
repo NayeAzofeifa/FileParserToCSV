@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "21", "Boothe", "Raddon", "402-795-5255", "Troy", "91 Thackeray Lane", "Omaha", "NE", "68124", "30254884378248"
+"DETAILS_RECORD", "Grocery", "S", "$9,532.12"
+"DETAILS_RECORD", "Kids", "P", "$2,025.26"
+"DETAILS_RECORD", "Grocery", "S", "$6,781.75"
+"DETAILS_RECORD", "TOTAL", "", "$18,339.13"

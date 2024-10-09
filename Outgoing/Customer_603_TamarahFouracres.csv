@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "603", "Tamarah", "Fouracres", "919-970-8647", "Surrey", "40429 Nancy Point", "Durham", "NC", "27710", "56022283037746482"
+"DETAILS_RECORD", "Movies", "S", "$5,794.56"
+"DETAILS_RECORD", "Health", "C", "$1,130.56"
+"DETAILS_RECORD", "Garden", "P", "$2,307.47"
+"DETAILS_RECORD", "TOTAL", "", "$9,232.59"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "302", "Tyson", "Ingarfield", "806-322-9568", "Veith", "330 Fordem Trail", "Amarillo", "TX", "79116", "201406787286372"
+"DETAILS_RECORD", "Clothing", "C", "$1,087.14"
+"DETAILS_RECORD", "Electronics", "T", "$3,331.34"
+"DETAILS_RECORD", "Books", "S", "$9,783.36"
+"DETAILS_RECORD", "TOTAL", "", "$14,201.84"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "850", "Wanids", "Grzegorzewski", "704-601-9696", "Burrows", "14058 Westridge Alley", "Charlotte", "NC", "28210", "5541542749034555"
+"DETAILS_RECORD", "Shoes", "X", "$2,564.19"
+"DETAILS_RECORD", "Music", "P", "$2,138.86"
+"DETAILS_RECORD", "Automotive", "S", "$6,715.96"
+"DETAILS_RECORD", "TOTAL", "", "$11,419.01"

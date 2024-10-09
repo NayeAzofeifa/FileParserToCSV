@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "239", "Derrek", "Vernall", "757-761-4972", "Gina", "782 Declaration Parkway", "Norfolk", "VA", "23514", "3589359463995905"
+"DETAILS_RECORD", "Health", "S", "$8,093.75"
+"DETAILS_RECORD", "Jewelry", "A", "$737.90"
+"DETAILS_RECORD", "Kids", "S", "$7,132.32"
+"DETAILS_RECORD", "TOTAL", "", "$15,963.97"

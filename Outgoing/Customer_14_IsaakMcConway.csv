@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "14", "Isaak", "McConway", "863-595-1406", "Erie", "50528 Towne Circle", "Lakeland", "FL", "33805", "3552143783708419"
+"DETAILS_RECORD", "Shoes", "P", "$2,421.99"
+"DETAILS_RECORD", "Grocery", "T", "$4,947.28"
+"DETAILS_RECORD", "Movies", "X", "$2,976.00"
+"DETAILS_RECORD", "TOTAL", "", "$10,345.27"

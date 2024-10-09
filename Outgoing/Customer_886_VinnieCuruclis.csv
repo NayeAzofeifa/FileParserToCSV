@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "886", "Vinnie", "Curuclis", "713-818-8770", "Bunker Hill", "792 Banding Way", "Houston", "TX", "77206", "0604420812690660518"
+"DETAILS_RECORD", "Kids", "X", "$2,618.77"
+"DETAILS_RECORD", "Movies", "S", "$5,554.63"
+"DETAILS_RECORD", "Music", "T", "$3,213.48"
+"DETAILS_RECORD", "TOTAL", "", "$11,386.88"

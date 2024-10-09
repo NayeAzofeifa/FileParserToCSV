@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "308", "Tova", "Caird", "603-194-2869", "Ridge Oak", "0 Carberry Lane", "Portsmouth", "NH", "03804", "3583571137397757"
+"DETAILS_RECORD", "Health", "T", "$4,992.55"
+"DETAILS_RECORD", "Industrial", "N", "$335.40"
+"DETAILS_RECORD", "Outdoors", "S", "$5,755.19"
+"DETAILS_RECORD", "TOTAL", "", "$11,083.14"

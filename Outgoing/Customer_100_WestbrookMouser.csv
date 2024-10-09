@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "100", "Westbrook", "Mouser", "402-273-4551", "Orin", "47 Fulton Place", "Lincoln", "NE", "68517", "3559424627213631"
+"DETAILS_RECORD", "Grocery", "T", "$3,537.43"
+"DETAILS_RECORD", "Books", "T", "$4,916.11"
+"DETAILS_RECORD", "Music", "T", "$3,782.39"
+"DETAILS_RECORD", "TOTAL", "", "$12,235.93"

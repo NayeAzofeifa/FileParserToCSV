@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "422", "Lorena", "Lochet", "202-447-6213", "Golf View", "67905 Scott Center", "Washington", "DC", "20337", "3531817105601222"
+"DETAILS_RECORD", "Industrial", "S", "$8,995.36"
+"DETAILS_RECORD", "Home", "S", "$6,570.69"
+"DETAILS_RECORD", "Books", "L", "$1,756.93"
+"DETAILS_RECORD", "TOTAL", "", "$17,322.98"

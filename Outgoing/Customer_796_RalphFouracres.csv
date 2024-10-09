@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "796", "Ralph", "Fouracres", "440-866-9789", "Myrtle", "9 Meadow Valley Center", "Cleveland", "OH", "44177", "3566011826031848"
+"DETAILS_RECORD", "Shoes", "S", "$9,239.14"
+"DETAILS_RECORD", "Music", "S", "$5,009.18"
+"DETAILS_RECORD", "Automotive", "S", "$9,822.57"
+"DETAILS_RECORD", "TOTAL", "", "$24,070.89"

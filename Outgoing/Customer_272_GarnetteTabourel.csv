@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "272", "Garnette", "Tabourel", "512-797-2335", "Reinke", "55 Cody Parkway", "Austin", "TX", "78769", "6759416034858173"
+"DETAILS_RECORD", "Jewelry", "S", "$8,788.01"
+"DETAILS_RECORD", "Games", "L", "$1,670.63"
+"DETAILS_RECORD", "Health", "S", "$8,967.28"
+"DETAILS_RECORD", "TOTAL", "", "$19,425.92"

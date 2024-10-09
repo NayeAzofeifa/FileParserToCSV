@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "256", "Aldrich", "Hurche", "850-916-5189", "Anzinger", "1142 Merrick Crossing", "Pensacola", "FL", "32520", "67097643451129001"
+"DETAILS_RECORD", "Computers", "A", "$799.89"
+"DETAILS_RECORD", "Movies", "S", "$5,261.37"
+"DETAILS_RECORD", "Jewelry", "A", "$943.02"
+"DETAILS_RECORD", "TOTAL", "", "$7,004.28"

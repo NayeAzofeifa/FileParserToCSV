@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "517", "Mirabella", "Arson", "213-835-8264", "Dorton", "087 Hazelcrest Road", "Los Angeles", "CA", "90189", "3585192461048672"
+"DETAILS_RECORD", "Sports", "S", "$9,626.46"
+"DETAILS_RECORD", "Movies", "C", "$1,449.85"
+"DETAILS_RECORD", "Automotive", "A", "$879.82"
+"DETAILS_RECORD", "TOTAL", "", "$11,956.13"

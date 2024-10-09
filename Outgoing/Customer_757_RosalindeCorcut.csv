@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "757", "Rosalinde", "Corcut", "303-476-5777", "Linden", "1659 Mitchell Crossing", "Boulder", "CO", "80310", "5100141439757857"
+"DETAILS_RECORD", "Books", "S", "$7,489.01"
+"DETAILS_RECORD", "Automotive", "S", "$6,659.08"
+"DETAILS_RECORD", "Sports", "S", "$6,695.13"
+"DETAILS_RECORD", "TOTAL", "", "$20,843.22"

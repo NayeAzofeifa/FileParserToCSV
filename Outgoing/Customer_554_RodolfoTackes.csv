@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "554", "Rodolfo", "Tackes", "774-819-6653", "Becker", "93 Armistice Avenue", "Waltham", "MA", "02453", "3559841707702631"
+"DETAILS_RECORD", "Sports", "P", "$2,231.04"
+"DETAILS_RECORD", "Music", "S", "$7,220.78"
+"DETAILS_RECORD", "Sports", "T", "$4,970.48"
+"DETAILS_RECORD", "TOTAL", "", "$14,422.30"

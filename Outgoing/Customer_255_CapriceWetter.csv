@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "255", "Caprice", "Wetter", "954-718-3297", "Randy", "155 Dorton Crossing", "Fort Lauderdale", "FL", "33325", "3535153962955824"
+"DETAILS_RECORD", "Books", "P", "$2,329.74"
+"DETAILS_RECORD", "Grocery", "S", "$7,488.75"
+"DETAILS_RECORD", "Music", "S", "$8,041.65"
+"DETAILS_RECORD", "TOTAL", "", "$17,860.14"

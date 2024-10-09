@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "117", "Saunders", "Dyerson", "772-517-8993", "Bultman", "98929 Boyd Park", "Fort Pierce", "FL", "34981", "3530409525389033"
+"DETAILS_RECORD", "Toys", "N", "$414.51"
+"DETAILS_RECORD", "Grocery", "S", "$8,805.85"
+"DETAILS_RECORD", "Automotive", "T", "$4,630.27"
+"DETAILS_RECORD", "TOTAL", "", "$13,850.63"

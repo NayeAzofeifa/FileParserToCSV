@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "895", "Fielding", "Stickland", "323-525-0725", "Norway Maple", "9168 Pankratz Road", "Los Angeles", "CA", "90094", "3566482411662240"
+"DETAILS_RECORD", "Movies", "N", "$71.85"
+"DETAILS_RECORD", "Music", "T", "$3,544.81"
+"DETAILS_RECORD", "Grocery", "S", "$8,318.16"
+"DETAILS_RECORD", "TOTAL", "", "$11,934.82"

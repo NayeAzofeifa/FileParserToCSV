@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "64", "Gaile", "Keatley", "212-853-1326", "Norway Maple", "201 Kinsman Pass", "New York City", "NY", "10125", "3555362209057006"
+"DETAILS_RECORD", "Books", "S", "$6,250.31"
+"DETAILS_RECORD", "Outdoors", "P", "$2,352.97"
+"DETAILS_RECORD", "Games", "S", "$9,684.61"
+"DETAILS_RECORD", "TOTAL", "", "$18,287.89"

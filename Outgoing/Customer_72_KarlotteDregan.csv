@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "72", "Karlotte", "Dregan", "501-411-4026", "Main", "98 Lerdahl Terrace", "Hot Springs National Park", "AR", "71914", "374622827057315"
+"DETAILS_RECORD", "Baby", "S", "$7,107.97"
+"DETAILS_RECORD", "Sports", "N", "$248.78"
+"DETAILS_RECORD", "Toys", "S", "$7,966.65"
+"DETAILS_RECORD", "TOTAL", "", "$15,323.40"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "173", "Hamid", "Cottam", "804-623-9087", "Fallview", "56279 Toban Junction", "Richmond", "VA", "23220", "3561675785031992"
+"DETAILS_RECORD", "Electronics", "X", "$2,526.39"
+"DETAILS_RECORD", "Baby", "S", "$7,910.63"
+"DETAILS_RECORD", "Industrial", "S", "$8,957.29"
+"DETAILS_RECORD", "TOTAL", "", "$19,394.31"

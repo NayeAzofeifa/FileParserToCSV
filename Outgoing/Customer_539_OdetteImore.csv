@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "539", "Odette", "Imore", "502-831-5616", "Ludington", "11075 Waxwing Pass", "Frankfort", "KY", "40618", "374288308068237"
+"DETAILS_RECORD", "Industrial", "S", "$6,961.67"
+"DETAILS_RECORD", "Beauty", "T", "$4,414.07"
+"DETAILS_RECORD", "Clothing", "S", "$5,414.76"
+"DETAILS_RECORD", "TOTAL", "", "$16,790.50"

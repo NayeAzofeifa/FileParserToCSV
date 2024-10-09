@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "290", "Maia", "Lulham", "913-638-5603", "Commercial", "17 Fairfield Point", "Shawnee Mission", "KS", "66276", "0604275585421548568"
+"DETAILS_RECORD", "Sports", "S", "$8,968.86"
+"DETAILS_RECORD", "Home", "S", "$5,404.82"
+"DETAILS_RECORD", "Beauty", "S", "$8,001.67"
+"DETAILS_RECORD", "TOTAL", "", "$22,375.35"

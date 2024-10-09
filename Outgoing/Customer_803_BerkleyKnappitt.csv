@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "803", "Berkley", "Knappitt", "517-117-0350", "Village Green", "0905 Shoshone Plaza", "Lansing", "MI", "48901", "4405950976382662"
+"DETAILS_RECORD", "Books", "P", "$2,238.78"
+"DETAILS_RECORD", "Automotive", "T", "$4,367.31"
+"DETAILS_RECORD", "Automotive", "S", "$7,502.71"
+"DETAILS_RECORD", "TOTAL", "", "$14,108.80"

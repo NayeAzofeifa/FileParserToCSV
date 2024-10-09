@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "409", "Emelyne", "McTerry", "561-651-5688", "Springview", "1 Anhalt Point", "West Palm Beach", "FL", "33416", "3528096940629533"
+"DETAILS_RECORD", "Shoes", "T", "$3,292.27"
+"DETAILS_RECORD", "Games", "T", "$3,780.07"
+"DETAILS_RECORD", "Baby", "P", "$2,268.66"
+"DETAILS_RECORD", "TOTAL", "", "$9,341.00"

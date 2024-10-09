@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "20", "Waiter", "Ingham", "253-290-6838", "Delaware", "1 Mallory Junction", "Tacoma", "WA", "98442", "3568365443801555"
+"DETAILS_RECORD", "Computers", "S", "$8,129.18"
+"DETAILS_RECORD", "Jewelry", "S", "$8,037.81"
+"DETAILS_RECORD", "Computers", "N", "$450.91"
+"DETAILS_RECORD", "TOTAL", "", "$16,617.90"

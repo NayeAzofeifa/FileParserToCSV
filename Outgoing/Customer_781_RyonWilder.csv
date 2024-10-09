@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "781", "Ryon", "Wilder", "650-510-9409", "Petterle", "705 Linden Pass", "Mountain View", "CA", "94042", "5602215606790868"
+"DETAILS_RECORD", "Beauty", "S", "$5,701.22"
+"DETAILS_RECORD", "Outdoors", "C", "$1,353.38"
+"DETAILS_RECORD", "Games", "S", "$8,581.71"
+"DETAILS_RECORD", "TOTAL", "", "$15,636.31"

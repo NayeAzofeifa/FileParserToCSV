@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "703", "Rochester", "Howison", "646-320-9496", "Elgar", "6 Express Pass", "New York City", "NY", "10170", "342049823321637"
+"DETAILS_RECORD", "Kids", "S", "$9,993.56"
+"DETAILS_RECORD", "Industrial", "X", "$2,757.18"
+"DETAILS_RECORD", "Health", "T", "$3,631.79"
+"DETAILS_RECORD", "TOTAL", "", "$16,382.53"

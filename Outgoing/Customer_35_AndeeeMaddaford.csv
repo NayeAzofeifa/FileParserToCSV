@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "35", "Andeee", "Maddaford", "757-690-0424", "Crowley", "0102 Caliangt Crossing", "Newport News", "VA", "23612", "5100179485403810"
+"DETAILS_RECORD", "Industrial", "S", "$6,178.92"
+"DETAILS_RECORD", "Automotive", "A", "$823.80"
+"DETAILS_RECORD", "Grocery", "S", "$6,411.43"
+"DETAILS_RECORD", "TOTAL", "", "$13,414.15"

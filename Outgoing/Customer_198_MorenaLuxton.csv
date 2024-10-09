@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "198", "Morena", "Luxton", "212-896-1531", "Badeau", "4 Graceland Junction", "New York City", "NY", "10249", "3544419747088721"
+"DETAILS_RECORD", "Books", "S", "$9,717.17"
+"DETAILS_RECORD", "Baby", "S", "$9,372.93"
+"DETAILS_RECORD", "Kids", "S", "$9,447.74"
+"DETAILS_RECORD", "TOTAL", "", "$28,537.84"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "73", "Barty", "Nottingham", "571-914-2426", "Graceland", "058 Mockingbird Drive", "Vienna", "VA", "22184", "490330191687229659"
+"DETAILS_RECORD", "Health", "S", "$8,355.35"
+"DETAILS_RECORD", "Shoes", "T", "$4,659.45"
+"DETAILS_RECORD", "Computers", "S", "$7,259.01"
+"DETAILS_RECORD", "TOTAL", "", "$20,273.81"

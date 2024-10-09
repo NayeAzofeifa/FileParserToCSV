@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "274", "Wernher", "Bridgewater", "970-453-7849", "Grasskamp", "322 Commercial Park", "Fort Collins", "CO", "80525", "5364714151975617"
+"DETAILS_RECORD", "Toys", "T", "$4,735.38"
+"DETAILS_RECORD", "Kids", "X", "$2,518.60"
+"DETAILS_RECORD", "Industrial", "S", "$9,156.01"
+"DETAILS_RECORD", "TOTAL", "", "$16,409.99"

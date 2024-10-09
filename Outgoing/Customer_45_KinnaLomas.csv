@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "45", "Kinna", "Lomas", "251-949-4836", "Pearson", "01 Waywood Alley", "Mobile", "AL", "36628", "3566702285294279"
+"DETAILS_RECORD", "Jewelry", "S", "$6,996.95"
+"DETAILS_RECORD", "Books", "L", "$1,697.99"
+"DETAILS_RECORD", "Toys", "X", "$2,519.75"
+"DETAILS_RECORD", "TOTAL", "", "$11,214.69"

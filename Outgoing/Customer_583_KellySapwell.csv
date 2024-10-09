@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "583", "Kelly", "Sapwell", "214-314-2335", "Stone Corner", "3 Elka Point", "Dallas", "TX", "75367", "5100142778307411"
+"DETAILS_RECORD", "Industrial", "S", "$8,424.19"
+"DETAILS_RECORD", "Kids", "N", "$27.91"
+"DETAILS_RECORD", "Shoes", "S", "$9,982.05"
+"DETAILS_RECORD", "TOTAL", "", "$18,434.15"

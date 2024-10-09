@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "349", "Napoleon", "Shalloo", "813-940-1483", "Old Gate", "200 Cardinal Way", "Tampa", "FL", "33610", "3535154328197333"
+"DETAILS_RECORD", "Toys", "S", "$5,576.76"
+"DETAILS_RECORD", "Beauty", "T", "$4,739.52"
+"DETAILS_RECORD", "Automotive", "A", "$995.77"
+"DETAILS_RECORD", "TOTAL", "", "$11,312.05"

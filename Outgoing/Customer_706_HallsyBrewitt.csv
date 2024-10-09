@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "706", "Hallsy", "Brewitt", "502-382-9255", "Holy Cross", "01 Eliot Plaza", "Louisville", "KY", "40210", "4911686192860597"
+"DETAILS_RECORD", "Automotive", "S", "$6,216.31"
+"DETAILS_RECORD", "Clothing", "S", "$9,077.30"
+"DETAILS_RECORD", "Beauty", "S", "$7,102.57"
+"DETAILS_RECORD", "TOTAL", "", "$22,396.18"

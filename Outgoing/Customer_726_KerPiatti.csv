@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "726", "Ker", "Piatti", "254-993-6010", "Dennis", "45 North Drive", "Waco", "TX", "76705", "4017952310480"
+"DETAILS_RECORD", "Home", "T", "$3,323.99"
+"DETAILS_RECORD", "Outdoors", "S", "$5,096.68"
+"DETAILS_RECORD", "Books", "S", "$7,293.19"
+"DETAILS_RECORD", "TOTAL", "", "$15,713.86"

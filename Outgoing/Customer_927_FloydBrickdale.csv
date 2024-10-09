@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "927", "Floyd", "Brickdale", "719-564-9119", "Graedel", "54 Harper Park", "Colorado Springs", "CO", "80945", "3577621885306746"
+"DETAILS_RECORD", "Books", "S", "$5,553.87"
+"DETAILS_RECORD", "Health", "T", "$4,771.64"
+"DETAILS_RECORD", "Kids", "S", "$7,496.51"
+"DETAILS_RECORD", "TOTAL", "", "$17,822.02"

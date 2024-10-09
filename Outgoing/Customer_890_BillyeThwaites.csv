@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "890", "Billye", "Thwaites", "612-376-4852", "Kensington", "9 Little Fleur Court", "Minneapolis", "MN", "55470", "3564284365755406"
+"DETAILS_RECORD", "Grocery", "A", "$605.55"
+"DETAILS_RECORD", "Automotive", "T", "$3,817.91"
+"DETAILS_RECORD", "Clothing", "N", "$71.52"
+"DETAILS_RECORD", "TOTAL", "", "$4,494.98"

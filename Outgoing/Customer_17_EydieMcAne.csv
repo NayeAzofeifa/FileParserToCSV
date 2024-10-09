@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "17", "Eydie", "McAne", "310-245-7004", "North", "863 Corscot Crossing", "Long Beach", "CA", "90805", "3540829117151343"
+"DETAILS_RECORD", "Outdoors", "S", "$6,669.06"
+"DETAILS_RECORD", "Beauty", "S", "$7,466.42"
+"DETAILS_RECORD", "Tools", "S", "$7,079.44"
+"DETAILS_RECORD", "TOTAL", "", "$21,214.92"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "75", "Linus", "Rannie", "714-692-3298", "Golf Course", "06580 Johnson Hill", "Santa Ana", "CA", "92725", "6763806597292000914"
+"DETAILS_RECORD", "Shoes", "N", "$27.34"
+"DETAILS_RECORD", "Sports", "S", "$8,543.57"
+"DETAILS_RECORD", "Health", "S", "$6,367.95"
+"DETAILS_RECORD", "TOTAL", "", "$14,938.86"

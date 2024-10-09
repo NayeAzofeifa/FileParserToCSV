@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "218", "Corrie", "MacGibbon", "804-119-6279", "Melody", "8 Independence Lane", "Richmond", "VA", "23293", "3583553283101647"
+"DETAILS_RECORD", "Kids", "S", "$6,286.88"
+"DETAILS_RECORD", "Automotive", "X", "$2,603.80"
+"DETAILS_RECORD", "Industrial", "N", "$293.27"
+"DETAILS_RECORD", "TOTAL", "", "$9,183.95"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "626", "Francis", "Hibling", "251-584-2198", "Nelson", "1931 Waxwing Place", "Mobile", "AL", "36622", "503801954534912094"
+"DETAILS_RECORD", "Baby", "S", "$8,496.83"
+"DETAILS_RECORD", "Garden", "S", "$7,614.24"
+"DETAILS_RECORD", "Electronics", "S", "$5,461.65"
+"DETAILS_RECORD", "TOTAL", "", "$21,572.72"

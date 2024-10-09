@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "831", "Fabiano", "Crosswaite", "651-497-5953", "Sage", "860 Twin Pines Alley", "Saint Paul", "MN", "55115", "3538120710565343"
+"DETAILS_RECORD", "Clothing", "S", "$5,957.20"
+"DETAILS_RECORD", "Electronics", "S", "$7,959.67"
+"DETAILS_RECORD", "Automotive", "T", "$4,504.55"
+"DETAILS_RECORD", "TOTAL", "", "$18,421.42"

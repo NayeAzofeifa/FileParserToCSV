@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "943", "Allegra", "McGonnell", "202-887-5149", "Hoffman", "252 Sunnyside Street", "Washington", "DC", "20310", "4175000827773848"
+"DETAILS_RECORD", "Home", "S", "$8,220.25"
+"DETAILS_RECORD", "Home", "A", "$917.39"
+"DETAILS_RECORD", "Books", "S", "$5,271.66"
+"DETAILS_RECORD", "TOTAL", "", "$14,409.30"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "240", "Maude", "Adel", "540-740-7458", "Thierer", "328 Tomscot Court", "Roanoke", "VA", "24040", "3554792549649347"
+"DETAILS_RECORD", "Jewelry", "S", "$9,550.22"
+"DETAILS_RECORD", "Sports", "S", "$5,083.49"
+"DETAILS_RECORD", "Kids", "S", "$6,116.98"
+"DETAILS_RECORD", "TOTAL", "", "$20,750.69"

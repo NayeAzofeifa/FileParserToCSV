@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "282", "Joanie", "Noweak", "859-839-1636", "Doe Crossing", "42 Sutherland Pass", "Lexington", "KY", "40596", "5275274108788462"
+"DETAILS_RECORD", "Kids", "A", "$628.39"
+"DETAILS_RECORD", "Home", "S", "$8,735.86"
+"DETAILS_RECORD", "Industrial", "T", "$4,980.83"
+"DETAILS_RECORD", "TOTAL", "", "$14,345.08"

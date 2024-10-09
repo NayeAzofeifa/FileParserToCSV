@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "889", "Persis", "Piotr", "862-531-5418", "Holy Cross", "59 Portage Street", "Newark", "NJ", "07188", "30453788547045"
+"DETAILS_RECORD", "Kids", "T", "$4,240.83"
+"DETAILS_RECORD", "Shoes", "S", "$7,532.63"
+"DETAILS_RECORD", "Beauty", "S", "$9,105.59"
+"DETAILS_RECORD", "TOTAL", "", "$20,879.05"

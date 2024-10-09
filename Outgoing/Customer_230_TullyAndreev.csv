@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "230", "Tully", "Andreev", "312-644-0637", "Sugar", "8 Forest Dale Circle", "Chicago", "IL", "60663", "3532750286224275"
+"DETAILS_RECORD", "Computers", "A", "$937.02"
+"DETAILS_RECORD", "Home", "S", "$9,913.23"
+"DETAILS_RECORD", "Baby", "T", "$4,520.57"
+"DETAILS_RECORD", "TOTAL", "", "$15,370.82"

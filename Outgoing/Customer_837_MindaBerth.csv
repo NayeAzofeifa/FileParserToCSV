@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "837", "Minda", "Berth", "801-655-5404", "Cascade", "1 Farragut Lane", "Provo", "UT", "84605", "493682592077251823"
+"DETAILS_RECORD", "Kids", "L", "$1,888.34"
+"DETAILS_RECORD", "Industrial", "T", "$3,774.60"
+"DETAILS_RECORD", "Toys", "C", "$1,099.41"
+"DETAILS_RECORD", "TOTAL", "", "$6,762.35"

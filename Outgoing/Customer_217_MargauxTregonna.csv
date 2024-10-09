@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "217", "Margaux", "Tregonna", "757-493-1509", "Goodland", "354 Anthes Plaza", "Hampton", "VA", "23663", "5020355424395393"
+"DETAILS_RECORD", "Baby", "A", "$980.09"
+"DETAILS_RECORD", "Movies", "C", "$1,324.38"
+"DETAILS_RECORD", "Garden", "S", "$9,994.53"
+"DETAILS_RECORD", "TOTAL", "", "$12,299.00"

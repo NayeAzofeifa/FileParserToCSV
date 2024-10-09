@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "449", "Maxy", "Gratland", "202-929-2321", "Crowley", "35 Victoria Way", "Washington", "DC", "20546", "675903660984922524"
+"DETAILS_RECORD", "Outdoors", "T", "$3,390.80"
+"DETAILS_RECORD", "Music", "S", "$9,803.43"
+"DETAILS_RECORD", "Tools", "S", "$8,568.33"
+"DETAILS_RECORD", "TOTAL", "", "$21,762.56"

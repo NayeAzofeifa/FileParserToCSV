@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "825", "Ollie", "Cottle", "502-391-6723", "Algoma", "6122 Waubesa Alley", "Louisville", "KY", "40220", "3567735179028857"
+"DETAILS_RECORD", "Kids", "S", "$8,177.11"
+"DETAILS_RECORD", "Movies", "S", "$5,876.16"
+"DETAILS_RECORD", "Books", "C", "$1,185.40"
+"DETAILS_RECORD", "TOTAL", "", "$15,238.67"

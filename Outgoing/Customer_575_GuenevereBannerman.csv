@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "575", "Guenevere", "Bannerman", "832-926-1407", "Scofield", "0 Coolidge Pass", "Houston", "TX", "77075", "5495432356865457"
+"DETAILS_RECORD", "Garden", "P", "$2,332.76"
+"DETAILS_RECORD", "Grocery", "P", "$2,125.09"
+"DETAILS_RECORD", "Home", "N", "$338.33"
+"DETAILS_RECORD", "TOTAL", "", "$4,796.18"

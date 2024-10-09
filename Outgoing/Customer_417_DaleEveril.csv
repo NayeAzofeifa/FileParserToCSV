@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "417", "Dale", "Everil", "251-587-3429", "Carpenter", "5 Pankratz Drive", "Mobile", "AL", "36689", "3577795927531642"
+"DETAILS_RECORD", "Jewelry", "S", "$9,922.58"
+"DETAILS_RECORD", "Games", "S", "$7,506.13"
+"DETAILS_RECORD", "Kids", "P", "$2,377.54"
+"DETAILS_RECORD", "TOTAL", "", "$19,806.25"

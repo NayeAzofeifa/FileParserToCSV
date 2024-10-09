@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "16", "Kristyn", "Rylands", "415-447-9693", "Monument", "781 Sycamore Lane", "San Francisco", "CA", "94164", "3563229185330535"
+"DETAILS_RECORD", "Baby", "S", "$5,211.14"
+"DETAILS_RECORD", "Automotive", "S", "$7,455.14"
+"DETAILS_RECORD", "Industrial", "S", "$9,501.82"
+"DETAILS_RECORD", "TOTAL", "", "$22,168.10"

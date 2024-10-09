@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "327", "Carie", "Kubanek", "330-947-3481", "Buhler", "75563 Carpenter Terrace", "Warren", "OH", "44485", "30508086513682"
+"DETAILS_RECORD", "Baby", "C", "$1,117.50"
+"DETAILS_RECORD", "Toys", "S", "$9,414.14"
+"DETAILS_RECORD", "Industrial", "S", "$6,053.09"
+"DETAILS_RECORD", "TOTAL", "", "$16,584.73"

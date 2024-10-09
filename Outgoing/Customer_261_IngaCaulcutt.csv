@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "261", "Inga", "Caulcutt", "205-721-4866", "Dryden", "76 Service Court", "Birmingham", "AL", "35295", "30406875439815"
+"DETAILS_RECORD", "Games", "A", "$812.45"
+"DETAILS_RECORD", "Grocery", "N", "$312.05"
+"DETAILS_RECORD", "Movies", "T", "$4,003.16"
+"DETAILS_RECORD", "TOTAL", "", "$5,127.66"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "310", "Jackelyn", "Senussi", "989-508-6476", "Stoughton", "6 Forest Run Parkway", "Midland", "MI", "48670", "5532253802061136"
+"DETAILS_RECORD", "Garden", "L", "$1,802.71"
+"DETAILS_RECORD", "Shoes", "C", "$1,197.57"
+"DETAILS_RECORD", "Shoes", "S", "$5,513.27"
+"DETAILS_RECORD", "TOTAL", "", "$8,513.55"

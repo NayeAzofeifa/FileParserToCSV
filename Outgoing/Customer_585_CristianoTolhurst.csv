@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "585", "Cristiano", "Tolhurst", "334-529-7372", "Ruskin", "46 Grayhawk Plaza", "Montgomery", "AL", "36134", "3584654028829622"
+"DETAILS_RECORD", "Shoes", "X", "$2,952.32"
+"DETAILS_RECORD", "Toys", "L", "$1,676.20"
+"DETAILS_RECORD", "Computers", "T", "$4,188.96"
+"DETAILS_RECORD", "TOTAL", "", "$8,817.48"

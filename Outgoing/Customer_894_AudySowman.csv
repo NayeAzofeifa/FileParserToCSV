@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "894", "Audy", "Sowman", "646-673-4268", "Hintze", "0 Sugar Lane", "New York City", "NY", "10060", "5602238615913404"
+"DETAILS_RECORD", "Tools", "C", "$1,321.14"
+"DETAILS_RECORD", "Sports", "S", "$7,197.22"
+"DETAILS_RECORD", "Baby", "S", "$9,761.37"
+"DETAILS_RECORD", "TOTAL", "", "$18,279.73"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "36", "Brear", "Lober", "515-703-2323", "Magdeline", "3 Fair Oaks Pass", "Des Moines", "IA", "50320", "3530459055756747"
+"DETAILS_RECORD", "Industrial", "P", "$2,282.71"
+"DETAILS_RECORD", "Beauty", "S", "$6,328.82"
+"DETAILS_RECORD", "Industrial", "N", "$262.36"
+"DETAILS_RECORD", "TOTAL", "", "$8,873.89"

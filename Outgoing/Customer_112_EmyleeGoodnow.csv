@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "112", "Emylee", "Goodnow", "312-104-1027", "Logan", "63022 Vernon Street", "Chicago", "IL", "60669", "67637698155539985"
+"DETAILS_RECORD", "Computers", "S", "$5,186.63"
+"DETAILS_RECORD", "Toys", "S", "$7,212.21"
+"DETAILS_RECORD", "Music", "X", "$2,908.17"
+"DETAILS_RECORD", "TOTAL", "", "$15,307.01"

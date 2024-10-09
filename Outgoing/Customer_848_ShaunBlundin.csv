@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "848", "Shaun", "Blundin", "202-461-7832", "Havey", "46 Oxford Pass", "Washington", "DC", "20525", "4041370488820192"
+"DETAILS_RECORD", "Grocery", "S", "$8,596.94"
+"DETAILS_RECORD", "Music", "S", "$7,847.36"
+"DETAILS_RECORD", "Jewelry", "S", "$6,027.46"
+"DETAILS_RECORD", "TOTAL", "", "$22,471.76"

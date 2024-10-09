@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "926", "Thorpe", "Leithgoe", "915-128-6050", "Forest Run", "86460 Linden Terrace", "El Paso", "TX", "88579", "3572487135420991"
+"DETAILS_RECORD", "Games", "L", "$1,788.89"
+"DETAILS_RECORD", "Movies", "S", "$6,134.54"
+"DETAILS_RECORD", "Baby", "C", "$1,008.46"
+"DETAILS_RECORD", "TOTAL", "", "$8,931.89"

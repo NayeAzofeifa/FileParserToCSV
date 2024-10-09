@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "593", "Ambros", "Henriet", "843-757-2878", "Ridgeway", "870 International Way", "Charleston", "SC", "29424", "337941629339127"
+"DETAILS_RECORD", "Health", "S", "$9,695.03"
+"DETAILS_RECORD", "Baby", "S", "$9,790.00"
+"DETAILS_RECORD", "Games", "S", "$7,694.20"
+"DETAILS_RECORD", "TOTAL", "", "$27,179.23"

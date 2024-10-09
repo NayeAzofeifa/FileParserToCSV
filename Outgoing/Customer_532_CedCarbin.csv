@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "532", "Ced", "Carbin", "708-297-7409", "Oxford", "6 Paget Court", "Schaumburg", "IL", "60193", "374283001796911"
+"DETAILS_RECORD", "Jewelry", "S", "$5,426.19"
+"DETAILS_RECORD", "Games", "S", "$8,157.73"
+"DETAILS_RECORD", "Kids", "N", "$186.24"
+"DETAILS_RECORD", "TOTAL", "", "$13,770.16"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "347", "Wrennie", "Matuska", "412-136-0288", "Anzinger", "43 John Wall Circle", "Pittsburgh", "PA", "15240", "6397576429617738"
+"DETAILS_RECORD", "Sports", "T", "$4,287.69"
+"DETAILS_RECORD", "Home", "P", "$2,102.62"
+"DETAILS_RECORD", "Games", "T", "$3,815.58"
+"DETAILS_RECORD", "TOTAL", "", "$10,205.89"

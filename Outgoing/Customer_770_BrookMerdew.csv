@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "770", "Brook", "Merdew", "704-631-8125", "North", "8 Springs Plaza", "Charlotte", "NC", "28225", "344542664576457"
+"DETAILS_RECORD", "Grocery", "S", "$7,992.16"
+"DETAILS_RECORD", "Tools", "T", "$3,780.37"
+"DETAILS_RECORD", "Toys", "S", "$9,047.74"
+"DETAILS_RECORD", "TOTAL", "", "$20,820.27"

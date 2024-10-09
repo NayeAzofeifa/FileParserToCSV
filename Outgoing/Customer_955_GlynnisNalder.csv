@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "955", "Glynnis", "Nalder", "616-966-9994", "Maple", "11 Shoshone Road", "Grand Rapids", "MI", "49518", "675925594131045232"
+"DETAILS_RECORD", "Clothing", "P", "$2,493.03"
+"DETAILS_RECORD", "Tools", "T", "$4,756.88"
+"DETAILS_RECORD", "Music", "T", "$4,876.67"
+"DETAILS_RECORD", "TOTAL", "", "$12,126.58"

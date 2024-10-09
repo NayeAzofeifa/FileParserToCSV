@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "704", "Frederich", "Dohmann", "410-866-4382", "Springview", "1 Hazelcrest Way", "Baltimore", "MD", "21229", "3578069222549371"
+"DETAILS_RECORD", "Sports", "T", "$4,805.72"
+"DETAILS_RECORD", "Baby", "A", "$930.92"
+"DETAILS_RECORD", "Books", "T", "$4,967.63"
+"DETAILS_RECORD", "TOTAL", "", "$10,704.27"

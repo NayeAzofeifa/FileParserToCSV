@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "191", "Jon", "Budgeon", "719-262-7902", "Hoepker", "5 Village Green Road", "Colorado Springs", "CO", "80945", "5172706936751182"
+"DETAILS_RECORD", "Books", "S", "$7,681.86"
+"DETAILS_RECORD", "Health", "A", "$666.12"
+"DETAILS_RECORD", "Music", "S", "$6,678.51"
+"DETAILS_RECORD", "TOTAL", "", "$15,026.49"

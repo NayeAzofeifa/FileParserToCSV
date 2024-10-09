@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "470", "Geoffry", "Vernon", "816-466-4979", "Corry", "8274 Graceland Way", "Kansas City", "MO", "64144", "3562517071861550"
+"DETAILS_RECORD", "Industrial", "N", "$454.92"
+"DETAILS_RECORD", "Baby", "S", "$8,439.71"
+"DETAILS_RECORD", "Industrial", "C", "$1,067.41"
+"DETAILS_RECORD", "TOTAL", "", "$9,962.04"

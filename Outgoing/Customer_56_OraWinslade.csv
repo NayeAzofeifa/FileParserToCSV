@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "56", "Ora", "Winslade", "901-520-1310", "Grover", "8 Kedzie Center", "Memphis", "TN", "38188", "3553245902707773"
+"DETAILS_RECORD", "Electronics", "N", "$495.22"
+"DETAILS_RECORD", "Industrial", "S", "$8,407.66"
+"DETAILS_RECORD", "Kids", "T", "$4,781.65"
+"DETAILS_RECORD", "TOTAL", "", "$13,684.53"

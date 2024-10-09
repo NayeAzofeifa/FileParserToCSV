@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "521", "Kimbell", "Bolsover", "205-386-9225", "Buena Vista", "52597 Washington Terrace", "Birmingham", "AL", "35205", "5002358884432328"
+"DETAILS_RECORD", "Baby", "C", "$1,158.56"
+"DETAILS_RECORD", "Tools", "S", "$9,269.20"
+"DETAILS_RECORD", "Garden", "S", "$6,672.12"
+"DETAILS_RECORD", "TOTAL", "", "$17,099.88"

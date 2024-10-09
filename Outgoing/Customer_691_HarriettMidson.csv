@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "691", "Harriett", "Midson", "727-435-9670", "Westridge", "2 Susan Plaza", "Clearwater", "FL", "33763", "3566404345208510"
+"DETAILS_RECORD", "Kids", "S", "$5,377.54"
+"DETAILS_RECORD", "Jewelry", "S", "$7,795.67"
+"DETAILS_RECORD", "Games", "S", "$9,963.09"
+"DETAILS_RECORD", "TOTAL", "", "$23,136.30"

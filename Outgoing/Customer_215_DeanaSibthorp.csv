@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "215", "Deana", "Sibthorp", "909-970-4618", "Declaration", "589 Novick Point", "Riverside", "CA", "92505", "3582157830262067"
+"DETAILS_RECORD", "Clothing", "C", "$1,082.07"
+"DETAILS_RECORD", "Books", "C", "$1,043.07"
+"DETAILS_RECORD", "Shoes", "S", "$6,525.49"
+"DETAILS_RECORD", "TOTAL", "", "$8,650.63"

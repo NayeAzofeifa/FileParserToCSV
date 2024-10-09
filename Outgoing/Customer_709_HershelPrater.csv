@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "709", "Hershel", "Prater", "814-657-0525", "Burning Wood", "3148 Anniversary Way", "Erie", "PA", "16522", "3531049018362128"
+"DETAILS_RECORD", "Books", "S", "$7,843.99"
+"DETAILS_RECORD", "Grocery", "S", "$8,565.91"
+"DETAILS_RECORD", "Baby", "S", "$7,605.99"
+"DETAILS_RECORD", "TOTAL", "", "$24,015.89"

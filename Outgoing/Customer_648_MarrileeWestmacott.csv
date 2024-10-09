@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "648", "Marrilee", "Westmacott", "410-768-9092", "Golf", "775 Prairieview Junction", "Baltimore", "MD", "21281", "501868888808556688"
+"DETAILS_RECORD", "Sports", "T", "$3,831.50"
+"DETAILS_RECORD", "Beauty", "S", "$7,627.55"
+"DETAILS_RECORD", "Garden", "S", "$5,079.93"
+"DETAILS_RECORD", "TOTAL", "", "$16,538.98"

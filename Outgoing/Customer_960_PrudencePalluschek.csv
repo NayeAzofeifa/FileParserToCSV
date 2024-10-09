@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "960", "Prudence", "Palluschek", "352-501-1209", "Grim", "15267 Anderson Road", "Ocala", "FL", "34474", "5564261439409389"
+"DETAILS_RECORD", "Electronics", "S", "$7,179.28"
+"DETAILS_RECORD", "Industrial", "L", "$1,636.06"
+"DETAILS_RECORD", "Jewelry", "S", "$9,614.20"
+"DETAILS_RECORD", "TOTAL", "", "$18,429.54"

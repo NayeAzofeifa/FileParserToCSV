@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "737", "Decca", "Dorn", "863-111-6515", "Warbler", "6152 Lakeland Hill", "Lakeland", "FL", "33811", "676726775120696098"
+"DETAILS_RECORD", "Beauty", "A", "$771.80"
+"DETAILS_RECORD", "Garden", "S", "$5,416.59"
+"DETAILS_RECORD", "Jewelry", "T", "$3,218.44"
+"DETAILS_RECORD", "TOTAL", "", "$9,406.83"

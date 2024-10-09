@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "121", "Abbi", "Adamec", "318-985-5096", "Gateway", "0 Veith Junction", "Shreveport", "LA", "71137", "374288334999090"
+"DETAILS_RECORD", "Toys", "S", "$9,430.24"
+"DETAILS_RECORD", "Books", "X", "$2,553.09"
+"DETAILS_RECORD", "Baby", "P", "$2,347.00"
+"DETAILS_RECORD", "TOTAL", "", "$14,330.33"

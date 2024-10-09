@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "223", "Wilmer", "Marfell", "214-425-1397", "Summit", "5855 Garrison Lane", "Dallas", "TX", "75379", "6386067197511298"
+"DETAILS_RECORD", "Health", "S", "$8,470.12"
+"DETAILS_RECORD", "Industrial", "S", "$9,886.22"
+"DETAILS_RECORD", "Music", "S", "$9,136.87"
+"DETAILS_RECORD", "TOTAL", "", "$27,493.21"

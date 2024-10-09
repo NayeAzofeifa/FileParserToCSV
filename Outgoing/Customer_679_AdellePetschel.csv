@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "679", "Adelle", "Petschel", "773-574-7412", "Kenwood", "63 Sheridan Court", "Chicago", "IL", "60652", "3541613400550547"
+"DETAILS_RECORD", "Sports", "X", "$2,877.68"
+"DETAILS_RECORD", "Movies", "S", "$5,024.89"
+"DETAILS_RECORD", "Movies", "T", "$4,172.64"
+"DETAILS_RECORD", "TOTAL", "", "$12,075.21"

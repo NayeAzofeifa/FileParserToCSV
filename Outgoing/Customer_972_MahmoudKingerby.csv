@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "972", "Mahmoud", "Kingerby", "415-399-5204", "Ramsey", "8 Butterfield Road", "San Rafael", "CA", "94913", "630448549060593555"
+"DETAILS_RECORD", "Tools", "S", "$6,371.03"
+"DETAILS_RECORD", "Computers", "S", "$7,160.76"
+"DETAILS_RECORD", "Electronics", "T", "$4,985.31"
+"DETAILS_RECORD", "TOTAL", "", "$18,517.10"

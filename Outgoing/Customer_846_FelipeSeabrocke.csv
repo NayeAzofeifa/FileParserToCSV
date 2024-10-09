@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "846", "Felipe", "Seabrocke", "256-940-1419", "Rowland", "3 Myrtle Pass", "Anniston", "AL", "36205", "6333727989203757450"
+"DETAILS_RECORD", "Health", "T", "$4,391.78"
+"DETAILS_RECORD", "Tools", "T", "$4,799.87"
+"DETAILS_RECORD", "Jewelry", "C", "$1,292.16"
+"DETAILS_RECORD", "TOTAL", "", "$10,483.81"

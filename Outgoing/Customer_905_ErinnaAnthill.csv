@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "905", "Erinna", "Anthill", "765-297-5349", "Chinook", "818 Forster Street", "Anderson", "IN", "46015", "5602217813871002"
+"DETAILS_RECORD", "Shoes", "S", "$8,651.84"
+"DETAILS_RECORD", "Health", "T", "$4,401.66"
+"DETAILS_RECORD", "Movies", "S", "$6,193.06"
+"DETAILS_RECORD", "TOTAL", "", "$19,246.56"

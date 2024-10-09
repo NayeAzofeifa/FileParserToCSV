@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "874", "Innis", "Murrthum", "317-159-1464", "Sycamore", "23650 Heffernan Way", "Indianapolis", "IN", "46295", "3576018943325431"
+"DETAILS_RECORD", "Jewelry", "T", "$3,732.81"
+"DETAILS_RECORD", "Jewelry", "S", "$8,161.75"
+"DETAILS_RECORD", "Electronics", "S", "$5,061.80"
+"DETAILS_RECORD", "TOTAL", "", "$16,956.36"

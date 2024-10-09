@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "393", "Donelle", "Spours", "972-949-4095", "Mallard", "4520 Little Fleur Place", "Dallas", "TX", "75221", "6304799856748386"
+"DETAILS_RECORD", "Automotive", "S", "$6,247.13"
+"DETAILS_RECORD", "Computers", "T", "$3,228.29"
+"DETAILS_RECORD", "Outdoors", "S", "$5,569.15"
+"DETAILS_RECORD", "TOTAL", "", "$15,044.57"

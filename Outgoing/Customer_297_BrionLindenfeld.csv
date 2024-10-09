@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "297", "Brion", "Lindenfeld", "434-104-6913", "Hoepker", "3673 Hoffman Circle", "Manassas", "VA", "22111", "30307976318827"
+"DETAILS_RECORD", "Beauty", "A", "$609.94"
+"DETAILS_RECORD", "Clothing", "P", "$2,281.68"
+"DETAILS_RECORD", "Health", "S", "$8,514.06"
+"DETAILS_RECORD", "TOTAL", "", "$11,405.68"

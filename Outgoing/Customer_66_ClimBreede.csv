@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "66", "Clim", "Breede", "502-258-8882", "Kropf", "40 Mendota Avenue", "Louisville", "KY", "40233", "5641829210088887914"
+"DETAILS_RECORD", "Jewelry", "T", "$3,155.12"
+"DETAILS_RECORD", "Tools", "A", "$992.29"
+"DETAILS_RECORD", "Automotive", "S", "$6,665.22"
+"DETAILS_RECORD", "TOTAL", "", "$10,812.63"

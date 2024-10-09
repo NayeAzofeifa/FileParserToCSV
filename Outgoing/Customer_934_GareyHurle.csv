@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "934", "Garey", "Hurle", "443-112-0605", "Birchwood", "993 Nova Park", "Baltimore", "MD", "21239", "3588755130098356"
+"DETAILS_RECORD", "Automotive", "S", "$9,800.78"
+"DETAILS_RECORD", "Baby", "T", "$3,070.99"
+"DETAILS_RECORD", "Outdoors", "S", "$6,825.25"
+"DETAILS_RECORD", "TOTAL", "", "$19,697.02"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "237", "Leopold", "Moen", "915-439-6938", "Barnett", "39 Monica Junction", "El Paso", "TX", "88535", "3540461116739884"
+"DETAILS_RECORD", "Shoes", "S", "$5,985.14"
+"DETAILS_RECORD", "Beauty", "X", "$2,754.59"
+"DETAILS_RECORD", "Grocery", "X", "$2,689.23"
+"DETAILS_RECORD", "TOTAL", "", "$11,428.96"

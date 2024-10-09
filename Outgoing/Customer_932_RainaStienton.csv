@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "932", "Raina", "Stienton", "570-130-2708", "Kipling", "045 Ryan Junction", "Scranton", "PA", "18505", "633323937118544510"
+"DETAILS_RECORD", "Home", "S", "$7,664.32"
+"DETAILS_RECORD", "Grocery", "S", "$5,677.46"
+"DETAILS_RECORD", "Sports", "S", "$6,305.89"
+"DETAILS_RECORD", "TOTAL", "", "$19,647.67"

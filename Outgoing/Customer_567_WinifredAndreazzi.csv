@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "567", "Winifred", "Andreazzi", "813-959-4240", "Vermont", "45 Ruskin Point", "Tampa", "FL", "33673", "6762037795316923"
+"DETAILS_RECORD", "Books", "T", "$4,568.22"
+"DETAILS_RECORD", "Baby", "T", "$4,978.30"
+"DETAILS_RECORD", "Health", "T", "$4,993.00"
+"DETAILS_RECORD", "TOTAL", "", "$14,539.52"

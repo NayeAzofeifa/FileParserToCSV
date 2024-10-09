@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "391", "Kaitlynn", "Francino", "602-100-2954", "Jenifer", "07 Delladonna Center", "Phoenix", "AZ", "85083", "374283266655216"
+"DETAILS_RECORD", "Automotive", "S", "$8,232.55"
+"DETAILS_RECORD", "Electronics", "S", "$6,908.63"
+"DETAILS_RECORD", "Sports", "C", "$1,275.10"
+"DETAILS_RECORD", "TOTAL", "", "$16,416.28"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "897", "Alica", "Klyner", "813-139-4988", "Everett", "1776 Aberg Junction", "Tampa", "FL", "33661", "3562883721642471"
+"DETAILS_RECORD", "Movies", "S", "$5,554.63"
+"DETAILS_RECORD", "Jewelry", "L", "$1,828.00"
+"DETAILS_RECORD", "Home", "L", "$1,921.45"
+"DETAILS_RECORD", "TOTAL", "", "$9,304.08"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "622", "Almeta", "Grabb", "901-537-0931", "Glacier Hill", "65 Kingsford Trail", "Memphis", "TN", "38181", "4905833619425170327"
+"DETAILS_RECORD", "Automotive", "S", "$9,367.63"
+"DETAILS_RECORD", "Automotive", "T", "$3,278.34"
+"DETAILS_RECORD", "Games", "S", "$7,612.56"
+"DETAILS_RECORD", "TOTAL", "", "$20,258.53"

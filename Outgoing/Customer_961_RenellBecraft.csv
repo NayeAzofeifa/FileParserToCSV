@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "961", "Renell", "Becraft", "404-319-5766", "La Follette", "50 Lotheville Park", "Atlanta", "GA", "31165", "633302406949313805"
+"DETAILS_RECORD", "Automotive", "L", "$1,500.07"
+"DETAILS_RECORD", "Automotive", "S", "$7,033.40"
+"DETAILS_RECORD", "Beauty", "S", "$6,583.92"
+"DETAILS_RECORD", "TOTAL", "", "$15,117.39"

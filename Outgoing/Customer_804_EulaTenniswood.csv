@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "804", "Eula", "Tenniswood", "404-678-8767", "Meadow Ridge", "1949 Sunnyside Junction", "Decatur", "GA", "30033", "3529018012477293"
+"DETAILS_RECORD", "Computers", "S", "$7,169.64"
+"DETAILS_RECORD", "Movies", "X", "$2,593.43"
+"DETAILS_RECORD", "Health", "L", "$1,505.03"
+"DETAILS_RECORD", "TOTAL", "", "$11,268.10"

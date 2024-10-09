@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "678", "Thorn", "Eusden", "405-143-1580", "David", "8 Truax Way", "Norman", "OK", "73071", "5602211729324008"
+"DETAILS_RECORD", "Sports", "S", "$7,670.21"
+"DETAILS_RECORD", "Tools", "S", "$6,475.26"
+"DETAILS_RECORD", "Outdoors", "T", "$4,758.20"
+"DETAILS_RECORD", "TOTAL", "", "$18,903.67"

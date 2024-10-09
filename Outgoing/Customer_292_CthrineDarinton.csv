@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "292", "Cthrine", "Darinton", "509-505-4160", "Sunnyside", "93 West Junction", "Spokane", "WA", "99260", "3540508267065582"
+"DETAILS_RECORD", "Garden", "L", "$1,522.79"
+"DETAILS_RECORD", "Sports", "S", "$8,373.49"
+"DETAILS_RECORD", "Industrial", "S", "$8,596.71"
+"DETAILS_RECORD", "TOTAL", "", "$18,492.99"

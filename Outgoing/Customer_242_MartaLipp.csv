@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "242", "Marta", "Lipp", "304-676-0902", "Del Mar", "00595 Morrow Point", "Charleston", "WV", "25326", "67091330020513214"
+"DETAILS_RECORD", "Sports", "T", "$4,591.27"
+"DETAILS_RECORD", "Music", "T", "$4,299.72"
+"DETAILS_RECORD", "Movies", "T", "$4,860.49"
+"DETAILS_RECORD", "TOTAL", "", "$13,751.48"

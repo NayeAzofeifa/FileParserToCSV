@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "376", "Kial", "Harmon", "859-771-7562", "Northfield", "015 Hallows Drive", "Lexington", "KY", "40596", "3575350792345496"
+"DETAILS_RECORD", "Jewelry", "S", "$5,751.71"
+"DETAILS_RECORD", "Books", "T", "$3,821.32"
+"DETAILS_RECORD", "Movies", "X", "$2,655.91"
+"DETAILS_RECORD", "TOTAL", "", "$12,228.94"

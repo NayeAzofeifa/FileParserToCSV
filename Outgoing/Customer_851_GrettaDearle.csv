@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "851", "Gretta", "Dearle", "412-656-8924", "Hallows", "58666 Elka Terrace", "Pittsburgh", "PA", "15274", "3585660957926411"
+"DETAILS_RECORD", "Automotive", "S", "$8,242.05"
+"DETAILS_RECORD", "Kids", "L", "$1,813.24"
+"DETAILS_RECORD", "Sports", "S", "$6,138.41"
+"DETAILS_RECORD", "TOTAL", "", "$16,193.70"

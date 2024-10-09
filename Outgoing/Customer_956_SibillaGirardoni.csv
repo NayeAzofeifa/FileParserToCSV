@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "956", "Sibilla", "Girardoni", "334-493-0331", "Monterey", "96 Randy Point", "Montgomery", "AL", "36119", "5002354587163542"
+"DETAILS_RECORD", "Tools", "S", "$8,661.75"
+"DETAILS_RECORD", "Kids", "S", "$8,535.16"
+"DETAILS_RECORD", "Sports", "S", "$8,801.32"
+"DETAILS_RECORD", "TOTAL", "", "$25,998.23"

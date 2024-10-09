@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "882", "Dov", "Elsley", "402-368-1109", "Everett", "80255 Clarendon Road", "Omaha", "NE", "68117", "3542698508255908"
+"DETAILS_RECORD", "Movies", "P", "$2,053.21"
+"DETAILS_RECORD", "Jewelry", "T", "$4,945.14"
+"DETAILS_RECORD", "Grocery", "S", "$5,784.36"
+"DETAILS_RECORD", "TOTAL", "", "$12,782.71"

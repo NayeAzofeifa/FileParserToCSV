@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "863", "Ilyssa", "Sarjeant", "229-635-7737", "Nova", "2 Gerald Crossing", "Valdosta", "GA", "31605", "379391451907022"
+"DETAILS_RECORD", "Automotive", "S", "$8,536.57"
+"DETAILS_RECORD", "Clothing", "T", "$4,453.63"
+"DETAILS_RECORD", "Home", "T", "$3,437.04"
+"DETAILS_RECORD", "TOTAL", "", "$16,427.24"

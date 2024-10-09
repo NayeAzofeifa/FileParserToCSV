@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "601", "Peter", "Bowlesworth", "317-492-7169", "Sugar", "92 Lindbergh Lane", "Indianapolis", "IN", "46278", "3582710925170742"
+"DETAILS_RECORD", "Computers", "S", "$8,395.11"
+"DETAILS_RECORD", "Movies", "S", "$7,436.19"
+"DETAILS_RECORD", "Music", "S", "$7,390.47"
+"DETAILS_RECORD", "TOTAL", "", "$23,221.77"

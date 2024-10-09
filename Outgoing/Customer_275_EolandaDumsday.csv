@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "275", "Eolanda", "Dumsday", "816-677-3229", "Scoville", "01 Cardinal Road", "Kansas City", "MO", "64187", "3550982707130917"
+"DETAILS_RECORD", "Books", "S", "$8,128.14"
+"DETAILS_RECORD", "Automotive", "S", "$5,457.72"
+"DETAILS_RECORD", "Automotive", "T", "$4,189.02"
+"DETAILS_RECORD", "TOTAL", "", "$17,774.88"

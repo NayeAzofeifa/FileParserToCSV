@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "635", "Agnola", "Caldicott", "213-890-0094", "Hooker", "4149 Hauk Circle", "Los Angeles", "CA", "90087", "3577929643345546"
+"DETAILS_RECORD", "Kids", "T", "$4,872.41"
+"DETAILS_RECORD", "Computers", "S", "$7,295.53"
+"DETAILS_RECORD", "Home", "S", "$9,064.04"
+"DETAILS_RECORD", "TOTAL", "", "$21,231.98"

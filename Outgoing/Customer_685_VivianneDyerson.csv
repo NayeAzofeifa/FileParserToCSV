@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "685", "Vivianne", "Dyerson", "315-204-1942", "Mayer", "229 Jana Parkway", "Syracuse", "NY", "13205", "3549474716314470"
+"DETAILS_RECORD", "Computers", "C", "$1,473.00"
+"DETAILS_RECORD", "Outdoors", "N", "$361.73"
+"DETAILS_RECORD", "Music", "N", "$214.04"
+"DETAILS_RECORD", "TOTAL", "", "$2,048.77"

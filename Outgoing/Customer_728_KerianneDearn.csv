@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "728", "Kerianne", "Dearn", "520-766-9109", "Kenwood", "639 Bayside Crossing", "Tucson", "AZ", "85748", "3563350807264934"
+"DETAILS_RECORD", "Grocery", "T", "$3,504.01"
+"DETAILS_RECORD", "Movies", "T", "$4,362.99"
+"DETAILS_RECORD", "Games", "X", "$2,682.51"
+"DETAILS_RECORD", "TOTAL", "", "$10,549.51"

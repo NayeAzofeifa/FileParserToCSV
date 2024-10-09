@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "694", "Jasmin", "Fairholm", "936-650-8052", "Crescent Oaks", "67 Homewood Place", "Huntsville", "TX", "77343", "4405972107763388"
+"DETAILS_RECORD", "Movies", "T", "$3,543.87"
+"DETAILS_RECORD", "Kids", "T", "$4,490.66"
+"DETAILS_RECORD", "Jewelry", "X", "$2,650.00"
+"DETAILS_RECORD", "TOTAL", "", "$10,684.53"

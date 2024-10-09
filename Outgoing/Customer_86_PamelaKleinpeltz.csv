@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "86", "Pamela", "Kleinpeltz", "609-862-6870", "Heath", "219 Randy Junction", "Trenton", "NJ", "08650", "633429859671438380"
+"DETAILS_RECORD", "Toys", "A", "$547.40"
+"DETAILS_RECORD", "Outdoors", "S", "$7,656.69"
+"DETAILS_RECORD", "Jewelry", "S", "$6,013.99"
+"DETAILS_RECORD", "TOTAL", "", "$14,218.08"

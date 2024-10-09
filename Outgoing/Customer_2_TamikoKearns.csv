@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "2", "Tamiko", "Kearns", "304-393-0993", "Clyde Gallagher", "154 Independence Road", "Huntington", "WV", "25726", "3559914002551811"
+"DETAILS_RECORD", "Toys", "N", "$125.17"
+"DETAILS_RECORD", "Tools", "S", "$8,408.96"
+"DETAILS_RECORD", "Movies", "T", "$4,483.48"
+"DETAILS_RECORD", "TOTAL", "", "$13,017.61"

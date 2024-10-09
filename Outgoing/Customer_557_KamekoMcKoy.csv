@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "557", "Kameko", "McKoy", "832-790-7758", "Express", "8 Northfield Junction", "Spring", "TX", "77386", "4844198705468795"
+"DETAILS_RECORD", "Home", "T", "$4,184.00"
+"DETAILS_RECORD", "Baby", "N", "$455.00"
+"DETAILS_RECORD", "Outdoors", "S", "$5,953.28"
+"DETAILS_RECORD", "TOTAL", "", "$10,592.28"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "821", "Morissa", "Pancast", "209-277-0191", "2nd", "009 Troy Trail", "Fresno", "CA", "93704", "201626450418404"
+"DETAILS_RECORD", "Garden", "S", "$7,815.06"
+"DETAILS_RECORD", "Outdoors", "T", "$4,493.92"
+"DETAILS_RECORD", "Tools", "T", "$4,981.58"
+"DETAILS_RECORD", "TOTAL", "", "$17,290.56"

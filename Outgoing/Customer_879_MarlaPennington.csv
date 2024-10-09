@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "879", "Marla", "Pennington", "915-201-3862", "Prairie Rose", "59918 Burning Wood Road", "El Paso", "TX", "88563", "3552723204433687"
+"DETAILS_RECORD", "Kids", "P", "$2,431.62"
+"DETAILS_RECORD", "Tools", "A", "$657.10"
+"DETAILS_RECORD", "Outdoors", "S", "$5,739.70"
+"DETAILS_RECORD", "TOTAL", "", "$8,828.42"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "315", "Koral", "Dominiak", "423-959-4179", "Talisman", "99417 Monterey Parkway", "Chattanooga", "TN", "37405", "4405839463364657"
+"DETAILS_RECORD", "Electronics", "T", "$3,014.36"
+"DETAILS_RECORD", "Kids", "N", "$0.37"
+"DETAILS_RECORD", "Games", "S", "$5,683.55"
+"DETAILS_RECORD", "TOTAL", "", "$8,698.28"

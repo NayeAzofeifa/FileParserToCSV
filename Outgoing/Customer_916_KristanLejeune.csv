@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "916", "Kristan", "Lejeune", "915-190-2830", "Clove", "8 Sutteridge Junction", "El Paso", "TX", "79977", "201691954877588"
+"DETAILS_RECORD", "Health", "S", "$9,401.32"
+"DETAILS_RECORD", "Electronics", "T", "$3,129.77"
+"DETAILS_RECORD", "Shoes", "N", "$25.97"
+"DETAILS_RECORD", "TOTAL", "", "$12,557.06"

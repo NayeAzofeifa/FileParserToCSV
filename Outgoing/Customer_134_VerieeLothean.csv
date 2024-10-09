@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "134", "Veriee", "Lothean", "203-996-4875", "Sullivan", "602 Redwing Trail", "Stamford", "CT", "06905", "6381511188521985"
+"DETAILS_RECORD", "Games", "S", "$8,045.27"
+"DETAILS_RECORD", "Garden", "P", "$2,099.96"
+"DETAILS_RECORD", "Home", "S", "$9,803.39"
+"DETAILS_RECORD", "TOTAL", "", "$19,948.62"

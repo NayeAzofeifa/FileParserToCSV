@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "377", "Sandye", "Stag", "972-506-6570", "Carey", "3883 Spenser Road", "Dallas", "TX", "75210", "3570893706515162"
+"DETAILS_RECORD", "Home", "S", "$9,988.44"
+"DETAILS_RECORD", "Outdoors", "S", "$8,739.97"
+"DETAILS_RECORD", "Outdoors", "S", "$9,567.38"
+"DETAILS_RECORD", "TOTAL", "", "$28,295.79"

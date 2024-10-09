@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "844", "Dillie", "Goudard", "515-487-1819", "Sugar", "7 Nova Park", "Des Moines", "IA", "50310", "4026262435193501"
+"DETAILS_RECORD", "Kids", "S", "$5,810.01"
+"DETAILS_RECORD", "Computers", "S", "$9,353.47"
+"DETAILS_RECORD", "Electronics", "S", "$8,151.11"
+"DETAILS_RECORD", "TOTAL", "", "$23,314.59"

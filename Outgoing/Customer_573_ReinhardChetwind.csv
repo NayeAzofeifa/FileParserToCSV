@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "573", "Reinhard", "Chetwind", "520-688-5395", "Armistice", "7 Mosinee Road", "Prescott", "AZ", "86305", "6304939579829481"
+"DETAILS_RECORD", "Industrial", "T", "$3,219.60"
+"DETAILS_RECORD", "Sports", "T", "$3,894.95"
+"DETAILS_RECORD", "Shoes", "S", "$8,105.18"
+"DETAILS_RECORD", "TOTAL", "", "$15,219.73"

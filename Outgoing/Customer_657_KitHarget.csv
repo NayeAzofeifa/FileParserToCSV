@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "657", "Kit", "Harget", "319-124-6307", "Glendale", "7929 6th Avenue", "Iowa City", "IA", "52245", "201454601207760"
+"DETAILS_RECORD", "Kids", "T", "$4,863.18"
+"DETAILS_RECORD", "Kids", "X", "$2,512.54"
+"DETAILS_RECORD", "Electronics", "L", "$1,956.47"
+"DETAILS_RECORD", "TOTAL", "", "$9,332.19"

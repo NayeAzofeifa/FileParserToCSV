@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "518", "Livy", "Possa", "757-921-0311", "Graedel", "381 Lindbergh Point", "Suffolk", "VA", "23436", "493602286037285404"
+"DETAILS_RECORD", "Shoes", "P", "$2,230.61"
+"DETAILS_RECORD", "Home", "S", "$7,676.08"
+"DETAILS_RECORD", "Home", "A", "$974.18"
+"DETAILS_RECORD", "TOTAL", "", "$10,880.87"

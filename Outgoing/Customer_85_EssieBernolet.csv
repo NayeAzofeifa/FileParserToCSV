@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "85", "Essie", "Bernolet", "212-301-7764", "Sheridan", "8843 David Point", "Brooklyn", "NY", "11247", "5610772540426934"
+"DETAILS_RECORD", "Kids", "S", "$9,591.77"
+"DETAILS_RECORD", "Games", "S", "$8,157.38"
+"DETAILS_RECORD", "Movies", "T", "$4,328.00"
+"DETAILS_RECORD", "TOTAL", "", "$22,077.15"

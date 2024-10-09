@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "477", "Giovanna", "Stiegar", "217-277-9090", "Lyons", "18942 Warrior Park", "Champaign", "IL", "61825", "6771315401985755"
+"DETAILS_RECORD", "Clothing", "A", "$519.89"
+"DETAILS_RECORD", "Industrial", "N", "$494.99"
+"DETAILS_RECORD", "Jewelry", "T", "$3,535.56"
+"DETAILS_RECORD", "TOTAL", "", "$4,550.44"

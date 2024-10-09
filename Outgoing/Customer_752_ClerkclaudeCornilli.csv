@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "752", "Clerkclaude", "Cornilli", "806-588-1441", "Golden Leaf", "8408 Burrows Pass", "Amarillo", "TX", "79176", "5269855701401442"
+"DETAILS_RECORD", "Movies", "L", "$1,590.89"
+"DETAILS_RECORD", "Outdoors", "S", "$6,345.53"
+"DETAILS_RECORD", "Clothing", "L", "$1,738.62"
+"DETAILS_RECORD", "TOTAL", "", "$9,675.04"

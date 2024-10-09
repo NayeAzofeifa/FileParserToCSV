@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "249", "Luciano", "McCormick", "404-205-1303", "Acker", "7 Melrose Circle", "Atlanta", "GA", "31136", "5216601672427600"
+"DETAILS_RECORD", "Baby", "S", "$6,508.23"
+"DETAILS_RECORD", "Automotive", "P", "$2,375.92"
+"DETAILS_RECORD", "Baby", "L", "$1,988.02"
+"DETAILS_RECORD", "TOTAL", "", "$10,872.17"

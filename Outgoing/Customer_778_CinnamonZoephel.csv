@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "778", "Cinnamon", "Zoephel", "253-700-5014", "Chive", "27 Upham Parkway", "Tacoma", "WA", "98442", "5018185561072475697"
+"DETAILS_RECORD", "Clothing", "L", "$1,751.29"
+"DETAILS_RECORD", "Kids", "S", "$8,456.91"
+"DETAILS_RECORD", "Automotive", "L", "$1,953.69"
+"DETAILS_RECORD", "TOTAL", "", "$12,161.89"

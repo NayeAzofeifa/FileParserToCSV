@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "562", "Jan", "Moutray Read", "574-254-5545", "Kropf", "907 Macpherson Avenue", "South Bend", "IN", "46699", "30452030747403"
+"DETAILS_RECORD", "Industrial", "P", "$2,443.46"
+"DETAILS_RECORD", "Books", "S", "$9,983.06"
+"DETAILS_RECORD", "Computers", "T", "$3,449.45"
+"DETAILS_RECORD", "TOTAL", "", "$15,875.97"

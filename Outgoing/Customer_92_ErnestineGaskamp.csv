@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "92", "Ernestine", "Gaskamp", "484-387-6598", "Milwaukee", "8 Pierstorff Plaza", "Valley Forge", "PA", "19495", "490597885531731145"
+"DETAILS_RECORD", "Books", "T", "$3,548.29"
+"DETAILS_RECORD", "Home", "S", "$7,803.59"
+"DETAILS_RECORD", "Toys", "S", "$5,226.28"
+"DETAILS_RECORD", "TOTAL", "", "$16,578.16"

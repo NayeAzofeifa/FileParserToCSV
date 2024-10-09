@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "988", "Alfie", "Railton", "915-372-6076", "Arrowood", "1 Superior Street", "El Paso", "TX", "88519", "5010121521055864"
+"DETAILS_RECORD", "Automotive", "S", "$9,248.96"
+"DETAILS_RECORD", "Electronics", "P", "$2,472.34"
+"DETAILS_RECORD", "Jewelry", "N", "$158.66"
+"DETAILS_RECORD", "TOTAL", "", "$11,879.96"

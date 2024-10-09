@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "641", "Drona", "Faire", "754-776-4239", "Center", "950 Village Green Lane", "Fort Lauderdale", "FL", "33320", "6759060485255172"
+"DETAILS_RECORD", "Sports", "S", "$8,294.93"
+"DETAILS_RECORD", "Tools", "S", "$8,170.42"
+"DETAILS_RECORD", "Health", "S", "$5,693.38"
+"DETAILS_RECORD", "TOTAL", "", "$22,158.73"

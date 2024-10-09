@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "640", "Morly", "Pyzer", "334-339-3548", "Alpine", "31123 Donald Road", "Montgomery", "AL", "36119", "3566033699524113"
+"DETAILS_RECORD", "Grocery", "T", "$4,612.79"
+"DETAILS_RECORD", "Games", "X", "$2,756.82"
+"DETAILS_RECORD", "Jewelry", "T", "$3,049.82"
+"DETAILS_RECORD", "TOTAL", "", "$10,419.43"

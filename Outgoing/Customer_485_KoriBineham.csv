@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "485", "Kori", "Bineham", "305-998-2911", "Hagan", "58 Haas Court", "Miami", "FL", "33180", "4905013376142197"
+"DETAILS_RECORD", "Grocery", "T", "$4,659.51"
+"DETAILS_RECORD", "Games", "P", "$2,200.24"
+"DETAILS_RECORD", "Tools", "S", "$5,508.98"
+"DETAILS_RECORD", "TOTAL", "", "$12,368.73"

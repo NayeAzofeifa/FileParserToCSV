@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "702", "Elliot", "Hasted", "609-602-5436", "Evergreen", "58122 Kenwood Crossing", "Trenton", "NJ", "08603", "5318352382497312"
+"DETAILS_RECORD", "Health", "S", "$5,489.09"
+"DETAILS_RECORD", "Games", "S", "$6,363.93"
+"DETAILS_RECORD", "Electronics", "S", "$8,800.10"
+"DETAILS_RECORD", "TOTAL", "", "$20,653.12"

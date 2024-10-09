@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "545", "Bili", "Faussett", "806-561-6096", "Beilfuss", "2656 Westend Street", "Amarillo", "TX", "79118", "5146790607325685"
+"DETAILS_RECORD", "Computers", "C", "$1,029.36"
+"DETAILS_RECORD", "Shoes", "T", "$3,378.00"
+"DETAILS_RECORD", "Grocery", "C", "$1,292.56"
+"DETAILS_RECORD", "TOTAL", "", "$5,699.92"

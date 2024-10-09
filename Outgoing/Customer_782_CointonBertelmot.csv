@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "782", "Cointon", "Bertelmot", "512-826-4062", "Redwing", "9020 Jana Center", "Austin", "TX", "78726", "3552953359043706"
+"DETAILS_RECORD", "Health", "A", "$503.80"
+"DETAILS_RECORD", "Garden", "T", "$3,139.51"
+"DETAILS_RECORD", "Health", "S", "$9,513.46"
+"DETAILS_RECORD", "TOTAL", "", "$13,156.77"

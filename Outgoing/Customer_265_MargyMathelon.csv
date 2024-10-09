@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "265", "Margy", "Mathelon", "304-611-7188", "Maywood", "64 Vermont Point", "Charleston", "WV", "25331", "5602210851715173"
+"DETAILS_RECORD", "Baby", "S", "$5,439.42"
+"DETAILS_RECORD", "Games", "N", "$357.46"
+"DETAILS_RECORD", "Electronics", "T", "$4,000.94"
+"DETAILS_RECORD", "TOTAL", "", "$9,797.82"

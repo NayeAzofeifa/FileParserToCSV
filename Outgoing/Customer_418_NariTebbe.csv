@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "418", "Nari", "Tebbe", "414-528-1598", "2nd", "3 Harper Court", "Milwaukee", "WI", "53225", "3565771103388192"
+"DETAILS_RECORD", "Sports", "S", "$7,516.56"
+"DETAILS_RECORD", "Computers", "T", "$4,885.75"
+"DETAILS_RECORD", "Garden", "N", "$443.23"
+"DETAILS_RECORD", "TOTAL", "", "$12,845.54"

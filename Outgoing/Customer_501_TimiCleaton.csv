@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "501", "Timi", "Cleaton", "208-141-9696", "Carberry", "8191 Kensington Alley", "Boise", "ID", "83705", "0604098169069327471"
+"DETAILS_RECORD", "Automotive", "S", "$8,646.86"
+"DETAILS_RECORD", "Beauty", "S", "$8,570.08"
+"DETAILS_RECORD", "Beauty", "S", "$9,907.05"
+"DETAILS_RECORD", "TOTAL", "", "$27,123.99"

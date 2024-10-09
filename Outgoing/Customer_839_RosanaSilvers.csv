@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "839", "Rosana", "Silvers", "303-227-2043", "Clemons", "7 South Terrace", "Denver", "CO", "80270", "201684718078122"
+"DETAILS_RECORD", "Sports", "S", "$7,677.82"
+"DETAILS_RECORD", "Clothing", "S", "$5,880.01"
+"DETAILS_RECORD", "Tools", "T", "$3,178.33"
+"DETAILS_RECORD", "TOTAL", "", "$16,736.16"

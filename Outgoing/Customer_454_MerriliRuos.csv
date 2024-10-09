@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "454", "Merrili", "Ruos", "757-654-4056", "Lighthouse Bay", "80805 Cherokee Road", "Suffolk", "VA", "23436", "337941085649779"
+"DETAILS_RECORD", "Tools", "S", "$9,793.22"
+"DETAILS_RECORD", "Industrial", "S", "$9,671.99"
+"DETAILS_RECORD", "Toys", "N", "$271.11"
+"DETAILS_RECORD", "TOTAL", "", "$19,736.32"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "378", "Millard", "Jerrome", "540-106-1071", "Darwin", "02735 Sunfield Alley", "Roanoke", "VA", "24029", "5100175160531479"
+"DETAILS_RECORD", "Movies", "S", "$5,967.48"
+"DETAILS_RECORD", "Automotive", "S", "$5,366.67"
+"DETAILS_RECORD", "Sports", "X", "$2,744.65"
+"DETAILS_RECORD", "TOTAL", "", "$14,078.80"

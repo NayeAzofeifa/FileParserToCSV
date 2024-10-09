@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "421", "Theodoric", "Mollon", "212-118-4095", "Schurz", "5586 Mccormick Alley", "New York City", "NY", "10115", "30118842216453"
+"DETAILS_RECORD", "Movies", "S", "$8,707.40"
+"DETAILS_RECORD", "Outdoors", "X", "$2,747.18"
+"DETAILS_RECORD", "Movies", "T", "$4,735.06"
+"DETAILS_RECORD", "TOTAL", "", "$16,189.64"

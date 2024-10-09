@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "426", "Walden", "Liell", "702-836-9032", "Arkansas", "9 Anzinger Drive", "Henderson", "NV", "89074", "201917451829180"
+"DETAILS_RECORD", "Computers", "L", "$1,637.53"
+"DETAILS_RECORD", "Computers", "S", "$6,335.48"
+"DETAILS_RECORD", "Games", "A", "$776.71"
+"DETAILS_RECORD", "TOTAL", "", "$8,749.72"

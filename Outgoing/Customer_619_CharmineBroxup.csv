@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "619", "Charmine", "Broxup", "702-559-6916", "Dorton", "5921 Red Cloud Park", "Las Vegas", "NV", "89130", "670950062558231148"
+"DETAILS_RECORD", "Beauty", "S", "$5,614.10"
+"DETAILS_RECORD", "Home", "X", "$2,677.57"
+"DETAILS_RECORD", "Books", "T", "$3,034.82"
+"DETAILS_RECORD", "TOTAL", "", "$11,326.49"

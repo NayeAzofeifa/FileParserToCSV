@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "769", "Federico", "Baggallay", "518-386-1548", "Shoshone", "975 Maple Wood Court", "Albany", "NY", "12255", "5420792258804924"
+"DETAILS_RECORD", "Industrial", "S", "$7,442.21"
+"DETAILS_RECORD", "Tools", "T", "$4,052.34"
+"DETAILS_RECORD", "Sports", "S", "$7,003.41"
+"DETAILS_RECORD", "TOTAL", "", "$18,497.96"

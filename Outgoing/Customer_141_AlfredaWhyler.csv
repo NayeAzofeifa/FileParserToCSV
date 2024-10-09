@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "141", "Alfreda", "Whyler", "513-661-9727", "Sunnyside", "71 Lindbergh Terrace", "Cincinnati", "OH", "45999", "5602244401775957"
+"DETAILS_RECORD", "Grocery", "S", "$7,650.33"
+"DETAILS_RECORD", "Movies", "S", "$6,042.17"
+"DETAILS_RECORD", "Sports", "S", "$6,695.68"
+"DETAILS_RECORD", "TOTAL", "", "$20,388.18"

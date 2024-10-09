@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "31", "Doralynn", "Fanshawe", "520-815-3019", "Pleasure", "14 Maple Wood Lane", "Tucson", "AZ", "85732", "5100143110872542"
+"DETAILS_RECORD", "Books", "L", "$1,746.63"
+"DETAILS_RECORD", "Garden", "C", "$1,408.29"
+"DETAILS_RECORD", "Outdoors", "S", "$9,813.39"
+"DETAILS_RECORD", "TOTAL", "", "$12,968.31"

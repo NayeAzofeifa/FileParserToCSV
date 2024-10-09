@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "592", "Lydia", "Kinchin", "717-647-1806", "Independence", "35 Shelley Court", "Harrisburg", "PA", "17121", "3559033325254381"
+"DETAILS_RECORD", "Movies", "S", "$5,417.20"
+"DETAILS_RECORD", "Electronics", "T", "$4,867.65"
+"DETAILS_RECORD", "Automotive", "S", "$6,912.45"
+"DETAILS_RECORD", "TOTAL", "", "$17,197.30"

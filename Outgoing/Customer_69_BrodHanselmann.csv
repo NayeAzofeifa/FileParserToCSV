@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "69", "Brod", "Hanselmann", "412-265-2224", "Fairfield", "02904 Mariners Cove Parkway", "Pittsburgh", "PA", "15279", "6304482491730838180"
+"DETAILS_RECORD", "Beauty", "C", "$1,137.11"
+"DETAILS_RECORD", "Clothing", "T", "$4,006.75"
+"DETAILS_RECORD", "Tools", "S", "$7,164.90"
+"DETAILS_RECORD", "TOTAL", "", "$12,308.76"

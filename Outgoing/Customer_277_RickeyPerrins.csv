@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "277", "Rickey", "Perrins", "517-334-8986", "Mallory", "00038 Linden Pass", "Lansing", "MI", "48912", "5602223922430334"
+"DETAILS_RECORD", "Home", "S", "$7,298.31"
+"DETAILS_RECORD", "Tools", "T", "$3,158.46"
+"DETAILS_RECORD", "Toys", "S", "$8,808.79"
+"DETAILS_RECORD", "TOTAL", "", "$19,265.56"

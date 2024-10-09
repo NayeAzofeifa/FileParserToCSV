@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "451", "Sid", "Graine", "907-529-1977", "Jana", "3 Sauthoff Drive", "Anchorage", "AK", "99517", "3538112240723088"
+"DETAILS_RECORD", "Outdoors", "S", "$9,925.68"
+"DETAILS_RECORD", "Sports", "T", "$4,573.86"
+"DETAILS_RECORD", "Industrial", "T", "$3,325.32"
+"DETAILS_RECORD", "TOTAL", "", "$17,824.86"

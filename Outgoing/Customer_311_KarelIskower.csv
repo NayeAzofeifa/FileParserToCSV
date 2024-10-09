@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "311", "Karel", "Iskower", "818-919-6685", "Sauthoff", "55 Messerschmidt Parkway", "Los Angeles", "CA", "90005", "3554285631476547"
+"DETAILS_RECORD", "Home", "S", "$7,356.76"
+"DETAILS_RECORD", "Automotive", "L", "$1,861.89"
+"DETAILS_RECORD", "Baby", "S", "$6,973.87"
+"DETAILS_RECORD", "TOTAL", "", "$16,192.52"

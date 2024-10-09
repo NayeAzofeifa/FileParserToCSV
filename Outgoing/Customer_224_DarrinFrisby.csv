@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "224", "Darrin", "Frisby", "515-761-0912", "Butterfield", "49395 Rieder Street", "Des Moines", "IA", "50305", "060458019472201277"
+"DETAILS_RECORD", "Books", "T", "$3,459.33"
+"DETAILS_RECORD", "Movies", "X", "$2,827.25"
+"DETAILS_RECORD", "Computers", "S", "$9,042.89"
+"DETAILS_RECORD", "TOTAL", "", "$15,329.47"

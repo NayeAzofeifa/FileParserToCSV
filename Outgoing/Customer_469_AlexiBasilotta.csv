@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "469", "Alexi", "Basilotta", "281-815-0406", "International", "575 Spaight Parkway", "Houston", "TX", "77020", "3575364923475387"
+"DETAILS_RECORD", "Automotive", "P", "$2,048.44"
+"DETAILS_RECORD", "Games", "L", "$1,896.09"
+"DETAILS_RECORD", "Home", "T", "$3,435.80"
+"DETAILS_RECORD", "TOTAL", "", "$7,380.33"

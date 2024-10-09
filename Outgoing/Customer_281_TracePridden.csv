@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "281", "Trace", "Pridden", "763-721-1478", "Nelson", "30991 Birchwood Point", "Monticello", "MN", "55590", "6761761630690386317"
+"DETAILS_RECORD", "Garden", "T", "$3,822.46"
+"DETAILS_RECORD", "Books", "S", "$8,709.21"
+"DETAILS_RECORD", "Books", "S", "$8,238.08"
+"DETAILS_RECORD", "TOTAL", "", "$20,769.75"

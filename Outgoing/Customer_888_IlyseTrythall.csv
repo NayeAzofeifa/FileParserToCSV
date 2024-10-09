@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "888", "Ilyse", "Trythall", "202-133-8553", "Kingsford", "27 Haas Crossing", "Washington", "DC", "20520", "374283826810541"
+"DETAILS_RECORD", "Electronics", "S", "$8,375.82"
+"DETAILS_RECORD", "Kids", "A", "$803.61"
+"DETAILS_RECORD", "Clothing", "N", "$296.09"
+"DETAILS_RECORD", "TOTAL", "", "$9,475.52"

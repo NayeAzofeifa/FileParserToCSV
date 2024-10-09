@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "788", "Sheilah", "Mallinson", "915-909-3104", "Schiller", "89339 Memorial Street", "El Paso", "TX", "88589", "337941850368191"
+"DETAILS_RECORD", "Garden", "X", "$2,729.63"
+"DETAILS_RECORD", "Sports", "A", "$710.26"
+"DETAILS_RECORD", "Toys", "C", "$1,440.51"
+"DETAILS_RECORD", "TOTAL", "", "$4,880.40"

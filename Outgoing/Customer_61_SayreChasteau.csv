@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "61", "Sayre", "Chasteau", "570-885-8989", "3rd", "95 Amoth Way", "Wilkes Barre", "PA", "18768", "5602216486662342"
+"DETAILS_RECORD", "Toys", "S", "$7,623.71"
+"DETAILS_RECORD", "Industrial", "A", "$586.93"
+"DETAILS_RECORD", "Jewelry", "T", "$3,105.65"
+"DETAILS_RECORD", "TOTAL", "", "$11,316.29"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "381", "Samara", "Chuck", "402-860-7932", "Canary", "0 Kingsford Junction", "Omaha", "NE", "68134", "589304115154934310"
+"DETAILS_RECORD", "Electronics", "S", "$5,689.89"
+"DETAILS_RECORD", "Shoes", "S", "$5,876.78"
+"DETAILS_RECORD", "Clothing", "X", "$2,896.42"
+"DETAILS_RECORD", "TOTAL", "", "$14,463.09"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "12", "Jemima", "Fitt", "850-477-3876", "Northfield", "15711 Bobwhite Junction", "Pensacola", "FL", "32520", "3544872274654085"
+"DETAILS_RECORD", "Books", "C", "$1,211.92"
+"DETAILS_RECORD", "Games", "S", "$9,134.71"
+"DETAILS_RECORD", "Movies", "S", "$6,779.60"
+"DETAILS_RECORD", "TOTAL", "", "$17,126.23"

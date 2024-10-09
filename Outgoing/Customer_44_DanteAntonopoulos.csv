@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "44", "Dante", "Antonopoulos", "806-639-9735", "Sunnyside", "862 Jay Lane", "Amarillo", "TX", "79171", "6374527838148358"
+"DETAILS_RECORD", "Shoes", "S", "$6,087.56"
+"DETAILS_RECORD", "Outdoors", "S", "$5,035.11"
+"DETAILS_RECORD", "Grocery", "N", "$318.91"
+"DETAILS_RECORD", "TOTAL", "", "$11,441.58"

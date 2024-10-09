@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "509", "Georgie", "Keyhoe", "540-543-0915", "Heath", "1773 Reinke Terrace", "Roanoke", "VA", "24048", "6767397995519606271"
+"DETAILS_RECORD", "Outdoors", "A", "$585.18"
+"DETAILS_RECORD", "Outdoors", "C", "$1,135.20"
+"DETAILS_RECORD", "Jewelry", "T", "$4,991.16"
+"DETAILS_RECORD", "TOTAL", "", "$6,711.54"

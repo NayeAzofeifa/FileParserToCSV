@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "67", "Illa", "McTrustam", "818-868-9041", "Dahle", "4217 Luster Parkway", "Glendale", "CA", "91210", "5048377624285271"
+"DETAILS_RECORD", "Home", "X", "$2,676.23"
+"DETAILS_RECORD", "Shoes", "X", "$2,691.07"
+"DETAILS_RECORD", "Grocery", "S", "$5,635.44"
+"DETAILS_RECORD", "TOTAL", "", "$11,002.74"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "108", "Clayton", "Strelitz", "609-203-9811", "Oxford", "5560 Ridgeview Street", "Trenton", "NJ", "08650", "3534568806487414"
+"DETAILS_RECORD", "Kids", "T", "$3,175.41"
+"DETAILS_RECORD", "Beauty", "P", "$2,288.57"
+"DETAILS_RECORD", "Automotive", "S", "$6,268.52"
+"DETAILS_RECORD", "TOTAL", "", "$11,732.50"

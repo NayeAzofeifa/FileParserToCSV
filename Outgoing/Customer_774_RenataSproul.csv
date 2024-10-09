@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "774", "Renata", "Sproul", "423-977-8241", "Reinke", "5363 Leroy Street", "Kingsport", "TN", "37665", "3571133326970375"
+"DETAILS_RECORD", "Outdoors", "S", "$9,429.73"
+"DETAILS_RECORD", "Health", "S", "$9,092.37"
+"DETAILS_RECORD", "Sports", "T", "$4,843.02"
+"DETAILS_RECORD", "TOTAL", "", "$23,365.12"

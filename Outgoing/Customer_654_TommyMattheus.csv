@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "654", "Tommy", "Mattheus", "406-783-4130", "Fieldstone", "7 Bonner Trail", "Bozeman", "MT", "59771", "502003577978034642"
+"DETAILS_RECORD", "Grocery", "S", "$9,245.59"
+"DETAILS_RECORD", "Jewelry", "X", "$2,693.18"
+"DETAILS_RECORD", "Beauty", "T", "$3,435.29"
+"DETAILS_RECORD", "TOTAL", "", "$15,374.06"

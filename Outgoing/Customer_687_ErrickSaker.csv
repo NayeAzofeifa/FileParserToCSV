@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "687", "Errick", "Saker", "602-878-9247", "Jay", "41 Parkside Terrace", "Phoenix", "AZ", "85062", "493696180867091668"
+"DETAILS_RECORD", "Outdoors", "S", "$7,941.84"
+"DETAILS_RECORD", "Books", "N", "$382.46"
+"DETAILS_RECORD", "Electronics", "S", "$7,639.17"
+"DETAILS_RECORD", "TOTAL", "", "$15,963.47"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "336", "Bob", "Goley", "516-856-9982", "Shasta", "69 Westport Junction", "Great Neck", "NY", "11024", "633417383876782876"
+"DETAILS_RECORD", "Books", "X", "$2,875.82"
+"DETAILS_RECORD", "Electronics", "T", "$3,240.56"
+"DETAILS_RECORD", "Beauty", "P", "$2,243.90"
+"DETAILS_RECORD", "TOTAL", "", "$8,360.28"

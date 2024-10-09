@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "611", "Nester", "Gauvin", "860-516-8405", "Northwestern", "46 Shelley Pass", "Hartford", "CT", "06145", "3555607958371747"
+"DETAILS_RECORD", "Industrial", "S", "$8,297.89"
+"DETAILS_RECORD", "Industrial", "S", "$5,800.79"
+"DETAILS_RECORD", "Outdoors", "S", "$5,140.87"
+"DETAILS_RECORD", "TOTAL", "", "$19,239.55"

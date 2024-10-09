@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "989", "Christal", "O'Corrin", "626-819-2993", "Elka", "8 Maple Lane", "Pasadena", "CA", "91125", "6759941633665567744"
+"DETAILS_RECORD", "Kids", "C", "$1,321.71"
+"DETAILS_RECORD", "Computers", "L", "$1,612.48"
+"DETAILS_RECORD", "Garden", "T", "$4,238.98"
+"DETAILS_RECORD", "TOTAL", "", "$7,173.17"

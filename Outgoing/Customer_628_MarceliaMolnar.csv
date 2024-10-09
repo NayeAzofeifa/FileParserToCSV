@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "628", "Marcelia", "Molnar", "423-416-2878", "Mayfield", "7361 Cody Road", "Kingsport", "TN", "37665", "3553991856916502"
+"DETAILS_RECORD", "Music", "S", "$5,549.54"
+"DETAILS_RECORD", "Toys", "T", "$3,058.66"
+"DETAILS_RECORD", "Games", "S", "$7,657.18"
+"DETAILS_RECORD", "TOTAL", "", "$16,265.38"

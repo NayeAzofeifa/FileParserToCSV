@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "920", "Paige", "Breming", "212-936-9183", "Harper", "64 Stone Corner Pass", "New York City", "NY", "10131", "30567666302569"
+"DETAILS_RECORD", "Beauty", "S", "$9,202.98"
+"DETAILS_RECORD", "Tools", "S", "$6,425.66"
+"DETAILS_RECORD", "Home", "S", "$5,247.51"
+"DETAILS_RECORD", "TOTAL", "", "$20,876.15"

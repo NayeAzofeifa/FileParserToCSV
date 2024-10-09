@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "352", "Alfi", "Loughney", "504-273-7315", "Jackson", "6 Sugar Street", "New Orleans", "LA", "70160", "3550748367988922"
+"DETAILS_RECORD", "Books", "S", "$8,418.11"
+"DETAILS_RECORD", "Beauty", "S", "$6,221.11"
+"DETAILS_RECORD", "Shoes", "T", "$4,723.37"
+"DETAILS_RECORD", "TOTAL", "", "$19,362.59"

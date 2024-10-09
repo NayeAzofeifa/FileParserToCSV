@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "553", "Maximilianus", "Weld", "501-111-0765", "Banding", "72111 Hanover Terrace", "Little Rock", "AR", "72209", "3547478511251318"
+"DETAILS_RECORD", "Baby", "S", "$5,518.28"
+"DETAILS_RECORD", "Electronics", "C", "$1,038.00"
+"DETAILS_RECORD", "Outdoors", "X", "$2,744.88"
+"DETAILS_RECORD", "TOTAL", "", "$9,301.16"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "412", "Ernestine", "Moralis", "361-400-9867", "Dexter", "6 Harper Circle", "Austin", "TX", "78744", "3538185647706328"
+"DETAILS_RECORD", "Computers", "X", "$2,584.98"
+"DETAILS_RECORD", "Health", "T", "$4,592.57"
+"DETAILS_RECORD", "Jewelry", "S", "$5,409.03"
+"DETAILS_RECORD", "TOTAL", "", "$12,586.58"

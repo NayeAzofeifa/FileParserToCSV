@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "392", "Barton", "Eloy", "214-285-3823", "Garrison", "1 Rowland Street", "Denton", "TX", "76210", "3584418258368655"
+"DETAILS_RECORD", "Beauty", "X", "$2,955.54"
+"DETAILS_RECORD", "Home", "X", "$2,860.76"
+"DETAILS_RECORD", "Jewelry", "N", "$63.90"
+"DETAILS_RECORD", "TOTAL", "", "$5,880.20"

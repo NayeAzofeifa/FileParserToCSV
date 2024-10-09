@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "497", "Micky", "Dewdney", "205-836-4710", "Steensland", "601 Buena Vista Way", "Birmingham", "AL", "35236", "6304168148330074"
+"DETAILS_RECORD", "Automotive", "P", "$2,012.07"
+"DETAILS_RECORD", "Toys", "N", "$240.83"
+"DETAILS_RECORD", "Kids", "T", "$3,082.79"
+"DETAILS_RECORD", "TOTAL", "", "$5,335.69"

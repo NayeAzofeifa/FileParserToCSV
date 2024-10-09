@@ -13,10 +13,9 @@ namespace FileParserToCSV.Services
 {
     public class CalculationService
     {
-        public List<string> CalculateTotalAmountPerCustomer(string path)
+        public List<string> CalculateTotalAmountPerCustomer(List<CustomerModel> customers)
         {
             FileService fileService = new FileService();
-            List<CustomerModel> customers = fileService.ReadCustomersFromFile(path);
             List<string> totalAmountPerCustomer = new List<string>();
             CultureInfo culture = new CultureInfo("en-US");
 

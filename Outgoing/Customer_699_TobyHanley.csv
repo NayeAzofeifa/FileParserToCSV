@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "699", "Toby", "Hanley", "812-451-9639", "Ridgeway", "9 Ridgeview Lane", "Terre Haute", "IN", "47805", "3579237545296009"
+"DETAILS_RECORD", "Kids", "S", "$5,688.73"
+"DETAILS_RECORD", "Automotive", "T", "$4,446.66"
+"DETAILS_RECORD", "Kids", "T", "$3,252.30"
+"DETAILS_RECORD", "TOTAL", "", "$13,387.69"

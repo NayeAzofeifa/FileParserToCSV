@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "921", "Agathe", "Bentson", "574-210-7718", "Eagle Crest", "621 Shasta Avenue", "South Bend", "IN", "46614", "3587954170389939"
+"DETAILS_RECORD", "Clothing", "S", "$9,966.07"
+"DETAILS_RECORD", "Electronics", "S", "$9,986.92"
+"DETAILS_RECORD", "Toys", "S", "$9,169.02"
+"DETAILS_RECORD", "TOTAL", "", "$29,122.01"

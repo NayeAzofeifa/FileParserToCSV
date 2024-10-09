@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "981", "Aldus", "Kerslake", "706-212-7149", "Hansons", "005 Meadow Vale Drive", "Athens", "GA", "30610", "5108751737994184"
+"DETAILS_RECORD", "Home", "S", "$8,695.25"
+"DETAILS_RECORD", "Jewelry", "S", "$5,570.58"
+"DETAILS_RECORD", "Electronics", "S", "$8,322.88"
+"DETAILS_RECORD", "TOTAL", "", "$22,588.71"

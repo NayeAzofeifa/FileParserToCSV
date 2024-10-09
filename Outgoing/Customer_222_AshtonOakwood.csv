@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "222", "Ashton", "Oakwood", "213-614-9022", "Hovde", "0412 Gale Plaza", "Los Angeles", "CA", "90055", "3552611139199889"
+"DETAILS_RECORD", "Home", "T", "$4,798.68"
+"DETAILS_RECORD", "Games", "L", "$1,940.27"
+"DETAILS_RECORD", "Computers", "S", "$9,347.60"
+"DETAILS_RECORD", "TOTAL", "", "$16,086.55"

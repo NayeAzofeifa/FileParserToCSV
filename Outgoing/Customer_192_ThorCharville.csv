@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "192", "Thor", "Charville", "812-616-6752", "Calypso", "3 Fallview Drive", "Evansville", "IN", "47737", "201444102198857"
+"DETAILS_RECORD", "Baby", "S", "$5,735.93"
+"DETAILS_RECORD", "Games", "S", "$5,704.32"
+"DETAILS_RECORD", "Garden", "N", "$49.84"
+"DETAILS_RECORD", "TOTAL", "", "$11,490.09"

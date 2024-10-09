@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "692", "Jessie", "Blackey", "518-672-8574", "Oak", "356 Westerfield Plaza", "Albany", "NY", "12210", "3538351109583098"
+"DETAILS_RECORD", "Grocery", "S", "$9,129.41"
+"DETAILS_RECORD", "Music", "S", "$7,329.96"
+"DETAILS_RECORD", "Sports", "S", "$7,600.59"
+"DETAILS_RECORD", "TOTAL", "", "$24,059.96"

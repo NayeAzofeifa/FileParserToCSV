@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "681", "Emerson", "Haggeth", "713-405-5286", "Jackson", "8087 Florence Road", "Houston", "TX", "77255", "3582966816406831"
+"DETAILS_RECORD", "Home", "T", "$3,469.99"
+"DETAILS_RECORD", "Games", "S", "$6,484.68"
+"DETAILS_RECORD", "Outdoors", "T", "$4,520.12"
+"DETAILS_RECORD", "TOTAL", "", "$14,474.79"

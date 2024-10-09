@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "820", "Haven", "Oldaker", "401-553-4909", "Nova", "17 Algoma Plaza", "Providence", "RI", "02905", "3543720671120708"
+"DETAILS_RECORD", "Movies", "T", "$3,179.59"
+"DETAILS_RECORD", "Baby", "S", "$7,947.92"
+"DETAILS_RECORD", "Sports", "S", "$6,435.57"
+"DETAILS_RECORD", "TOTAL", "", "$17,563.08"

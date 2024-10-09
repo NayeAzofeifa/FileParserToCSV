@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "845", "Rip", "Julian", "916-503-8878", "Calypso", "5 Miller Junction", "Sacramento", "CA", "94207", "3573014587310980"
+"DETAILS_RECORD", "Tools", "S", "$8,906.18"
+"DETAILS_RECORD", "Tools", "S", "$8,206.43"
+"DETAILS_RECORD", "Sports", "S", "$5,626.07"
+"DETAILS_RECORD", "TOTAL", "", "$22,738.68"

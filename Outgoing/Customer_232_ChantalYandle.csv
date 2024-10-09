@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "232", "Chantal", "Yandle", "901-212-8464", "Division", "355 Novick Trail", "Memphis", "TN", "38136", "3553690169605444"
+"DETAILS_RECORD", "Music", "S", "$6,991.55"
+"DETAILS_RECORD", "Sports", "S", "$7,581.44"
+"DETAILS_RECORD", "Music", "S", "$9,376.56"
+"DETAILS_RECORD", "TOTAL", "", "$23,949.55"

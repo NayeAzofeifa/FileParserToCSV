@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "853", "Ainslee", "Tomaselli", "435-254-6997", "Ohio", "331 Hanover Road", "Salt Lake City", "UT", "84105", "4913216367891918"
+"DETAILS_RECORD", "Jewelry", "N", "$497.12"
+"DETAILS_RECORD", "Grocery", "S", "$5,460.92"
+"DETAILS_RECORD", "Baby", "S", "$9,937.53"
+"DETAILS_RECORD", "TOTAL", "", "$15,895.57"

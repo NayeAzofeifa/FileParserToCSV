@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "833", "Leeann", "Kettlestringe", "806-362-9741", "Scott", "14 Dottie Road", "Amarillo", "TX", "79188", "3576165103345194"
+"DETAILS_RECORD", "Computers", "T", "$4,206.67"
+"DETAILS_RECORD", "Grocery", "X", "$2,867.87"
+"DETAILS_RECORD", "Clothing", "N", "$339.20"
+"DETAILS_RECORD", "TOTAL", "", "$7,413.74"

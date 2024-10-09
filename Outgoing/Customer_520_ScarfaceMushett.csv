@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "520", "Scarface", "Mushett", "843-581-7060", "Bultman", "78 Milwaukee Court", "Charleston", "SC", "29403", "6334124456334884774"
+"DETAILS_RECORD", "Sports", "S", "$9,992.58"
+"DETAILS_RECORD", "Clothing", "T", "$3,488.10"
+"DETAILS_RECORD", "Grocery", "T", "$4,286.22"
+"DETAILS_RECORD", "TOTAL", "", "$17,766.90"

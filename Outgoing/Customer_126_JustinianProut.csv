@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "126", "Justinian", "Prout", "612-314-1330", "Lunder", "36491 Waubesa Terrace", "Minneapolis", "MN", "55423", "3561948214213816"
+"DETAILS_RECORD", "Electronics", "S", "$8,711.15"
+"DETAILS_RECORD", "Outdoors", "S", "$7,132.01"
+"DETAILS_RECORD", "Books", "S", "$7,332.91"
+"DETAILS_RECORD", "TOTAL", "", "$23,176.07"

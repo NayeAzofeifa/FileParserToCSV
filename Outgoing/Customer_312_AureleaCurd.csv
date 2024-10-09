@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "312", "Aurelea", "Curd", "217-240-4479", "Londonderry", "0 Sundown Lane", "Springfield", "IL", "62723", "3531760398247776"
+"DETAILS_RECORD", "Books", "N", "$1.33"
+"DETAILS_RECORD", "Jewelry", "S", "$9,931.96"
+"DETAILS_RECORD", "Books", "S", "$5,025.61"
+"DETAILS_RECORD", "TOTAL", "", "$14,958.90"

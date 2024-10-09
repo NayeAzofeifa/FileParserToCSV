@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "190", "Michaella", "Farryann", "915-193-2358", "Trailsway", "9504 Nelson Court", "El Paso", "TX", "79950", "3576198181744160"
+"DETAILS_RECORD", "Grocery", "N", "$232.12"
+"DETAILS_RECORD", "Shoes", "S", "$5,358.17"
+"DETAILS_RECORD", "Health", "P", "$2,166.40"
+"DETAILS_RECORD", "TOTAL", "", "$7,756.69"

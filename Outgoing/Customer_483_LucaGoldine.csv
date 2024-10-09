@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "483", "Luca", "Goldine", "513-643-2893", "Cody", "30 Little Fleur Alley", "Cincinnati", "OH", "45233", "3564518650411245"
+"DETAILS_RECORD", "Health", "S", "$9,116.24"
+"DETAILS_RECORD", "Books", "S", "$8,985.45"
+"DETAILS_RECORD", "Kids", "A", "$721.33"
+"DETAILS_RECORD", "TOTAL", "", "$18,823.02"

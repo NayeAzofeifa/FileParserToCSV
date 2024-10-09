@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "959", "Berti", "Davidow", "785-389-3249", "Transport", "241 Shopko Place", "Topeka", "KS", "66642", "3568066960071172"
+"DETAILS_RECORD", "Computers", "T", "$4,067.29"
+"DETAILS_RECORD", "Baby", "L", "$1,961.21"
+"DETAILS_RECORD", "Books", "S", "$9,575.15"
+"DETAILS_RECORD", "TOTAL", "", "$15,603.65"

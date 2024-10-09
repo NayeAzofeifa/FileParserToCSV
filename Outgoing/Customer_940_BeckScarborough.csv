@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "940", "Beck", "Scarborough", "251-225-9777", "Iowa", "80 Ohio Place", "Mobile", "AL", "36622", "3562803889714854"
+"DETAILS_RECORD", "Movies", "N", "$448.11"
+"DETAILS_RECORD", "Automotive", "A", "$700.01"
+"DETAILS_RECORD", "Movies", "T", "$3,832.73"
+"DETAILS_RECORD", "TOTAL", "", "$4,980.85"

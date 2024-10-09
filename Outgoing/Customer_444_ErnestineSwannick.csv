@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "444", "Ernestine", "Swannick", "903-167-3510", "Evergreen", "5 Cascade Hill", "Tyler", "TX", "75710", "6304071494504617472"
+"DETAILS_RECORD", "Books", "L", "$1,657.41"
+"DETAILS_RECORD", "Tools", "X", "$2,536.25"
+"DETAILS_RECORD", "Computers", "S", "$6,276.13"
+"DETAILS_RECORD", "TOTAL", "", "$10,469.79"

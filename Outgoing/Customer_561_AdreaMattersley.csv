@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "561", "Adrea", "Mattersley", "651-488-2961", "Harbort", "7751 Gulseth Crossing", "Saint Paul", "MN", "55146", "5007662096194765"
+"DETAILS_RECORD", "Outdoors", "T", "$4,760.08"
+"DETAILS_RECORD", "Kids", "N", "$91.73"
+"DETAILS_RECORD", "Beauty", "S", "$9,284.07"
+"DETAILS_RECORD", "TOTAL", "", "$14,135.88"

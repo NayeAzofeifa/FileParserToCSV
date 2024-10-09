@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "724", "Trstram", "Manns", "979-925-1481", "Gerald", "6434 Service Drive", "Houston", "TX", "77040", "3560937409745477"
+"DETAILS_RECORD", "Grocery", "P", "$2,100.18"
+"DETAILS_RECORD", "Jewelry", "C", "$1,273.17"
+"DETAILS_RECORD", "Tools", "S", "$5,164.70"
+"DETAILS_RECORD", "TOTAL", "", "$8,538.05"

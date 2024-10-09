@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "189", "Wildon", "Kirman", "972-226-4955", "Ilene", "07348 Prairie Rose Alley", "Dallas", "TX", "75342", "3579558753779265"
+"DETAILS_RECORD", "Movies", "S", "$8,985.12"
+"DETAILS_RECORD", "Baby", "S", "$9,786.28"
+"DETAILS_RECORD", "Beauty", "C", "$1,125.47"
+"DETAILS_RECORD", "TOTAL", "", "$19,896.87"

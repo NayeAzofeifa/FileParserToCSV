@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "638", "Remington", "Kehoe", "212-947-2067", "Esker", "4137 Lerdahl Pass", "New York City", "NY", "10014", "5475489743087397"
+"DETAILS_RECORD", "Games", "S", "$6,885.60"
+"DETAILS_RECORD", "Toys", "S", "$5,129.55"
+"DETAILS_RECORD", "Toys", "X", "$2,790.84"
+"DETAILS_RECORD", "TOTAL", "", "$14,805.99"

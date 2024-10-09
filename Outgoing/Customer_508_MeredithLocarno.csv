@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "508", "Meredith", "Locarno", "540-362-3418", "Thackeray", "7 Kings Junction", "Roanoke", "VA", "24024", "5048370519977839"
+"DETAILS_RECORD", "Home", "C", "$1,004.38"
+"DETAILS_RECORD", "Games", "L", "$1,973.11"
+"DETAILS_RECORD", "Sports", "N", "$173.36"
+"DETAILS_RECORD", "TOTAL", "", "$3,150.85"

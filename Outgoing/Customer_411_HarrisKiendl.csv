@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "411", "Harris", "Kiendl", "937-716-5355", "Redwing", "9771 Toban Plaza", "Dayton", "OH", "45414", "5038770167785184771"
+"DETAILS_RECORD", "Books", "X", "$2,698.86"
+"DETAILS_RECORD", "Shoes", "X", "$2,552.50"
+"DETAILS_RECORD", "Movies", "S", "$7,277.40"
+"DETAILS_RECORD", "TOTAL", "", "$12,528.76"

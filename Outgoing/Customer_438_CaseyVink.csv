@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "438", "Casey", "Vink", "816-375-1968", "Melrose", "27 Straubel Junction", "Kansas City", "KS", "66112", "3532381484853101"
+"DETAILS_RECORD", "Movies", "N", "$332.72"
+"DETAILS_RECORD", "Sports", "S", "$7,394.45"
+"DETAILS_RECORD", "Tools", "X", "$2,880.77"
+"DETAILS_RECORD", "TOTAL", "", "$10,607.94"

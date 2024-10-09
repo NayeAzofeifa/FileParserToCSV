@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "868", "Blondie", "Stein", "202-351-5338", "Burning Wood", "735 Steensland Parkway", "Washington", "DC", "20231", "3549971528378791"
+"DETAILS_RECORD", "Shoes", "X", "$2,713.44"
+"DETAILS_RECORD", "Sports", "C", "$1,460.45"
+"DETAILS_RECORD", "Beauty", "S", "$7,581.55"
+"DETAILS_RECORD", "TOTAL", "", "$11,755.44"

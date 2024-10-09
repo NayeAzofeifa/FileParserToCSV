@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "32", "Jeddy", "MacCague", "281-145-8701", "Lakewood", "9153 Hoepker Way", "Houston", "TX", "77005", "4911299362679970077"
+"DETAILS_RECORD", "Beauty", "T", "$3,941.62"
+"DETAILS_RECORD", "Industrial", "A", "$582.06"
+"DETAILS_RECORD", "Beauty", "S", "$5,512.88"
+"DETAILS_RECORD", "TOTAL", "", "$10,036.56"

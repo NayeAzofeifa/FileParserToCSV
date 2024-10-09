@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "998", "Micheil", "Sanderson", "603-630-1137", "Prairieview", "312 Dennis Drive", "Portsmouth", "NH", "03804", "3555634635008781"
+"DETAILS_RECORD", "Health", "S", "$9,051.60"
+"DETAILS_RECORD", "Kids", "S", "$9,062.07"
+"DETAILS_RECORD", "Automotive", "T", "$3,566.08"
+"DETAILS_RECORD", "TOTAL", "", "$21,679.75"

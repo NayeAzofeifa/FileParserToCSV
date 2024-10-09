@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "791", "Pablo", "Ash", "508-760-2176", "Rutledge", "2 Grasskamp Hill", "Brockton", "MA", "02305", "30492759168738"
+"DETAILS_RECORD", "Grocery", "T", "$4,939.90"
+"DETAILS_RECORD", "Automotive", "A", "$712.64"
+"DETAILS_RECORD", "Music", "S", "$6,882.00"
+"DETAILS_RECORD", "TOTAL", "", "$12,534.54"

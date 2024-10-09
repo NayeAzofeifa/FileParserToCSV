@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "819", "Mariam", "Mordey", "952-936-0971", "Heath", "5 Quincy Parkway", "Young America", "MN", "55573", "6334943234116344906"
+"DETAILS_RECORD", "Health", "C", "$1,422.99"
+"DETAILS_RECORD", "Baby", "S", "$7,073.24"
+"DETAILS_RECORD", "Baby", "T", "$4,910.26"
+"DETAILS_RECORD", "TOTAL", "", "$13,406.49"

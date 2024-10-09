@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "106", "Sophronia", "Christaeas", "212-718-8190", "Dovetail", "3238 Pleasure Street", "Jamaica", "NY", "11499", "5002353739677623"
+"DETAILS_RECORD", "Grocery", "T", "$4,154.59"
+"DETAILS_RECORD", "Kids", "S", "$7,775.72"
+"DETAILS_RECORD", "Industrial", "T", "$4,087.42"
+"DETAILS_RECORD", "TOTAL", "", "$16,017.73"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "734", "Kleon", "Dukesbury", "919-175-4390", "Buell", "86 Hazelcrest Street", "Raleigh", "NC", "27605", "4903237229806623246"
+"DETAILS_RECORD", "Garden", "S", "$8,816.06"
+"DETAILS_RECORD", "Beauty", "S", "$8,850.85"
+"DETAILS_RECORD", "Computers", "S", "$9,654.79"
+"DETAILS_RECORD", "TOTAL", "", "$27,321.70"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "293", "Alister", "Barkus", "828-726-1471", "Melrose", "9 Banding Crossing", "Asheville", "NC", "28815", "3540397379919898"
+"DETAILS_RECORD", "Health", "S", "$7,190.66"
+"DETAILS_RECORD", "Baby", "S", "$5,661.12"
+"DETAILS_RECORD", "Automotive", "S", "$7,452.52"
+"DETAILS_RECORD", "TOTAL", "", "$20,304.30"

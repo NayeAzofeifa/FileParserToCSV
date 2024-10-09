@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "793", "Timothee", "Aronowicz", "303-191-4301", "Autumn Leaf", "35 Eastlawn Point", "Denver", "CO", "80217", "56022441208516007"
+"DETAILS_RECORD", "Music", "S", "$9,412.06"
+"DETAILS_RECORD", "Games", "S", "$9,603.19"
+"DETAILS_RECORD", "Music", "S", "$6,343.99"
+"DETAILS_RECORD", "TOTAL", "", "$25,359.24"

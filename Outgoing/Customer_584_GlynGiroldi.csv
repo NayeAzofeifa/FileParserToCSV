@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "584", "Glyn", "Giroldi", "509-943-1851", "Vermont", "9554 Ronald Regan Road", "Spokane", "WA", "99252", "4041371203733512"
+"DETAILS_RECORD", "Toys", "S", "$7,146.30"
+"DETAILS_RECORD", "Kids", "T", "$3,756.60"
+"DETAILS_RECORD", "Computers", "S", "$5,616.71"
+"DETAILS_RECORD", "TOTAL", "", "$16,519.61"

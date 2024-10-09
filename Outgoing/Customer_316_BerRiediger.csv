@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "316", "Ber", "Riediger", "214-412-3293", "Redwing", "28 Burning Wood Avenue", "Dallas", "TX", "75387", "5602217749125259"
+"DETAILS_RECORD", "Shoes", "C", "$1,403.57"
+"DETAILS_RECORD", "Toys", "A", "$880.28"
+"DETAILS_RECORD", "Computers", "T", "$3,653.09"
+"DETAILS_RECORD", "TOTAL", "", "$5,936.94"

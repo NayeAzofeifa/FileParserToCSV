@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "158", "Vivien", "Brooksbie", "805-108-0922", "Dixon", "9 West Drive", "San Luis Obispo", "CA", "93407", "4911880199250452"
+"DETAILS_RECORD", "Home", "X", "$2,956.08"
+"DETAILS_RECORD", "Books", "S", "$5,701.55"
+"DETAILS_RECORD", "Music", "S", "$5,442.41"
+"DETAILS_RECORD", "TOTAL", "", "$14,100.04"

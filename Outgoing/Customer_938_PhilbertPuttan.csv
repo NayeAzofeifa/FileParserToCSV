@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "938", "Philbert", "Puttan", "225-813-0931", "Northfield", "63490 Cardinal Alley", "Baton Rouge", "LA", "70836", "3570643489826140"
+"DETAILS_RECORD", "Clothing", "S", "$8,196.91"
+"DETAILS_RECORD", "Garden", "N", "$266.30"
+"DETAILS_RECORD", "Home", "S", "$8,045.40"
+"DETAILS_RECORD", "TOTAL", "", "$16,508.61"

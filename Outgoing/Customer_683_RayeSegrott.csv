@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "683", "Raye", "Segrott", "513-171-3036", "Swallow", "4753 Becker Terrace", "Cincinnati", "OH", "45233", "3570176772701506"
+"DETAILS_RECORD", "Books", "P", "$2,455.20"
+"DETAILS_RECORD", "Shoes", "S", "$8,959.66"
+"DETAILS_RECORD", "Tools", "S", "$6,952.25"
+"DETAILS_RECORD", "TOTAL", "", "$18,367.11"

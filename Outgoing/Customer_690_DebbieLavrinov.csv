@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "690", "Debbie", "Lavrinov", "508-353-9496", "Utah", "6 Artisan Avenue", "New Bedford", "MA", "02745", "5641820991810578"
+"DETAILS_RECORD", "Games", "T", "$4,691.20"
+"DETAILS_RECORD", "Home", "S", "$5,048.83"
+"DETAILS_RECORD", "Books", "S", "$6,086.47"
+"DETAILS_RECORD", "TOTAL", "", "$15,826.50"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "81", "Bancroft", "Ings", "915-928-5207", "Warner", "4562 Norway Maple Avenue", "El Paso", "TX", "88519", "3588126758129941"
+"DETAILS_RECORD", "Baby", "S", "$9,373.51"
+"DETAILS_RECORD", "Clothing", "T", "$3,009.81"
+"DETAILS_RECORD", "Home", "N", "$405.63"
+"DETAILS_RECORD", "TOTAL", "", "$12,788.95"

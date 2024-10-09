@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "759", "Aldrich", "Monday", "816-998-7688", "Sommers", "40579 Meadow Valley Court", "Independence", "MO", "64054", "3533001368922629"
+"DETAILS_RECORD", "Music", "S", "$5,822.79"
+"DETAILS_RECORD", "Clothing", "L", "$1,589.57"
+"DETAILS_RECORD", "Toys", "T", "$3,104.05"
+"DETAILS_RECORD", "TOTAL", "", "$10,516.41"

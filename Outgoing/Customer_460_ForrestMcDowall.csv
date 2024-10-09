@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "460", "Forrest", "McDowall", "917-967-6705", "Glendale", "765 Old Gate Center", "Flushing", "NY", "11388", "5602220727030132922"
+"DETAILS_RECORD", "Books", "T", "$4,714.68"
+"DETAILS_RECORD", "Clothing", "A", "$956.78"
+"DETAILS_RECORD", "Tools", "S", "$8,082.15"
+"DETAILS_RECORD", "TOTAL", "", "$13,753.61"

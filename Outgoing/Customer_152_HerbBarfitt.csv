@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "152", "Herb", "Barfitt", "630-166-1182", "Hoepker", "7992 Sullivan Road", "Chicago", "IL", "60604", "36955598295049"
+"DETAILS_RECORD", "Garden", "S", "$8,010.68"
+"DETAILS_RECORD", "Books", "S", "$9,173.92"
+"DETAILS_RECORD", "Industrial", "S", "$6,584.44"
+"DETAILS_RECORD", "TOTAL", "", "$23,769.04"

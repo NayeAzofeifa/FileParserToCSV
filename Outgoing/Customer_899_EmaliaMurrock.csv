@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "899", "Emalia", "Murrock", "503-604-4010", "Hollow Ridge", "63 Calypso Circle", "Portland", "OR", "97221", "3574191446853324"
+"DETAILS_RECORD", "Health", "X", "$2,514.89"
+"DETAILS_RECORD", "Electronics", "T", "$3,328.24"
+"DETAILS_RECORD", "Health", "S", "$9,326.74"
+"DETAILS_RECORD", "TOTAL", "", "$15,169.87"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "718", "Erny", "Glascott", "313-147-7239", "Weeping Birch", "52030 Lakewood Gardens Court", "Detroit", "MI", "48224", "201469967294111"
+"DETAILS_RECORD", "Games", "S", "$6,421.36"
+"DETAILS_RECORD", "Outdoors", "L", "$1,921.84"
+"DETAILS_RECORD", "Music", "T", "$3,049.21"
+"DETAILS_RECORD", "TOTAL", "", "$11,392.41"

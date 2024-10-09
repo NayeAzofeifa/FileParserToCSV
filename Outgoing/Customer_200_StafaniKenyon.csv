@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "200", "Stafani", "Kenyon", "404-230-7995", "Bunting", "510 Waxwing Center", "Atlanta", "GA", "30386", "676235687180597088"
+"DETAILS_RECORD", "Books", "S", "$6,018.80"
+"DETAILS_RECORD", "Shoes", "S", "$7,369.42"
+"DETAILS_RECORD", "Shoes", "S", "$9,374.11"
+"DETAILS_RECORD", "TOTAL", "", "$22,762.33"

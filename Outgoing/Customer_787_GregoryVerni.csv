@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "787", "Gregory", "Verni", "517-919-8038", "Northview", "913 Steensland Drive", "Lansing", "MI", "48912", "3529850082928544"
+"DETAILS_RECORD", "Garden", "S", "$5,508.26"
+"DETAILS_RECORD", "Clothing", "S", "$9,051.68"
+"DETAILS_RECORD", "Industrial", "S", "$7,914.84"
+"DETAILS_RECORD", "TOTAL", "", "$22,474.78"

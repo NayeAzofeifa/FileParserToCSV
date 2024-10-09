@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "248", "Siward", "Bradd", "213-156-8625", "Scott", "906 Fremont Parkway", "Los Angeles", "CA", "90055", "560223964616697059"
+"DETAILS_RECORD", "Jewelry", "L", "$1,661.06"
+"DETAILS_RECORD", "Automotive", "S", "$6,228.68"
+"DETAILS_RECORD", "Outdoors", "T", "$3,580.11"
+"DETAILS_RECORD", "TOTAL", "", "$11,469.85"

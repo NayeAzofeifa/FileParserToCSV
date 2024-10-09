@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "574", "Neill", "Broadway", "907-465-4944", "Montana", "9 Cottonwood Hill", "Anchorage", "AK", "99522", "6333801596730128912"
+"DETAILS_RECORD", "Electronics", "S", "$8,659.83"
+"DETAILS_RECORD", "Games", "S", "$9,789.13"
+"DETAILS_RECORD", "Books", "S", "$8,202.34"
+"DETAILS_RECORD", "TOTAL", "", "$26,651.30"

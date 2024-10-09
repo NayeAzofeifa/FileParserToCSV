@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "967", "Lucille", "Kerwen", "707-122-5149", "Laurel", "17202 Pine View Avenue", "Petaluma", "CA", "94975", "30204882215223"
+"DETAILS_RECORD", "Outdoors", "S", "$8,331.24"
+"DETAILS_RECORD", "Sports", "S", "$8,538.38"
+"DETAILS_RECORD", "Shoes", "S", "$8,534.12"
+"DETAILS_RECORD", "TOTAL", "", "$25,403.74"

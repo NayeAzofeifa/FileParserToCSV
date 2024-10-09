@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "78", "Dickie", "Fasham", "408-675-6701", "Sunbrook", "6 Columbus Avenue", "San Jose", "CA", "95155", "5007666959655200"
+"DETAILS_RECORD", "Garden", "S", "$6,772.35"
+"DETAILS_RECORD", "Outdoors", "T", "$3,245.10"
+"DETAILS_RECORD", "Shoes", "S", "$5,834.47"
+"DETAILS_RECORD", "TOTAL", "", "$15,851.92"

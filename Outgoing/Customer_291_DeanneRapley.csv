@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "291", "Deanne", "Rapley", "602-562-3488", "School", "6 Farwell Point", "Phoenix", "AZ", "85083", "36706546893579"
+"DETAILS_RECORD", "Kids", "T", "$3,766.05"
+"DETAILS_RECORD", "Games", "T", "$4,684.08"
+"DETAILS_RECORD", "Health", "S", "$5,456.36"
+"DETAILS_RECORD", "TOTAL", "", "$13,906.49"

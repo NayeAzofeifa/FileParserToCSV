@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "271", "Noellyn", "Mardee", "713-588-3063", "Dayton", "312 Bluestem Alley", "Houston", "TX", "77223", "3562211102684088"
+"DETAILS_RECORD", "Beauty", "S", "$5,165.41"
+"DETAILS_RECORD", "Outdoors", "T", "$4,204.97"
+"DETAILS_RECORD", "Computers", "T", "$3,705.19"
+"DETAILS_RECORD", "TOTAL", "", "$13,075.57"

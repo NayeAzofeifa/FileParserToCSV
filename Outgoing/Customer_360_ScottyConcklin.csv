@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "360", "Scotty", "Concklin", "916-712-3261", "Mcbride", "5 Barby Circle", "Sacramento", "CA", "94280", "201624453486775"
+"DETAILS_RECORD", "Health", "S", "$7,816.16"
+"DETAILS_RECORD", "Industrial", "T", "$4,998.81"
+"DETAILS_RECORD", "Books", "X", "$2,566.16"
+"DETAILS_RECORD", "TOTAL", "", "$15,381.13"

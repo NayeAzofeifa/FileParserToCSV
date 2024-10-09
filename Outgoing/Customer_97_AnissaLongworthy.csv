@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "97", "Anissa", "Longworthy", "818-641-7503", "Grover", "2853 Bashford Street", "Glendale", "CA", "91205", "3567934588729664"
+"DETAILS_RECORD", "Tools", "L", "$1,708.21"
+"DETAILS_RECORD", "Automotive", "S", "$6,822.60"
+"DETAILS_RECORD", "Books", "C", "$1,219.81"
+"DETAILS_RECORD", "TOTAL", "", "$9,750.62"

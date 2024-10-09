@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "241", "Donielle", "Cullotey", "504-357-5492", "Annamark", "26951 Arapahoe Parkway", "New Orleans", "LA", "70183", "6771371742373847"
+"DETAILS_RECORD", "Clothing", "S", "$7,038.79"
+"DETAILS_RECORD", "Movies", "S", "$7,864.03"
+"DETAILS_RECORD", "Computers", "X", "$2,962.65"
+"DETAILS_RECORD", "TOTAL", "", "$17,865.47"

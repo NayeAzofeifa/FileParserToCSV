@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "182", "Karleen", "Debell", "913-151-2195", "Merchant", "193 Crownhardt Point", "Shawnee Mission", "KS", "66286", "3559867799544417"
+"DETAILS_RECORD", "Toys", "T", "$4,263.93"
+"DETAILS_RECORD", "Electronics", "T", "$3,785.20"
+"DETAILS_RECORD", "Baby", "S", "$7,825.87"
+"DETAILS_RECORD", "TOTAL", "", "$15,875.00"

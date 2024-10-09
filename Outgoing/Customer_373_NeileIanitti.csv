@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "373", "Neile", "Ianitti", "212-409-0543", "Londonderry", "0818 Fieldstone Way", "Jamaica", "NY", "11431", "4844355184166189"
+"DETAILS_RECORD", "Games", "N", "$10.16"
+"DETAILS_RECORD", "Garden", "L", "$1,501.96"
+"DETAILS_RECORD", "Games", "T", "$4,384.72"
+"DETAILS_RECORD", "TOTAL", "", "$5,896.84"

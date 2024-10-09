@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "188", "Sheila", "Dunmore", "202-234-2071", "Express", "58 Dorton Place", "Washington", "DC", "20062", "502078679317598608"
+"DETAILS_RECORD", "Home", "X", "$2,675.01"
+"DETAILS_RECORD", "Baby", "L", "$1,855.05"
+"DETAILS_RECORD", "Toys", "S", "$9,316.40"
+"DETAILS_RECORD", "TOTAL", "", "$13,846.46"

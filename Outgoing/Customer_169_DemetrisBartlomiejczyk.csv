@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "169", "Demetris", "Bartlomiejczyk", "801-983-5554", "Sherman", "61 Burning Wood Road", "Provo", "UT", "84605", "5100140684938378"
+"DETAILS_RECORD", "Baby", "S", "$9,320.31"
+"DETAILS_RECORD", "Automotive", "T", "$3,291.01"
+"DETAILS_RECORD", "Health", "S", "$8,889.51"
+"DETAILS_RECORD", "TOTAL", "", "$21,500.83"

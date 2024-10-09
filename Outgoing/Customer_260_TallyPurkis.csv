@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "260", "Tally", "Purkis", "518-986-0759", "Nancy", "824 Anhalt Way", "Albany", "NY", "12262", "3546313858260179"
+"DETAILS_RECORD", "Toys", "S", "$7,539.40"
+"DETAILS_RECORD", "Books", "S", "$5,913.36"
+"DETAILS_RECORD", "Grocery", "S", "$5,900.07"
+"DETAILS_RECORD", "TOTAL", "", "$19,352.83"

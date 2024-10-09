@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "235", "Tedra", "Jesteco", "352-616-9655", "Hermina", "72 Delladonna Hill", "Gainesville", "FL", "32610", "30101655639110"
+"DETAILS_RECORD", "Books", "S", "$8,130.97"
+"DETAILS_RECORD", "Beauty", "A", "$918.07"
+"DETAILS_RECORD", "Shoes", "S", "$6,936.61"
+"DETAILS_RECORD", "TOTAL", "", "$15,985.65"

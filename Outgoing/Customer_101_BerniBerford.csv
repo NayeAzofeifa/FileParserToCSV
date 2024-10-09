@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "101", "Berni", "Berford", "216-177-1768", "Cottonwood", "82908 Corben Circle", "Cleveland", "OH", "44197", "3559554055870658"
+"DETAILS_RECORD", "Toys", "L", "$1,868.70"
+"DETAILS_RECORD", "Baby", "T", "$4,245.73"
+"DETAILS_RECORD", "Music", "S", "$7,026.23"
+"DETAILS_RECORD", "TOTAL", "", "$13,140.66"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "140", "Marinna", "Rosenbarg", "518-630-5760", "Memorial", "0 Prentice Drive", "Albany", "NY", "12232", "5457862244663647"
+"DETAILS_RECORD", "Computers", "X", "$2,856.06"
+"DETAILS_RECORD", "Toys", "T", "$4,433.35"
+"DETAILS_RECORD", "Outdoors", "S", "$6,941.41"
+"DETAILS_RECORD", "TOTAL", "", "$14,230.82"

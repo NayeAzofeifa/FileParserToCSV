@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "374", "Jen", "Baldi", "202-802-7964", "Nova", "12382 Stephen Circle", "Washington", "DC", "20425", "3589157902325852"
+"DETAILS_RECORD", "Movies", "N", "$93.13"
+"DETAILS_RECORD", "Health", "T", "$3,632.34"
+"DETAILS_RECORD", "Grocery", "L", "$1,819.66"
+"DETAILS_RECORD", "TOTAL", "", "$5,545.13"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "375", "Henryetta", "Custy", "786-999-7739", "Basil", "2776 Almo Road", "Miami", "FL", "33164", "5048379699485422"
+"DETAILS_RECORD", "Music", "S", "$7,426.15"
+"DETAILS_RECORD", "Grocery", "S", "$7,152.10"
+"DETAILS_RECORD", "Clothing", "L", "$1,637.74"
+"DETAILS_RECORD", "TOTAL", "", "$16,215.99"

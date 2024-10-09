@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "708", "Spike", "Stonham", "804-231-2241", "Summit", "0765 Killdeer Hill", "Richmond", "VA", "23213", "6759658906601254830"
+"DETAILS_RECORD", "Games", "N", "$147.48"
+"DETAILS_RECORD", "Sports", "T", "$4,248.12"
+"DETAILS_RECORD", "Outdoors", "S", "$8,163.48"
+"DETAILS_RECORD", "TOTAL", "", "$12,559.08"

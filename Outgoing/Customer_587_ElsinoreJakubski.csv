@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "587", "Elsinore", "Jakubski", "202-687-9705", "La Follette", "8714 Mesta Hill", "Washington", "DC", "20319", "374283144587771"
+"DETAILS_RECORD", "Shoes", "S", "$6,561.84"
+"DETAILS_RECORD", "Industrial", "S", "$6,766.79"
+"DETAILS_RECORD", "Outdoors", "T", "$4,181.86"
+"DETAILS_RECORD", "TOTAL", "", "$17,510.49"

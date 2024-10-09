@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "559", "Bob", "Goldhill", "815-600-8276", "Mallory", "0 Eagan Road", "Rockford", "IL", "61105", "341005245811523"
+"DETAILS_RECORD", "Computers", "S", "$8,411.47"
+"DETAILS_RECORD", "Garden", "S", "$9,879.59"
+"DETAILS_RECORD", "Movies", "P", "$2,063.53"
+"DETAILS_RECORD", "TOTAL", "", "$20,354.59"

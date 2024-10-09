@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "739", "Rance", "Fairholme", "919-306-4367", "Upham", "287 Northwestern Drive", "Raleigh", "NC", "27690", "6379640137024843"
+"DETAILS_RECORD", "Tools", "C", "$1,007.90"
+"DETAILS_RECORD", "Shoes", "P", "$2,124.07"
+"DETAILS_RECORD", "Kids", "S", "$7,903.86"
+"DETAILS_RECORD", "TOTAL", "", "$11,035.83"

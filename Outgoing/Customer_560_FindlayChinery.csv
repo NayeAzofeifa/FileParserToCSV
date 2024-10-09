@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "560", "Findlay", "Chinery", "325-691-0310", "Crest Line", "5 Elka Parkway", "Abilene", "TX", "79699", "5007669647204829"
+"DETAILS_RECORD", "Music", "T", "$4,895.01"
+"DETAILS_RECORD", "Grocery", "X", "$2,681.95"
+"DETAILS_RECORD", "Kids", "P", "$2,455.92"
+"DETAILS_RECORD", "TOTAL", "", "$10,032.88"

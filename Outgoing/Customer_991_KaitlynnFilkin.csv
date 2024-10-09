@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "991", "Kaitlynn", "Filkin", "570-434-1065", "Sunnyside", "06351 Paget Place", "Wilkes Barre", "PA", "18706", "5641822710046832180"
+"DETAILS_RECORD", "Beauty", "P", "$2,033.74"
+"DETAILS_RECORD", "Electronics", "S", "$7,022.05"
+"DETAILS_RECORD", "Baby", "L", "$1,989.79"
+"DETAILS_RECORD", "TOTAL", "", "$11,045.58"

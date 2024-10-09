@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "107", "Lara", "Hanwright", "314-767-2291", "Heath", "4 Artisan Road", "Saint Louis", "MO", "63167", "3543942551750251"
+"DETAILS_RECORD", "Music", "C", "$1,297.20"
+"DETAILS_RECORD", "Sports", "T", "$3,789.34"
+"DETAILS_RECORD", "Electronics", "T", "$4,929.38"
+"DETAILS_RECORD", "TOTAL", "", "$10,015.92"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "519", "Thaddus", "Ison", "313-233-5630", "Bluestem", "6581 Dexter Junction", "Detroit", "MI", "48232", "201985275249331"
+"DETAILS_RECORD", "Beauty", "C", "$1,378.71"
+"DETAILS_RECORD", "Baby", "S", "$9,792.77"
+"DETAILS_RECORD", "Music", "C", "$1,078.70"
+"DETAILS_RECORD", "TOTAL", "", "$12,250.18"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "828", "Carson", "Dackombe", "510-789-0781", "Crest Line", "3 Montana Drive", "Berkeley", "CA", "94712", "4041372759282"
+"DETAILS_RECORD", "Garden", "A", "$805.32"
+"DETAILS_RECORD", "Home", "S", "$8,366.31"
+"DETAILS_RECORD", "Music", "S", "$6,588.13"
+"DETAILS_RECORD", "TOTAL", "", "$15,759.76"

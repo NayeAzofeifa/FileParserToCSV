@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "29", "Ingra", "Haggar", "571-708-4891", "Corry", "422 Shasta Terrace", "Falls Church", "VA", "22047", "5048371964878340"
+"DETAILS_RECORD", "Books", "S", "$5,381.03"
+"DETAILS_RECORD", "Industrial", "P", "$2,003.51"
+"DETAILS_RECORD", "Automotive", "P", "$2,242.70"
+"DETAILS_RECORD", "TOTAL", "", "$9,627.24"

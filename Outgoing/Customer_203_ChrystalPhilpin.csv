@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "203", "Chrystal", "Philpin", "626-214-3434", "Eastlawn", "57 Bunker Hill Court", "Pasadena", "CA", "91117", "5602237288835589"
+"DETAILS_RECORD", "Kids", "S", "$9,841.66"
+"DETAILS_RECORD", "Computers", "S", "$8,091.05"
+"DETAILS_RECORD", "Tools", "T", "$3,750.63"
+"DETAILS_RECORD", "TOTAL", "", "$21,683.34"

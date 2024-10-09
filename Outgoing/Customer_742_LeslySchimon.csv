@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "742", "Lesly", "Schimon", "904-868-9098", "Transport", "20 Rusk Pass", "Jacksonville", "FL", "32209", "560222921729394306"
+"DETAILS_RECORD", "Games", "P", "$2,215.51"
+"DETAILS_RECORD", "Books", "S", "$8,784.31"
+"DETAILS_RECORD", "Tools", "P", "$2,415.66"
+"DETAILS_RECORD", "TOTAL", "", "$13,415.48"

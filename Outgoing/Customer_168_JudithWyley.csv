@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "168", "Judith", "Wyley", "601-175-0318", "Toban", "37 Duke Hill", "Jackson", "MS", "39216", "3584688318762267"
+"DETAILS_RECORD", "Beauty", "S", "$7,718.55"
+"DETAILS_RECORD", "Health", "S", "$5,621.28"
+"DETAILS_RECORD", "Grocery", "A", "$866.19"
+"DETAILS_RECORD", "TOTAL", "", "$14,206.02"

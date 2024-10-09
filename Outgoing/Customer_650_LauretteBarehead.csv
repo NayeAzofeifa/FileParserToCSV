@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "650", "Laurette", "Barehead", "617-647-2533", "Nobel", "52 Lakewood Gardens Point", "Boston", "MA", "02119", "5893234111761486"
+"DETAILS_RECORD", "Baby", "X", "$2,941.10"
+"DETAILS_RECORD", "Music", "S", "$8,715.27"
+"DETAILS_RECORD", "Electronics", "S", "$8,159.73"
+"DETAILS_RECORD", "TOTAL", "", "$19,816.10"

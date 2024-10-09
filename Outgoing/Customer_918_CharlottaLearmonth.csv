@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "918", "Charlotta", "Learmonth", "904-541-0383", "Nelson", "4412 Comanche Drive", "Jacksonville", "FL", "32220", "343514839388820"
+"DETAILS_RECORD", "Music", "S", "$7,526.33"
+"DETAILS_RECORD", "Tools", "S", "$8,019.39"
+"DETAILS_RECORD", "Health", "S", "$8,988.75"
+"DETAILS_RECORD", "TOTAL", "", "$24,534.47"

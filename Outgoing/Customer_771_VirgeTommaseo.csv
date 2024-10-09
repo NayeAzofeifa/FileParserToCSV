@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "771", "Virge", "Tommaseo", "913-859-8200", "Northfield", "68 Hermina Park", "Shawnee Mission", "KS", "66276", "3551756486300563"
+"DETAILS_RECORD", "Electronics", "L", "$1,587.45"
+"DETAILS_RECORD", "Baby", "S", "$7,462.22"
+"DETAILS_RECORD", "Garden", "S", "$8,460.96"
+"DETAILS_RECORD", "TOTAL", "", "$17,510.63"

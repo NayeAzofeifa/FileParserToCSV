@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "954", "Wallace", "Newlands", "719-508-3818", "Declaration", "92593 Eastwood Hill", "Pueblo", "CO", "81005", "3572601440914791"
+"DETAILS_RECORD", "Sports", "S", "$8,372.60"
+"DETAILS_RECORD", "Movies", "S", "$5,820.82"
+"DETAILS_RECORD", "Tools", "S", "$8,988.51"
+"DETAILS_RECORD", "TOTAL", "", "$23,181.93"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "50", "Noel", "Harragin", "713-103-0330", "Main", "2003 Canary Crossing", "Houston", "TX", "77218", "5336413034186865"
+"DETAILS_RECORD", "Toys", "L", "$1,636.66"
+"DETAILS_RECORD", "Sports", "S", "$7,696.72"
+"DETAILS_RECORD", "Toys", "T", "$3,855.38"
+"DETAILS_RECORD", "TOTAL", "", "$13,188.76"

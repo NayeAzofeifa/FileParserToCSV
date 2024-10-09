@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "937", "Biddie", "Ebbers", "512-470-3657", "Westport", "1430 Scofield Avenue", "Austin", "TX", "78737", "5602244322447074"
+"DETAILS_RECORD", "Sports", "T", "$3,533.06"
+"DETAILS_RECORD", "Toys", "S", "$8,711.11"
+"DETAILS_RECORD", "Shoes", "T", "$4,750.68"
+"DETAILS_RECORD", "TOTAL", "", "$16,994.85"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "120", "Celestina", "Coller", "843-470-1417", "Claremont", "1 Commercial Circle", "Charleston", "SC", "29416", "201727155783215"
+"DETAILS_RECORD", "Beauty", "A", "$902.52"
+"DETAILS_RECORD", "Tools", "N", "$233.69"
+"DETAILS_RECORD", "Industrial", "T", "$3,394.09"
+"DETAILS_RECORD", "TOTAL", "", "$4,530.30"

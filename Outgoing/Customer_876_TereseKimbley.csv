@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "876", "Terese", "Kimbley", "410-193-1203", "Fuller", "6 Sheridan Road", "Baltimore", "MD", "21211", "3543725419222682"
+"DETAILS_RECORD", "Home", "S", "$7,934.52"
+"DETAILS_RECORD", "Health", "T", "$4,470.34"
+"DETAILS_RECORD", "Toys", "S", "$9,736.39"
+"DETAILS_RECORD", "TOTAL", "", "$22,141.25"

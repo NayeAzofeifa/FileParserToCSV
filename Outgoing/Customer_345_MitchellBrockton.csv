@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "345", "Mitchell", "Brockton", "801-343-2937", "La Follette", "193 Alpine Alley", "Salt Lake City", "UT", "84140", "3568859281558830"
+"DETAILS_RECORD", "Shoes", "S", "$9,436.85"
+"DETAILS_RECORD", "Shoes", "S", "$7,045.75"
+"DETAILS_RECORD", "Industrial", "X", "$2,805.49"
+"DETAILS_RECORD", "TOTAL", "", "$19,288.09"

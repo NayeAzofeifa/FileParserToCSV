@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "729", "Estell", "Curnick", "336-516-8775", "Birchwood", "98553 Esch Drive", "Winston Salem", "NC", "27116", "3531159353159490"
+"DETAILS_RECORD", "Outdoors", "X", "$2,602.80"
+"DETAILS_RECORD", "Automotive", "S", "$7,633.31"
+"DETAILS_RECORD", "Tools", "P", "$2,373.71"
+"DETAILS_RECORD", "TOTAL", "", "$12,609.82"

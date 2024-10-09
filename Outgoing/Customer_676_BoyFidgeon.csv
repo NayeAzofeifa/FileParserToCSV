@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "676", "Boy", "Fidgeon", "281-945-4477", "Ruskin", "86 Randy Junction", "Houston", "TX", "77080", "6762600085845883"
+"DETAILS_RECORD", "Movies", "X", "$2,959.10"
+"DETAILS_RECORD", "Garden", "T", "$3,000.92"
+"DETAILS_RECORD", "Computers", "T", "$4,850.69"
+"DETAILS_RECORD", "TOTAL", "", "$10,810.71"

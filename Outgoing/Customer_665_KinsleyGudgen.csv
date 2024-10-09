@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "665", "Kinsley", "Gudgen", "954-211-4691", "Straubel", "5 Dryden Avenue", "West Palm Beach", "FL", "33411", "3581908913698580"
+"DETAILS_RECORD", "Home", "S", "$6,978.50"
+"DETAILS_RECORD", "Shoes", "N", "$413.55"
+"DETAILS_RECORD", "Garden", "S", "$7,897.28"
+"DETAILS_RECORD", "TOTAL", "", "$15,289.33"

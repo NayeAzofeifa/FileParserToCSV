@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "541", "Jervis", "Mandry", "804-804-7787", "Towne", "259 Summit Parkway", "Richmond", "VA", "23260", "3556808941596551"
+"DETAILS_RECORD", "Sports", "N", "$55.45"
+"DETAILS_RECORD", "Clothing", "T", "$3,745.65"
+"DETAILS_RECORD", "Outdoors", "S", "$8,839.42"
+"DETAILS_RECORD", "TOTAL", "", "$12,640.52"

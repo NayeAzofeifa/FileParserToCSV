@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "370", "Bernadette", "Willcocks", "813-297-7422", "Daystar", "97364 Sunnyside Alley", "Tampa", "FL", "33680", "5119573470270672"
+"DETAILS_RECORD", "Automotive", "L", "$1,768.75"
+"DETAILS_RECORD", "Automotive", "L", "$1,734.49"
+"DETAILS_RECORD", "Grocery", "T", "$3,590.90"
+"DETAILS_RECORD", "TOTAL", "", "$7,094.14"

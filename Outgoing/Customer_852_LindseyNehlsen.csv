@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "852", "Lindsey", "Nehlsen", "862-355-2426", "Welch", "4475 Emmet Terrace", "Paterson", "NJ", "07505", "3572653591707102"
+"DETAILS_RECORD", "Sports", "T", "$3,125.60"
+"DETAILS_RECORD", "Baby", "L", "$1,946.62"
+"DETAILS_RECORD", "Outdoors", "T", "$3,102.42"
+"DETAILS_RECORD", "TOTAL", "", "$8,174.64"

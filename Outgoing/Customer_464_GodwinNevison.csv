@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "464", "Godwin", "Nevison", "208-955-5807", "Scoville", "84 Hoepker Plaza", "Pocatello", "ID", "83206", "3536369435998345"
+"DETAILS_RECORD", "Music", "S", "$7,028.85"
+"DETAILS_RECORD", "Health", "S", "$8,033.89"
+"DETAILS_RECORD", "Garden", "C", "$1,296.09"
+"DETAILS_RECORD", "TOTAL", "", "$16,358.83"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "612", "Derry", "Purches", "785-144-4606", "Ryan", "0940 Cherokee Drive", "Topeka", "KS", "66617", "201673351744454"
+"DETAILS_RECORD", "Automotive", "S", "$5,092.34"
+"DETAILS_RECORD", "Kids", "S", "$9,729.59"
+"DETAILS_RECORD", "Books", "L", "$1,718.29"
+"DETAILS_RECORD", "TOTAL", "", "$16,540.22"

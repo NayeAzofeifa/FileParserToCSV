@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "234", "Brita", "Mabbot", "727-121-7012", "Banding", "1 Hoard Drive", "Largo", "FL", "34643", "6397071242461332"
+"DETAILS_RECORD", "Automotive", "N", "$75.49"
+"DETAILS_RECORD", "Books", "C", "$1,498.49"
+"DETAILS_RECORD", "Shoes", "S", "$6,135.17"
+"DETAILS_RECORD", "TOTAL", "", "$7,709.15"

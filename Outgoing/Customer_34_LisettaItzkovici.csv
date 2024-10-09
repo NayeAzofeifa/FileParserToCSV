@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "34", "Lisetta", "Itzkovici", "704-459-2316", "Knutson", "7657 Sloan Parkway", "Charlotte", "NC", "28289", "3565286172719037"
+"DETAILS_RECORD", "Toys", "S", "$7,290.27"
+"DETAILS_RECORD", "Tools", "P", "$2,469.96"
+"DETAILS_RECORD", "Beauty", "S", "$9,249.94"
+"DETAILS_RECORD", "TOTAL", "", "$19,010.17"

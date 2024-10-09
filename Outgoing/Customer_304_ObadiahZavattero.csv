@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "304", "Obadiah", "Zavattero", "859-834-5681", "Brickson Park", "41 Delladonna Court", "Lexington", "KY", "40586", "67610852772354978"
+"DETAILS_RECORD", "Shoes", "T", "$4,750.63"
+"DETAILS_RECORD", "Kids", "S", "$6,055.95"
+"DETAILS_RECORD", "Outdoors", "S", "$7,198.38"
+"DETAILS_RECORD", "TOTAL", "", "$18,004.96"

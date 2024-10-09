@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "700", "Hatti", "Blythe", "530-583-1845", "Atwood", "1171 Waubesa Lane", "Sacramento", "CA", "95818", "5641822982279456488"
+"DETAILS_RECORD", "Garden", "S", "$9,738.46"
+"DETAILS_RECORD", "Toys", "C", "$1,305.25"
+"DETAILS_RECORD", "Music", "X", "$2,628.75"
+"DETAILS_RECORD", "TOTAL", "", "$13,672.46"

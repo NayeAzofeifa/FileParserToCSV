@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "407", "Pate", "Dye", "251-107-3535", "Sachtjen", "87 John Wall Center", "Mobile", "AL", "36610", "560221161934464989"
+"DETAILS_RECORD", "Tools", "S", "$5,097.13"
+"DETAILS_RECORD", "Kids", "S", "$5,686.09"
+"DETAILS_RECORD", "Industrial", "S", "$8,961.49"
+"DETAILS_RECORD", "TOTAL", "", "$19,744.71"

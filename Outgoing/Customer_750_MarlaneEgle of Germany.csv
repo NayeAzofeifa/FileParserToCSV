@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "750", "Marlane", "Egle of Germany", "713-697-3932", "Harbort", "7343 Kenwood Street", "Houston", "TX", "77250", "3567406940427253"
+"DETAILS_RECORD", "Automotive", "A", "$716.65"
+"DETAILS_RECORD", "Baby", "N", "$58.20"
+"DETAILS_RECORD", "Baby", "T", "$4,175.45"
+"DETAILS_RECORD", "TOTAL", "", "$4,950.30"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "957", "Evyn", "Stannus", "626-404-2072", "Pierstorff", "7 Kenwood Pass", "Alhambra", "CA", "91841", "5602226176597120"
+"DETAILS_RECORD", "Industrial", "S", "$6,029.85"
+"DETAILS_RECORD", "Grocery", "S", "$5,484.12"
+"DETAILS_RECORD", "Outdoors", "T", "$4,588.22"
+"DETAILS_RECORD", "TOTAL", "", "$16,102.19"

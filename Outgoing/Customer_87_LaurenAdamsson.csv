@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "87", "Lauren", "Adamsson", "804-370-2206", "Grasskamp", "370 Vahlen Way", "Richmond", "VA", "23289", "3547128120395556"
+"DETAILS_RECORD", "Automotive", "S", "$8,265.29"
+"DETAILS_RECORD", "Sports", "S", "$6,073.30"
+"DETAILS_RECORD", "Music", "S", "$8,654.27"
+"DETAILS_RECORD", "TOTAL", "", "$22,992.86"

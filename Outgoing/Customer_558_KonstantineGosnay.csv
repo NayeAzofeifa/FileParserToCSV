@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "558", "Konstantine", "Gosnay", "716-559-7643", "Thierer", "380 Graceland Drive", "Buffalo", "NY", "14205", "4913973780619504"
+"DETAILS_RECORD", "Health", "S", "$9,202.85"
+"DETAILS_RECORD", "Industrial", "X", "$2,748.88"
+"DETAILS_RECORD", "Industrial", "T", "$4,829.39"
+"DETAILS_RECORD", "TOTAL", "", "$16,781.12"

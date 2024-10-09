@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "711", "Annie", "Tomasi", "352-421-3394", "Dorton", "20 Express Place", "Brooksville", "FL", "34605", "5048370912389475"
+"DETAILS_RECORD", "Music", "S", "$7,077.62"
+"DETAILS_RECORD", "Books", "X", "$2,663.27"
+"DETAILS_RECORD", "Sports", "L", "$1,935.61"
+"DETAILS_RECORD", "TOTAL", "", "$11,676.50"

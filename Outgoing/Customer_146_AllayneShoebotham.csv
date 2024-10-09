@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "146", "Allayne", "Shoebotham", "913-823-0186", "Sunfield", "218 Rockefeller Crossing", "Kansas City", "KS", "66105", "337941585607749"
+"DETAILS_RECORD", "Clothing", "S", "$8,006.46"
+"DETAILS_RECORD", "Home", "T", "$4,249.84"
+"DETAILS_RECORD", "Industrial", "S", "$5,480.60"
+"DETAILS_RECORD", "TOTAL", "", "$17,736.90"

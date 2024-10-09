@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "180", "Rudolph", "Durgan", "202-230-0041", "Fordem", "1549 Mayer Alley", "Washington", "DC", "20067", "3550657931306752"
+"DETAILS_RECORD", "Shoes", "T", "$4,519.20"
+"DETAILS_RECORD", "Home", "S", "$9,941.31"
+"DETAILS_RECORD", "Health", "S", "$8,041.51"
+"DETAILS_RECORD", "TOTAL", "", "$22,502.02"

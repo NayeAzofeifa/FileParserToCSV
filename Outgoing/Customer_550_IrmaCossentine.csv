@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "550", "Irma", "Cossentine", "508-113-2348", "Pleasure", "1 Truax Trail", "Brockton", "MA", "02405", "3556699883036130"
+"DETAILS_RECORD", "Home", "T", "$4,570.99"
+"DETAILS_RECORD", "Toys", "S", "$9,501.98"
+"DETAILS_RECORD", "Home", "S", "$9,069.22"
+"DETAILS_RECORD", "TOTAL", "", "$23,142.19"

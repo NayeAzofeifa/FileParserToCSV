@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "832", "Darlleen", "Armatys", "714-490-1826", "Mendota", "20693 Sunbrook Alley", "Irvine", "CA", "92717", "3537389130133575"
+"DETAILS_RECORD", "Automotive", "L", "$1,894.32"
+"DETAILS_RECORD", "Electronics", "S", "$6,685.39"
+"DETAILS_RECORD", "Home", "C", "$1,085.86"
+"DETAILS_RECORD", "TOTAL", "", "$9,665.57"

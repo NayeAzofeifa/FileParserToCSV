@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "877", "Lyle", "Paff", "651-487-3764", "6th", "6734 Susan Junction", "Saint Paul", "MN", "55115", "675905402846695701"
+"DETAILS_RECORD", "Kids", "S", "$5,925.24"
+"DETAILS_RECORD", "Toys", "S", "$6,599.25"
+"DETAILS_RECORD", "Tools", "S", "$9,766.48"
+"DETAILS_RECORD", "TOTAL", "", "$22,290.97"

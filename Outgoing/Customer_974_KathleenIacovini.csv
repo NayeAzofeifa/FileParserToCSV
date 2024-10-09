@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "974", "Kathleen", "Iacovini", "253-184-6025", "Chive", "10 Duke Way", "Tacoma", "WA", "98411", "30282258247335"
+"DETAILS_RECORD", "Home", "P", "$2,486.59"
+"DETAILS_RECORD", "Home", "T", "$4,275.44"
+"DETAILS_RECORD", "Garden", "X", "$2,844.83"
+"DETAILS_RECORD", "TOTAL", "", "$9,606.86"

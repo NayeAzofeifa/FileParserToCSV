@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "503", "Sheff", "Squibb", "832-453-5283", "Lyons", "93 Waxwing Drive", "Katy", "TX", "77493", "3570623864381713"
+"DETAILS_RECORD", "Jewelry", "S", "$9,271.60"
+"DETAILS_RECORD", "Jewelry", "S", "$9,870.10"
+"DETAILS_RECORD", "Games", "T", "$4,275.82"
+"DETAILS_RECORD", "TOTAL", "", "$23,417.52"

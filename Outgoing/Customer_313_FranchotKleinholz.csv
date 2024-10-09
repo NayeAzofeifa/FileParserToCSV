@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "313", "Franchot", "Kleinholz", "281-375-0947", "Hoard", "24 Harbort Plaza", "Houston", "TX", "77035", "30023464270939"
+"DETAILS_RECORD", "Sports", "S", "$5,065.08"
+"DETAILS_RECORD", "Tools", "T", "$3,968.83"
+"DETAILS_RECORD", "Garden", "S", "$5,018.26"
+"DETAILS_RECORD", "TOTAL", "", "$14,052.17"

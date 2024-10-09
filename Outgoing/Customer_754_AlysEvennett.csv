@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "754", "Alys", "Evennett", "972-748-3037", "Loftsgordon", "09 Bonner Place", "Dallas", "TX", "75221", "5602236197523468"
+"DETAILS_RECORD", "Books", "P", "$2,321.71"
+"DETAILS_RECORD", "Sports", "S", "$9,073.16"
+"DETAILS_RECORD", "Grocery", "S", "$8,499.08"
+"DETAILS_RECORD", "TOTAL", "", "$19,893.95"

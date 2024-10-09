@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "443", "Nikola", "Gress", "405-389-5292", "Fair Oaks", "3572 Hagan Plaza", "Oklahoma City", "OK", "73104", "3547709582473609"
+"DETAILS_RECORD", "Beauty", "S", "$5,324.68"
+"DETAILS_RECORD", "Industrial", "S", "$9,231.69"
+"DETAILS_RECORD", "Jewelry", "T", "$3,828.74"
+"DETAILS_RECORD", "TOTAL", "", "$18,385.11"

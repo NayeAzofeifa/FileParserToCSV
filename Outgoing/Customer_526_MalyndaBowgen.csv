@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "526", "Malynda", "Bowgen", "763-591-5982", "Pearson", "77973 Pepper Wood Street", "Monticello", "MN", "55565", "6767249922527606937"
+"DETAILS_RECORD", "Automotive", "T", "$4,823.50"
+"DETAILS_RECORD", "Automotive", "P", "$2,479.30"
+"DETAILS_RECORD", "Industrial", "S", "$5,720.53"
+"DETAILS_RECORD", "TOTAL", "", "$13,023.33"

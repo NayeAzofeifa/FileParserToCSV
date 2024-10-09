@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "333", "Elwyn", "O'Connolly", "423-273-4401", "Towne", "4757 Eggendart Center", "Chattanooga", "TN", "37410", "3542029423650934"
+"DETAILS_RECORD", "Health", "T", "$4,723.77"
+"DETAILS_RECORD", "Home", "A", "$991.50"
+"DETAILS_RECORD", "Grocery", "S", "$6,384.08"
+"DETAILS_RECORD", "TOTAL", "", "$12,099.35"

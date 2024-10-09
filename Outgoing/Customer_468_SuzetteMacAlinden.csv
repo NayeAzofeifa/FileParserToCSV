@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "468", "Suzette", "MacAlinden", "260-711-1970", "Duke", "52 Ridgeview Point", "Fort Wayne", "IN", "46867", "3569962173313725"
+"DETAILS_RECORD", "Outdoors", "T", "$4,933.08"
+"DETAILS_RECORD", "Home", "S", "$8,566.93"
+"DETAILS_RECORD", "Home", "C", "$1,242.57"
+"DETAILS_RECORD", "TOTAL", "", "$14,742.58"

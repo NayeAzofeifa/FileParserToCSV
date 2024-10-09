@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "162", "Malanie", "Tander", "757-762-1315", "Green Ridge", "860 Bluejay Trail", "Suffolk", "VA", "23436", "5602245152563534"
+"DETAILS_RECORD", "Music", "S", "$9,721.98"
+"DETAILS_RECORD", "Kids", "P", "$2,443.57"
+"DETAILS_RECORD", "Baby", "X", "$2,647.07"
+"DETAILS_RECORD", "TOTAL", "", "$14,812.62"

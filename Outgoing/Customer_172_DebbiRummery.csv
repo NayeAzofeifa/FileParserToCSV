@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "172", "Debbi", "Rummery", "214-799-4947", "Corscot", "403 Maryland Road", "Dallas", "TX", "75216", "3578724762696681"
+"DETAILS_RECORD", "Clothing", "S", "$9,056.10"
+"DETAILS_RECORD", "Grocery", "S", "$9,201.79"
+"DETAILS_RECORD", "Games", "S", "$8,610.73"
+"DETAILS_RECORD", "TOTAL", "", "$26,868.62"

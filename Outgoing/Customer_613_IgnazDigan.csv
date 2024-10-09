@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "613", "Ignaz", "Digan", "509-110-8143", "Bobwhite", "27 Sycamore Trail", "Spokane", "WA", "99260", "3567052930541487"
+"DETAILS_RECORD", "Kids", "T", "$4,070.38"
+"DETAILS_RECORD", "Games", "S", "$5,715.55"
+"DETAILS_RECORD", "Grocery", "S", "$6,481.54"
+"DETAILS_RECORD", "TOTAL", "", "$16,267.47"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "827", "Alec", "Gaskins", "415-647-7163", "5th", "3 Lien Court", "San Francisco", "CA", "94177", "6378221039259927"
+"DETAILS_RECORD", "Outdoors", "T", "$4,858.41"
+"DETAILS_RECORD", "Grocery", "A", "$851.08"
+"DETAILS_RECORD", "Movies", "S", "$7,006.64"
+"DETAILS_RECORD", "TOTAL", "", "$12,716.13"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "244", "Susi", "Utton", "510-211-8631", "Corry", "78993 Meadow Ridge Court", "Oakland", "CA", "94660", "3568658756277185"
+"DETAILS_RECORD", "Jewelry", "S", "$9,133.80"
+"DETAILS_RECORD", "Kids", "T", "$3,741.99"
+"DETAILS_RECORD", "Automotive", "S", "$8,706.65"
+"DETAILS_RECORD", "TOTAL", "", "$21,582.44"

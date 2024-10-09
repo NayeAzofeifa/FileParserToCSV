@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "902", "Auberon", "Halwell", "682-933-5272", "Oriole", "31 Autumn Leaf Hill", "Denton", "TX", "76205", "3583811939493267"
+"DETAILS_RECORD", "Books", "X", "$2,602.90"
+"DETAILS_RECORD", "Kids", "L", "$1,990.41"
+"DETAILS_RECORD", "Books", "S", "$6,909.50"
+"DETAILS_RECORD", "TOTAL", "", "$11,502.81"

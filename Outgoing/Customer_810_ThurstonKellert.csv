@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "810", "Thurston", "Kellert", "310-338-5781", "Coolidge", "53196 Gale Point", "Inglewood", "CA", "90398", "5002357120123717"
+"DETAILS_RECORD", "Books", "T", "$4,434.44"
+"DETAILS_RECORD", "Industrial", "S", "$7,754.28"
+"DETAILS_RECORD", "Kids", "P", "$2,228.82"
+"DETAILS_RECORD", "TOTAL", "", "$14,417.54"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "82", "Luigi", "Besse", "360-511-8784", "Raven", "98 Hoepker Pass", "Seattle", "WA", "98109", "4026024390256859"
+"DETAILS_RECORD", "Shoes", "T", "$3,842.62"
+"DETAILS_RECORD", "Outdoors", "S", "$8,456.41"
+"DETAILS_RECORD", "Home", "S", "$7,486.62"
+"DETAILS_RECORD", "TOTAL", "", "$19,785.65"

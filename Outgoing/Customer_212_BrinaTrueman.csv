@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "212", "Brina", "Trueman", "954-256-1333", "Oxford", "2 Hauk Way", "Fort Lauderdale", "FL", "33325", "3566887213992670"
+"DETAILS_RECORD", "Computers", "X", "$2,610.09"
+"DETAILS_RECORD", "Health", "N", "$188.01"
+"DETAILS_RECORD", "Garden", "L", "$1,624.77"
+"DETAILS_RECORD", "TOTAL", "", "$4,422.87"

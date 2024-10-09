@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "437", "Vonnie", "Undy", "216-377-6771", "Washington", "98 Fieldstone Junction", "Cleveland", "OH", "44177", "4041373528883931"
+"DETAILS_RECORD", "Outdoors", "X", "$2,678.56"
+"DETAILS_RECORD", "Electronics", "S", "$8,628.45"
+"DETAILS_RECORD", "Kids", "S", "$5,934.87"
+"DETAILS_RECORD", "TOTAL", "", "$17,241.88"

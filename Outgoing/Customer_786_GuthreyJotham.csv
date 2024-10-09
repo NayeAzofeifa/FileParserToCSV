@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "786", "Guthrey", "Jotham", "903-531-2320", "Eastlawn", "5 Kings Street", "Dallas", "TX", "75226", "201642648034748"
+"DETAILS_RECORD", "Jewelry", "S", "$7,613.40"
+"DETAILS_RECORD", "Grocery", "X", "$2,806.92"
+"DETAILS_RECORD", "Garden", "N", "$51.40"
+"DETAILS_RECORD", "TOTAL", "", "$10,471.72"

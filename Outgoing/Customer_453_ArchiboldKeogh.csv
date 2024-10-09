@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "453", "Archibold", "Keogh", "267-717-0146", "Nevada", "0 Mcbride Parkway", "Levittown", "PA", "19058", "3567110542958554"
+"DETAILS_RECORD", "Music", "S", "$5,007.92"
+"DETAILS_RECORD", "Shoes", "L", "$1,880.27"
+"DETAILS_RECORD", "Jewelry", "S", "$9,061.89"
+"DETAILS_RECORD", "TOTAL", "", "$15,950.08"

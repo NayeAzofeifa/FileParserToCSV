@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "677", "Kaile", "Jobling", "602-370-9070", "Marcy", "428 Grover Trail", "Phoenix", "AZ", "85072", "4017950151131264"
+"DETAILS_RECORD", "Sports", "T", "$4,477.04"
+"DETAILS_RECORD", "Books", "S", "$8,810.36"
+"DETAILS_RECORD", "Grocery", "S", "$6,950.23"
+"DETAILS_RECORD", "TOTAL", "", "$20,237.63"

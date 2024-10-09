@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "623", "Alexis", "Cobby", "713-897-2344", "Northland", "62 Johnson Terrace", "Houston", "TX", "77288", "3580146550006277"
+"DETAILS_RECORD", "Movies", "S", "$9,176.34"
+"DETAILS_RECORD", "Kids", "A", "$878.73"
+"DETAILS_RECORD", "Games", "A", "$769.79"
+"DETAILS_RECORD", "TOTAL", "", "$10,824.86"

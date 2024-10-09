@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "805", "Marilin", "Dorgan", "972-710-7455", "Surrey", "2291 Northfield Terrace", "Dallas", "TX", "75231", "3571142402203031"
+"DETAILS_RECORD", "Tools", "X", "$2,772.86"
+"DETAILS_RECORD", "Electronics", "T", "$3,943.27"
+"DETAILS_RECORD", "Health", "A", "$710.89"
+"DETAILS_RECORD", "TOTAL", "", "$7,427.02"

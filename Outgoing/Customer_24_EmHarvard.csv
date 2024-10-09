@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "24", "Em", "Harvard", "763-818-0869", "Weeping Birch", "8785 Dorton Park", "Maple Plain", "MN", "55572", "201498370214051"
+"DETAILS_RECORD", "Baby", "T", "$3,063.72"
+"DETAILS_RECORD", "Music", "T", "$4,647.06"
+"DETAILS_RECORD", "Health", "C", "$1,079.44"
+"DETAILS_RECORD", "TOTAL", "", "$8,790.22"

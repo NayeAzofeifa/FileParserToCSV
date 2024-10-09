@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "763", "Bendicty", "Mallion", "915-394-0822", "Clyde Gallagher", "241 Alpine Circle", "El Paso", "TX", "79984", "30291390973096"
+"DETAILS_RECORD", "Computers", "N", "$71.17"
+"DETAILS_RECORD", "Sports", "S", "$9,144.63"
+"DETAILS_RECORD", "Industrial", "S", "$8,509.42"
+"DETAILS_RECORD", "TOTAL", "", "$17,725.22"

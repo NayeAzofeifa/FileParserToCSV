@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "688", "Torre", "Lavin", "765-750-5145", "Brentwood", "6 Eggendart Way", "Anderson", "IN", "46015", "337941817821852"
+"DETAILS_RECORD", "Industrial", "T", "$3,924.03"
+"DETAILS_RECORD", "Health", "N", "$31.32"
+"DETAILS_RECORD", "Music", "P", "$2,371.58"
+"DETAILS_RECORD", "TOTAL", "", "$6,326.93"

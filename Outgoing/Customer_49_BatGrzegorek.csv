@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "49", "Bat", "Grzegorek", "213-714-7483", "John Wall", "9 Knutson Center", "Los Angeles", "CA", "90101", "3581482170961222"
+"DETAILS_RECORD", "Electronics", "X", "$2,548.20"
+"DETAILS_RECORD", "Toys", "T", "$4,888.99"
+"DETAILS_RECORD", "Home", "S", "$9,753.20"
+"DETAILS_RECORD", "TOTAL", "", "$17,190.39"

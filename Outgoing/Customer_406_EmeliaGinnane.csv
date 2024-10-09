@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "406", "Emelia", "Ginnane", "423-277-1904", "Declaration", "43 Declaration Circle", "Chattanooga", "TN", "37450", "3580042981261567"
+"DETAILS_RECORD", "Sports", "T", "$4,393.92"
+"DETAILS_RECORD", "Grocery", "X", "$2,616.86"
+"DETAILS_RECORD", "Jewelry", "C", "$1,492.44"
+"DETAILS_RECORD", "TOTAL", "", "$8,503.22"

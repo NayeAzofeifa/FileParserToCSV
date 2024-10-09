@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "658", "Tate", "Hartmann", "650-447-9119", "Fieldstone", "4 Grasskamp Way", "Mountain View", "CA", "94042", "3543992180259950"
+"DETAILS_RECORD", "Baby", "S", "$7,864.46"
+"DETAILS_RECORD", "Automotive", "S", "$6,513.38"
+"DETAILS_RECORD", "Home", "C", "$1,493.72"
+"DETAILS_RECORD", "TOTAL", "", "$15,871.56"

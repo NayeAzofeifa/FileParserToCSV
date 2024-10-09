@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "813", "Stacee", "Edinburough", "254-694-0408", "Onsgard", "715 John Wall Road", "Gatesville", "TX", "76598", "3538122797648992"
+"DETAILS_RECORD", "Books", "X", "$2,710.88"
+"DETAILS_RECORD", "Grocery", "L", "$1,713.55"
+"DETAILS_RECORD", "Kids", "S", "$7,623.53"
+"DETAILS_RECORD", "TOTAL", "", "$12,047.96"

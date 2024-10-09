@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "910", "Kandy", "Tschierse", "214-488-9717", "Carberry", "369 Crest Line Plaza", "Irving", "TX", "75037", "3540769157994832"
+"DETAILS_RECORD", "Clothing", "S", "$8,074.74"
+"DETAILS_RECORD", "Home", "S", "$6,600.41"
+"DETAILS_RECORD", "Clothing", "A", "$707.71"
+"DETAILS_RECORD", "TOTAL", "", "$15,382.86"

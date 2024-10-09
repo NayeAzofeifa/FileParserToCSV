@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "228", "Paula", "Durtnall", "603-501-5948", "Golf View", "17609 Service Place", "Portsmouth", "NH", "03804", "6763016550082847859"
+"DETAILS_RECORD", "Beauty", "S", "$5,223.18"
+"DETAILS_RECORD", "Books", "T", "$3,997.10"
+"DETAILS_RECORD", "Health", "S", "$6,170.74"
+"DETAILS_RECORD", "TOTAL", "", "$15,391.02"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "772", "Jackquelin", "Zecchinii", "786-446-1024", "Ludington", "68151 Toban Crossing", "Miami", "FL", "33164", "5602228555084228771"
+"DETAILS_RECORD", "Books", "N", "$283.45"
+"DETAILS_RECORD", "Movies", "C", "$1,307.26"
+"DETAILS_RECORD", "Outdoors", "S", "$8,104.30"
+"DETAILS_RECORD", "TOTAL", "", "$9,695.01"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "368", "Dorey", "Frushard", "352-872-7467", "Grim", "0368 Basil Junction", "Ocala", "FL", "34479", "5530202479142465"
+"DETAILS_RECORD", "Clothing", "S", "$7,488.53"
+"DETAILS_RECORD", "Computers", "T", "$4,984.55"
+"DETAILS_RECORD", "Shoes", "T", "$3,906.67"
+"DETAILS_RECORD", "TOTAL", "", "$16,379.75"

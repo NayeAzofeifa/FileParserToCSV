@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "564", "Huntley", "Menary", "818-367-0749", "Victoria", "7 Logan Center", "Van Nuys", "CA", "91406", "30551414592747"
+"DETAILS_RECORD", "Home", "T", "$4,261.52"
+"DETAILS_RECORD", "Home", "S", "$6,557.65"
+"DETAILS_RECORD", "Tools", "S", "$5,282.39"
+"DETAILS_RECORD", "TOTAL", "", "$16,101.56"

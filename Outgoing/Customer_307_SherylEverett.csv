@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "307", "Sheryl", "Everett", "214-331-5293", "Forest Run", "8167 Elgar Junction", "Arlington", "TX", "76096", "6374751970865591"
+"DETAILS_RECORD", "Beauty", "A", "$629.05"
+"DETAILS_RECORD", "Beauty", "S", "$5,011.29"
+"DETAILS_RECORD", "Movies", "S", "$8,115.05"
+"DETAILS_RECORD", "TOTAL", "", "$13,755.39"

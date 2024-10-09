@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "547", "Kendal", "Berryman", "864-854-6520", "Anthes", "6610 Hauk Circle", "Anderson", "SC", "29625", "6304161850443565"
+"DETAILS_RECORD", "Music", "S", "$8,093.30"
+"DETAILS_RECORD", "Sports", "T", "$4,847.14"
+"DETAILS_RECORD", "Toys", "N", "$382.27"
+"DETAILS_RECORD", "TOTAL", "", "$13,322.71"

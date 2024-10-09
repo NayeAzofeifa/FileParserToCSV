@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "723", "Emylee", "Clerc", "406-286-9422", "Glendale", "02338 Mariners Cove Terrace", "Missoula", "MT", "59806", "5007666460580921"
+"DETAILS_RECORD", "Jewelry", "S", "$9,134.75"
+"DETAILS_RECORD", "Electronics", "L", "$1,673.20"
+"DETAILS_RECORD", "Electronics", "T", "$4,798.80"
+"DETAILS_RECORD", "TOTAL", "", "$15,606.75"

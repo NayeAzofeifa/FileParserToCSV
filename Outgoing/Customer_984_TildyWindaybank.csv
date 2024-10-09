@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "984", "Tildy", "Windaybank", "304-829-3148", "Warner", "3512 Fremont Pass", "Charleston", "WV", "25336", "5010122140578229"
+"DETAILS_RECORD", "Home", "X", "$2,543.93"
+"DETAILS_RECORD", "Books", "N", "$199.66"
+"DETAILS_RECORD", "Jewelry", "C", "$1,409.00"
+"DETAILS_RECORD", "TOTAL", "", "$4,152.59"

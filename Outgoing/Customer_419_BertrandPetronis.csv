@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "419", "Bertrand", "Petronis", "773-616-6006", "Laurel", "202 Mallard Lane", "Chicago", "IL", "60624", "3588086823654770"
+"DETAILS_RECORD", "Electronics", "S", "$7,691.69"
+"DETAILS_RECORD", "Electronics", "S", "$9,403.41"
+"DETAILS_RECORD", "Automotive", "T", "$3,488.11"
+"DETAILS_RECORD", "TOTAL", "", "$20,583.21"

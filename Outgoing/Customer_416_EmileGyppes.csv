@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "416", "Emile", "Gyppes", "225-448-6604", "Sherman", "19 Grasskamp Lane", "Baton Rouge", "LA", "70826", "5602215738387211"
+"DETAILS_RECORD", "Tools", "S", "$8,501.72"
+"DETAILS_RECORD", "Jewelry", "T", "$3,317.90"
+"DETAILS_RECORD", "Games", "S", "$5,032.79"
+"DETAILS_RECORD", "TOTAL", "", "$16,852.41"

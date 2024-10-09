@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "697", "Felix", "Kilgallon", "763-985-2885", "Burning Wood", "27614 Saint Paul Drive", "Monticello", "MN", "55565", "3529710036183853"
+"DETAILS_RECORD", "Baby", "L", "$1,760.54"
+"DETAILS_RECORD", "Outdoors", "X", "$2,686.73"
+"DETAILS_RECORD", "Sports", "A", "$894.28"
+"DETAILS_RECORD", "TOTAL", "", "$5,341.55"

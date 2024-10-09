@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "148", "Quintana", "Hillen", "415-975-3450", "Nancy", "67935 Del Mar Lane", "San Francisco", "CA", "94142", "3585383040662519"
+"DETAILS_RECORD", "Home", "S", "$7,250.76"
+"DETAILS_RECORD", "Kids", "S", "$8,831.98"
+"DETAILS_RECORD", "Grocery", "S", "$5,111.03"
+"DETAILS_RECORD", "TOTAL", "", "$21,193.77"

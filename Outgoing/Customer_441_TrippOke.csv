@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "441", "Tripp", "Oke", "843-659-7525", "Lighthouse Bay", "06 Ridgeview Trail", "Myrtle Beach", "SC", "29579", "4041372352948"
+"DETAILS_RECORD", "Baby", "L", "$1,897.96"
+"DETAILS_RECORD", "Home", "S", "$8,742.36"
+"DETAILS_RECORD", "Music", "S", "$5,323.56"
+"DETAILS_RECORD", "TOTAL", "", "$15,963.88"

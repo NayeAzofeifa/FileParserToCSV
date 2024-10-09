@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "467", "Glenna", "Stothert", "603-329-7794", "School", "865 Autumn Leaf Point", "Manchester", "NH", "03105", "3558855795549929"
+"DETAILS_RECORD", "Tools", "P", "$2,227.30"
+"DETAILS_RECORD", "Garden", "S", "$7,162.65"
+"DETAILS_RECORD", "Home", "S", "$6,028.00"
+"DETAILS_RECORD", "TOTAL", "", "$15,417.95"

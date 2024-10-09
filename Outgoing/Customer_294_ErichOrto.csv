@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "294", "Erich", "Orto", "703-508-2497", "Rockefeller", "0793 Roxbury Junction", "Reston", "VA", "20195", "5496605156138956"
+"DETAILS_RECORD", "Clothing", "T", "$3,623.48"
+"DETAILS_RECORD", "Health", "S", "$7,350.00"
+"DETAILS_RECORD", "Books", "S", "$9,164.09"
+"DETAILS_RECORD", "TOTAL", "", "$20,137.57"

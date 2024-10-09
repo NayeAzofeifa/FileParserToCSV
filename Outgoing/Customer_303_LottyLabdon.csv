@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "303", "Lotty", "Labdon", "321-289-0601", "Fulton", "5 Stoughton Way", "Melbourne", "FL", "32919", "3553492358649055"
+"DETAILS_RECORD", "Industrial", "S", "$6,382.29"
+"DETAILS_RECORD", "Kids", "S", "$9,035.30"
+"DETAILS_RECORD", "Outdoors", "T", "$3,482.55"
+"DETAILS_RECORD", "TOTAL", "", "$18,900.14"

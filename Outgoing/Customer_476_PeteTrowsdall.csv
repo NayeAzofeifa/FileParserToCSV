@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "476", "Pete", "Trowsdall", "509-151-4224", "Lotheville", "415 Oxford Street", "Yakima", "WA", "98907", "5010124360133016"
+"DETAILS_RECORD", "Automotive", "P", "$2,335.45"
+"DETAILS_RECORD", "Kids", "T", "$4,964.69"
+"DETAILS_RECORD", "Movies", "S", "$8,925.04"
+"DETAILS_RECORD", "TOTAL", "", "$16,225.18"

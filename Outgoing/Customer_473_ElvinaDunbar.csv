@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "473", "Elvina", "Dunbar", "212-474-8012", "Badeau", "5085 Pawling Court", "New York City", "NY", "10115", "4695993007922949"
+"DETAILS_RECORD", "Toys", "S", "$8,554.93"
+"DETAILS_RECORD", "Books", "T", "$4,413.01"
+"DETAILS_RECORD", "Tools", "A", "$506.22"
+"DETAILS_RECORD", "TOTAL", "", "$13,474.16"

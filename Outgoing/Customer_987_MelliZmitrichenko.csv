@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "987", "Melli", "Zmitrichenko", "916-678-1484", "Kensington", "00584 Saint Paul Point", "Sacramento", "CA", "94250", "3588144327402392"
+"DETAILS_RECORD", "Outdoors", "T", "$4,194.78"
+"DETAILS_RECORD", "Health", "S", "$8,833.99"
+"DETAILS_RECORD", "Home", "S", "$9,915.72"
+"DETAILS_RECORD", "TOTAL", "", "$22,944.49"

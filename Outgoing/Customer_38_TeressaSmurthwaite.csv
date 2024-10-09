@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "38", "Teressa", "Smurthwaite", "212-504-6386", "Helena", "84974 Bobwhite Parkway", "New York City", "NY", "10039", "3545046507012184"
+"DETAILS_RECORD", "Baby", "L", "$1,875.28"
+"DETAILS_RECORD", "Clothing", "S", "$9,043.82"
+"DETAILS_RECORD", "Garden", "T", "$4,099.71"
+"DETAILS_RECORD", "TOTAL", "", "$15,018.81"

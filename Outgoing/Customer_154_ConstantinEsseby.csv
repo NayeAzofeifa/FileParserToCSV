@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "154", "Constantin", "Esseby", "203-194-1377", "Rigney", "6 Amoth Court", "Stamford", "CT", "06912", "4905756036715384943"
+"DETAILS_RECORD", "Toys", "S", "$6,660.77"
+"DETAILS_RECORD", "Games", "T", "$4,223.67"
+"DETAILS_RECORD", "Games", "L", "$1,892.80"
+"DETAILS_RECORD", "TOTAL", "", "$12,777.24"

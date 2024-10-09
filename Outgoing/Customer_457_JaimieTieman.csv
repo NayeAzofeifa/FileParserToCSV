@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "457", "Jaimie", "Tieman", "410-275-1363", "Logan", "01339 Novick Alley", "Baltimore", "MD", "21282", "30171404837828"
+"DETAILS_RECORD", "Kids", "S", "$6,884.58"
+"DETAILS_RECORD", "Health", "C", "$1,416.23"
+"DETAILS_RECORD", "Garden", "T", "$4,526.69"
+"DETAILS_RECORD", "TOTAL", "", "$12,827.50"

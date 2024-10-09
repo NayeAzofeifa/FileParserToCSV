@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "901", "Melessa", "Gatling", "231-393-8835", "Northland", "38 Northwestern Drive", "Muskegon", "MI", "49444", "3573477510250880"
+"DETAILS_RECORD", "Garden", "T", "$4,859.90"
+"DETAILS_RECORD", "Tools", "C", "$1,026.84"
+"DETAILS_RECORD", "Clothing", "N", "$187.64"
+"DETAILS_RECORD", "TOTAL", "", "$6,074.38"

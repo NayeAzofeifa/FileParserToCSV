@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "471", "Herrick", "Raynor", "213-954-2399", "Nancy", "7 Buena Vista Pass", "Los Angeles", "CA", "90045", "3530101362951641"
+"DETAILS_RECORD", "Garden", "C", "$1,341.45"
+"DETAILS_RECORD", "Electronics", "T", "$4,300.61"
+"DETAILS_RECORD", "Books", "S", "$9,947.33"
+"DETAILS_RECORD", "TOTAL", "", "$15,589.39"

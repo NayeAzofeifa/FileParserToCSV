@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "826", "Celie", "Breewood", "203-873-1861", "Algoma", "504 Anzinger Street", "Stamford", "CT", "06905", "3559258194384312"
+"DETAILS_RECORD", "Music", "X", "$2,642.16"
+"DETAILS_RECORD", "Health", "S", "$6,900.13"
+"DETAILS_RECORD", "Sports", "L", "$1,548.72"
+"DETAILS_RECORD", "TOTAL", "", "$11,091.01"

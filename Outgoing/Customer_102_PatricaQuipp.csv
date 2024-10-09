@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "102", "Patrica", "Quipp", "206-278-9810", "Shopko", "08224 Merchant Drive", "Seattle", "WA", "98166", "5018845941369123"
+"DETAILS_RECORD", "Automotive", "T", "$4,986.31"
+"DETAILS_RECORD", "Beauty", "T", "$3,207.83"
+"DETAILS_RECORD", "Clothing", "C", "$1,358.25"
+"DETAILS_RECORD", "TOTAL", "", "$9,552.39"

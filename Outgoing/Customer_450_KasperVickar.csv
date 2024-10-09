@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "450", "Kasper", "Vickar", "617-892-3599", "Algoma", "2191 Parkside Center", "Boston", "MA", "02114", "6334483862230424"
+"DETAILS_RECORD", "Outdoors", "P", "$2,019.71"
+"DETAILS_RECORD", "Baby", "S", "$9,848.06"
+"DETAILS_RECORD", "Grocery", "T", "$4,043.31"
+"DETAILS_RECORD", "TOTAL", "", "$15,911.08"

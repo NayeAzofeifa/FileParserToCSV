@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "452", "Arte", "Ruler", "612-487-1100", "Erie", "491 Monterey Drive", "Minneapolis", "MN", "55436", "4258210859754125"
+"DETAILS_RECORD", "Baby", "S", "$7,025.43"
+"DETAILS_RECORD", "Shoes", "S", "$7,308.33"
+"DETAILS_RECORD", "Toys", "S", "$8,590.52"
+"DETAILS_RECORD", "TOTAL", "", "$22,924.28"

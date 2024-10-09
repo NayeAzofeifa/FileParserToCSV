@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "323", "Karalee", "Petch", "562-573-6147", "Thierer", "779 Derek Terrace", "Long Beach", "CA", "90805", "3535612416480515"
+"DETAILS_RECORD", "Grocery", "S", "$8,210.27"
+"DETAILS_RECORD", "Tools", "S", "$7,576.12"
+"DETAILS_RECORD", "Shoes", "S", "$5,103.63"
+"DETAILS_RECORD", "TOTAL", "", "$20,890.02"

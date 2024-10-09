@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "358", "Regen", "Sherrock", "651-201-5310", "Grover", "280 Brown Street", "Saint Paul", "MN", "55172", "5100130710862254"
+"DETAILS_RECORD", "Beauty", "S", "$9,555.00"
+"DETAILS_RECORD", "Books", "P", "$2,177.08"
+"DETAILS_RECORD", "Toys", "S", "$8,968.31"
+"DETAILS_RECORD", "TOTAL", "", "$20,700.39"

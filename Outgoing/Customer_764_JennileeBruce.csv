@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "764", "Jennilee", "Bruce", "765-171-6086", "Mariners Cove", "3023 Marcy Lane", "Indianapolis", "IN", "46202", "3551530051432550"
+"DETAILS_RECORD", "Beauty", "S", "$8,759.45"
+"DETAILS_RECORD", "Computers", "X", "$2,748.71"
+"DETAILS_RECORD", "Jewelry", "T", "$3,495.93"
+"DETAILS_RECORD", "TOTAL", "", "$15,004.09"

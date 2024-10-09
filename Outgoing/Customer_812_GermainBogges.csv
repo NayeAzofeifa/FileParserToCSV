@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "812", "Germain", "Bogges", "480-953-8597", "Monica", "7149 Waxwing Court", "Mesa", "AZ", "85205", "201953306316123"
+"DETAILS_RECORD", "Books", "T", "$4,318.04"
+"DETAILS_RECORD", "Electronics", "S", "$9,044.65"
+"DETAILS_RECORD", "Home", "S", "$5,485.42"
+"DETAILS_RECORD", "TOTAL", "", "$18,848.11"

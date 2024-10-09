@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "666", "Tonya", "Limeburner", "405-117-3676", "Kennedy", "99 Laurel Park", "Oklahoma City", "OK", "73197", "4913030462062816"
+"DETAILS_RECORD", "Beauty", "T", "$4,113.58"
+"DETAILS_RECORD", "Health", "S", "$9,677.51"
+"DETAILS_RECORD", "Shoes", "S", "$6,539.43"
+"DETAILS_RECORD", "TOTAL", "", "$20,330.52"

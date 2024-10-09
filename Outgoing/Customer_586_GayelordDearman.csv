@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "586", "Gayelord", "Dearman", "205-779-2384", "Ridgeview", "6 Golf Course Place", "Birmingham", "AL", "35231", "3570967682164573"
+"DETAILS_RECORD", "Games", "S", "$8,007.03"
+"DETAILS_RECORD", "Electronics", "S", "$8,600.04"
+"DETAILS_RECORD", "Industrial", "L", "$1,538.38"
+"DETAILS_RECORD", "TOTAL", "", "$18,145.45"

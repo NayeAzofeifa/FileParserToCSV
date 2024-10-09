@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "549", "Helen-elizabeth", "Twist", "763-884-1705", "Nobel", "0903 Knutson Park", "Minneapolis", "MN", "55448", "30278783524982"
+"DETAILS_RECORD", "Baby", "S", "$5,548.25"
+"DETAILS_RECORD", "Beauty", "T", "$4,855.94"
+"DETAILS_RECORD", "Industrial", "S", "$8,587.83"
+"DETAILS_RECORD", "TOTAL", "", "$18,992.02"

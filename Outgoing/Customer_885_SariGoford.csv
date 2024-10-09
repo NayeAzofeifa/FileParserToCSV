@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "885", "Sari", "Goford", "513-706-7765", "Cherokee", "52 Barby Lane", "Cincinnati", "OH", "45249", "6386169067061097"
+"DETAILS_RECORD", "Beauty", "S", "$5,073.32"
+"DETAILS_RECORD", "Music", "T", "$4,842.83"
+"DETAILS_RECORD", "Shoes", "S", "$6,471.20"
+"DETAILS_RECORD", "TOTAL", "", "$16,387.35"

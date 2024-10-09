@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "505", "Jennilee", "Kent", "203-311-3745", "7th", "79 Prairie Rose Circle", "New Haven", "CT", "06510", "6304938775763167685"
+"DETAILS_RECORD", "Automotive", "T", "$4,544.22"
+"DETAILS_RECORD", "Beauty", "S", "$7,502.02"
+"DETAILS_RECORD", "Home", "S", "$9,864.08"
+"DETAILS_RECORD", "TOTAL", "", "$21,910.32"

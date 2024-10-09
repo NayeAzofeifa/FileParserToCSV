@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "935", "Fletch", "Barlass", "956-724-0975", "Lotheville", "0 Chinook Trail", "Laredo", "TX", "78044", "560225395354196269"
+"DETAILS_RECORD", "Sports", "S", "$8,310.19"
+"DETAILS_RECORD", "Baby", "C", "$1,167.33"
+"DETAILS_RECORD", "Toys", "T", "$4,071.31"
+"DETAILS_RECORD", "TOTAL", "", "$13,548.83"

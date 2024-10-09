@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "609", "Berty", "Ickowics", "267-380-0905", "Esker", "7 Talisman Street", "Philadelphia", "PA", "19136", "5108751189039595"
+"DETAILS_RECORD", "Movies", "X", "$2,574.90"
+"DETAILS_RECORD", "Electronics", "S", "$9,942.33"
+"DETAILS_RECORD", "Automotive", "T", "$4,338.01"
+"DETAILS_RECORD", "TOTAL", "", "$16,855.24"

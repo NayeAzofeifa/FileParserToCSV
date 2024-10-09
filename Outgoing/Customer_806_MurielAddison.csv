@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "806", "Muriel", "Addison", "757-206-9697", "Marquette", "4 Bayside Avenue", "Norfolk", "VA", "23551", "4041592656961"
+"DETAILS_RECORD", "Books", "N", "$259.32"
+"DETAILS_RECORD", "Home", "P", "$2,250.08"
+"DETAILS_RECORD", "Toys", "S", "$7,042.70"
+"DETAILS_RECORD", "TOTAL", "", "$9,552.10"

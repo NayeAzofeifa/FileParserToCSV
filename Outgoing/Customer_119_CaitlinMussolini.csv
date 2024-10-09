@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "119", "Caitlin", "Mussolini", "412-115-1092", "Atwood", "49 Waubesa Hill", "Pittsburgh", "PA", "15286", "5048371744258086"
+"DETAILS_RECORD", "Shoes", "S", "$5,454.89"
+"DETAILS_RECORD", "Automotive", "C", "$1,177.78"
+"DETAILS_RECORD", "Movies", "S", "$7,971.16"
+"DETAILS_RECORD", "TOTAL", "", "$14,603.83"

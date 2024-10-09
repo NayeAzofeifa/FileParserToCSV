@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "166", "Aurlie", "Huertas", "205-204-8603", "Everett", "67694 Scoville Way", "Birmingham", "AL", "35244", "374622006574270"
+"DETAILS_RECORD", "Tools", "T", "$3,986.84"
+"DETAILS_RECORD", "Grocery", "S", "$6,129.29"
+"DETAILS_RECORD", "Games", "S", "$5,264.14"
+"DETAILS_RECORD", "TOTAL", "", "$15,380.27"

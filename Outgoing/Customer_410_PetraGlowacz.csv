@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "410", "Petra", "Glowacz", "970-416-7392", "Merry", "41048 Dottie Drive", "Grand Junction", "CO", "81505", "5010127273346641"
+"DETAILS_RECORD", "Health", "T", "$4,843.64"
+"DETAILS_RECORD", "Automotive", "A", "$525.77"
+"DETAILS_RECORD", "Computers", "S", "$6,184.78"
+"DETAILS_RECORD", "TOTAL", "", "$11,554.19"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "792", "Orazio", "Dudley", "407-846-0204", "Gale", "23 Sage Trail", "Orlando", "FL", "32819", "503824188006282453"
+"DETAILS_RECORD", "Home", "A", "$927.44"
+"DETAILS_RECORD", "Home", "P", "$2,196.93"
+"DETAILS_RECORD", "Automotive", "S", "$8,392.05"
+"DETAILS_RECORD", "TOTAL", "", "$11,516.42"

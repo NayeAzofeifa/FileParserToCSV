@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "528", "Claiborn", "Breens", "714-157-6359", "Debra", "121 Emmet Hill", "Orange", "CA", "92867", "5602249317503724"
+"DETAILS_RECORD", "Jewelry", "S", "$6,978.72"
+"DETAILS_RECORD", "Shoes", "T", "$4,572.93"
+"DETAILS_RECORD", "Beauty", "P", "$2,176.58"
+"DETAILS_RECORD", "TOTAL", "", "$13,728.23"

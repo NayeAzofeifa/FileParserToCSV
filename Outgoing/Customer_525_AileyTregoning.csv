@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "525", "Ailey", "Tregoning", "832-552-4655", "Upham", "5661 Judy Way", "Houston", "TX", "77266", "3541359352098545"
+"DETAILS_RECORD", "Toys", "C", "$1,099.78"
+"DETAILS_RECORD", "Home", "S", "$8,543.07"
+"DETAILS_RECORD", "Computers", "T", "$4,213.85"
+"DETAILS_RECORD", "TOTAL", "", "$13,856.70"

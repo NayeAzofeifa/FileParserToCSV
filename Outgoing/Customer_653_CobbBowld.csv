@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "653", "Cobb", "Bowld", "727-808-0348", "Roth", "59086 Warrior Place", "Largo", "FL", "33777", "201771290598880"
+"DETAILS_RECORD", "Industrial", "T", "$4,085.29"
+"DETAILS_RECORD", "Shoes", "S", "$5,375.03"
+"DETAILS_RECORD", "Tools", "S", "$7,632.56"
+"DETAILS_RECORD", "TOTAL", "", "$17,092.88"

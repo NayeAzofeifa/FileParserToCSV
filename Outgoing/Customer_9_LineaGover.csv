@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "9", "Linea", "Gover", "251-208-2247", "Shasta", "3453 Golf Course Avenue", "Mobile", "AL", "36605", "3542649086867549"
+"DETAILS_RECORD", "Tools", "S", "$9,793.28"
+"DETAILS_RECORD", "Books", "S", "$8,378.06"
+"DETAILS_RECORD", "Music", "S", "$5,615.30"
+"DETAILS_RECORD", "TOTAL", "", "$23,786.64"

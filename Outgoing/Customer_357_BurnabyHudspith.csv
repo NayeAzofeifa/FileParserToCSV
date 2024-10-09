@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "357", "Burnaby", "Hudspith", "704-580-5119", "Heffernan", "56 Porter Center", "Charlotte", "NC", "28247", "3575524588124246"
+"DETAILS_RECORD", "Kids", "S", "$7,631.10"
+"DETAILS_RECORD", "Outdoors", "L", "$1,923.77"
+"DETAILS_RECORD", "Jewelry", "A", "$672.15"
+"DETAILS_RECORD", "TOTAL", "", "$10,227.02"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "174", "Elset", "Lehenmann", "916-728-5896", "Iowa", "4462 Ridgeway Park", "Sacramento", "CA", "95894", "3554298762812703"
+"DETAILS_RECORD", "Movies", "P", "$2,034.95"
+"DETAILS_RECORD", "Movies", "S", "$8,356.76"
+"DETAILS_RECORD", "Baby", "T", "$4,194.72"
+"DETAILS_RECORD", "TOTAL", "", "$14,586.43"

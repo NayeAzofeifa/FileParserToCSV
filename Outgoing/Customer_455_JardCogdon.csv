@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "455", "Jard", "Cogdon", "915-588-6472", "Reinke", "8 Anhalt Drive", "El Paso", "TX", "79911", "3577851660059752"
+"DETAILS_RECORD", "Outdoors", "N", "$350.53"
+"DETAILS_RECORD", "Outdoors", "T", "$3,855.50"
+"DETAILS_RECORD", "Baby", "S", "$9,318.33"
+"DETAILS_RECORD", "TOTAL", "", "$13,524.36"

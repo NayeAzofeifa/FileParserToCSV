@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "153", "Thomasin", "Steagall", "208-564-4606", "Hanson", "3 Lighthouse Bay Crossing", "Pocatello", "ID", "83206", "5610373432903385"
+"DETAILS_RECORD", "Jewelry", "S", "$6,064.93"
+"DETAILS_RECORD", "Computers", "S", "$6,239.22"
+"DETAILS_RECORD", "Games", "T", "$3,611.80"
+"DETAILS_RECORD", "TOTAL", "", "$15,915.95"

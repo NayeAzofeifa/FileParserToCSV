@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "818", "Dagny", "Southern", "704-131-4589", "Gale", "44 Bayside Terrace", "Charlotte", "NC", "28299", "201621881030845"
+"DETAILS_RECORD", "Jewelry", "S", "$7,368.19"
+"DETAILS_RECORD", "Toys", "P", "$2,063.72"
+"DETAILS_RECORD", "Sports", "S", "$9,198.92"
+"DETAILS_RECORD", "TOTAL", "", "$18,630.83"

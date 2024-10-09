@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "881", "Irene", "Wloch", "512-892-7008", "Buena Vista", "14899 Center Center", "Austin", "TX", "78744", "3567121932478285"
+"DETAILS_RECORD", "Jewelry", "S", "$8,797.80"
+"DETAILS_RECORD", "Automotive", "S", "$6,530.75"
+"DETAILS_RECORD", "Books", "S", "$7,824.15"
+"DETAILS_RECORD", "TOTAL", "", "$23,152.70"

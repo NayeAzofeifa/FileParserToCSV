@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "915", "Hyman", "Silliman", "212-293-3848", "Southridge", "4354 Acker Center", "Jamaica", "NY", "11431", "30290449208926"
+"DETAILS_RECORD", "Garden", "X", "$2,728.80"
+"DETAILS_RECORD", "Outdoors", "N", "$151.07"
+"DETAILS_RECORD", "Sports", "T", "$4,016.44"
+"DETAILS_RECORD", "TOTAL", "", "$6,896.31"

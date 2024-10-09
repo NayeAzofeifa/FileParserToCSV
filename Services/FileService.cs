@@ -58,9 +58,9 @@ namespace FileParserToCSV.Services
         
         public HeaderRecordModel CreateHeaderRecord(string path, List<CustomerModel> customers)
         {
-            string totalCustomers = customers.Count.ToString();
+            int totalCustomers = customers.Count;
             CalculationService calculationService = new CalculationService();
-            List<string> amountsPerCustomer = calculationService.CalculateTotalAmountPerCustomer(path);
+            List<string> amountsPerCustomer = calculationService.CalculateTotalAmountPerCustomer(customers);
             string totalAmount = calculationService.CalculateCustomersTotalAmount(amountsPerCustomer);
             HeaderRecordModel newHeader = new HeaderRecordModel
             {
@@ -94,23 +94,38 @@ namespace FileParserToCSV.Services
             }
             return allDetails;
         }
-        /*
-        public void WriteFile(string path, List<CustomerModel> customers, HeaderRecordModel headerRecord)
+        
+        public void WriteFile(List<CustomerModel> customers, HeaderRecordModel header, List<string> totalAmounts)
         {
-            foreach(CustomerModel customer in customers)
+            string outputDirectory = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Outgoing";
+            //Path.Combine(Directory.GetCurrentDirectory(), "Outgoing");
+            if (!Directory.Exists(outputDirectory))
             {
-                string customerID = customer.Counter;
-                string customerLastName = customer.LastName;
-                string outputFileName = $"Customer_{customerID}_{customer.LastName}.csv";
+                Directory.CreateDirectory(outputDirectory);
+            }
+            foreach (CustomerModel customer in customers)
+            {
+                
+                string customerName = customer.FirstName + customer.LastName;
+                string outputFileName = Path.Combine(outputDirectory, $"Customer_{customer.Counter}_{customerName}.csv");
+
+                int index = int.Parse(customer.Counter) - 1;
+                string totalAmountPerCustomer = totalAmounts[index];
+
                 using (StreamWriter writer = new StreamWriter(outputFileName))
                 {
+                    writer.WriteLine($"\"HEADER_RECORD\", \"{header.SourceFileName}\", {header.CustomerCount}, \"{header.CustomersTotalAmount}\", \"{header.TodaysDate}\", \"{header.TodaysTimestamp}\"");
+                    writer.WriteLine($"\"CUSTOMER_RECORD\", \"{customer.Counter}\", \"{customer.FirstName}\", \"{customer.LastName}\", \"{customer.Phone}\", \"{customer.AddressOne}\", \"{customer.AddressTwo}\", \"{customer.City}\", \"{customer.State}\", \"{customer.ZipCode}\", \"{customer.Account}\"");
                     
+                    List<DetailsRecordModel> details = CreateDetailsRecords(new List<CustomerModel> { customer });
+                    foreach (var detail in details)
+                    {
+                        writer.WriteLine($"\"DETAILS_RECORD\", \"{detail.Description}\", \"{detail.Code}\", \"{detail.Amount}\"");
+                    }
+                    writer.WriteLine($"\"DETAILS_RECORD\", \"TOTAL\", \"\", \"{totalAmountPerCustomer}\"");
                 }
-
-
             }
-
-
-        }*/
+            Console.WriteLine("Files have been successfully created");
+        }
     }
 }

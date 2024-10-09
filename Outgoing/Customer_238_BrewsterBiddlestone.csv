@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "238", "Brewster", "Biddlestone", "336-343-2196", "Grayhawk", "163 Michigan Trail", "Winston Salem", "NC", "27150", "5002352272532393"
+"DETAILS_RECORD", "Books", "N", "$380.62"
+"DETAILS_RECORD", "Clothing", "S", "$9,229.67"
+"DETAILS_RECORD", "Tools", "S", "$5,371.72"
+"DETAILS_RECORD", "TOTAL", "", "$14,982.01"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "507", "Syd", "Burnhard", "212-348-4679", "Warbler", "23 Calypso Road", "New York City", "NY", "10125", "6334401309286718"
+"DETAILS_RECORD", "Games", "T", "$4,140.60"
+"DETAILS_RECORD", "Shoes", "T", "$4,016.89"
+"DETAILS_RECORD", "Industrial", "S", "$8,352.29"
+"DETAILS_RECORD", "TOTAL", "", "$16,509.78"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "758", "Wanda", "Mathouse", "216-226-8284", "Gale", "8405 Prentice Center", "Cleveland", "OH", "44111", "36752239875879"
+"DETAILS_RECORD", "Kids", "L", "$1,891.66"
+"DETAILS_RECORD", "Jewelry", "A", "$589.07"
+"DETAILS_RECORD", "Music", "L", "$1,725.69"
+"DETAILS_RECORD", "TOTAL", "", "$4,206.42"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "118", "Joshia", "Scrancher", "814-863-3111", "Corben", "609 Sommers Point", "Erie", "PA", "16565", "4844001243196532"
+"DETAILS_RECORD", "Music", "A", "$957.50"
+"DETAILS_RECORD", "Toys", "S", "$8,675.22"
+"DETAILS_RECORD", "Movies", "A", "$844.86"
+"DETAILS_RECORD", "TOTAL", "", "$10,477.58"

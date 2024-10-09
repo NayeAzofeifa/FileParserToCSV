@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "798", "Cheston", "Cordey", "859-537-0369", "Ilene", "1 Eastwood Terrace", "Lexington", "KY", "40596", "6771190249282941"
+"DETAILS_RECORD", "Grocery", "C", "$1,309.79"
+"DETAILS_RECORD", "Games", "A", "$707.10"
+"DETAILS_RECORD", "Clothing", "X", "$2,539.08"
+"DETAILS_RECORD", "TOTAL", "", "$4,555.97"

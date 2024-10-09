@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "456", "Gare", "Bracher", "336-545-5523", "Spohn", "26821 Arizona Way", "High Point", "NC", "27264", "6331109244507253"
+"DETAILS_RECORD", "Tools", "T", "$3,419.70"
+"DETAILS_RECORD", "Computers", "S", "$8,673.92"
+"DETAILS_RECORD", "Toys", "X", "$2,761.60"
+"DETAILS_RECORD", "TOTAL", "", "$14,855.22"

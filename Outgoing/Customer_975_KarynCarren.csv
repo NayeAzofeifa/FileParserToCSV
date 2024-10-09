@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "975", "Karyn", "Carren", "754-340-2661", "Prentice", "99419 Northfield Court", "Fort Lauderdale", "FL", "33345", "4917330825399517"
+"DETAILS_RECORD", "Industrial", "S", "$9,131.92"
+"DETAILS_RECORD", "Sports", "T", "$4,449.26"
+"DETAILS_RECORD", "Electronics", "X", "$2,794.57"
+"DETAILS_RECORD", "TOTAL", "", "$16,375.75"

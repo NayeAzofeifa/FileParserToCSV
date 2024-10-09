@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "348", "Renie", "Burnand", "951-474-9700", "Bay", "15 Welch Park", "Riverside", "CA", "92519", "6334607156272987"
+"DETAILS_RECORD", "Grocery", "P", "$2,401.47"
+"DETAILS_RECORD", "Jewelry", "S", "$8,636.34"
+"DETAILS_RECORD", "Electronics", "T", "$3,339.14"
+"DETAILS_RECORD", "TOTAL", "", "$14,376.95"

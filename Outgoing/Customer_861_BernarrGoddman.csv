@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "861", "Bernarr", "Goddman", "251-290-7280", "Delaware", "4057 Debs Court", "Mobile", "AL", "36616", "3543882088015614"
+"DETAILS_RECORD", "Garden", "T", "$4,583.38"
+"DETAILS_RECORD", "Outdoors", "T", "$3,412.36"
+"DETAILS_RECORD", "Tools", "X", "$2,759.66"
+"DETAILS_RECORD", "TOTAL", "", "$10,755.40"

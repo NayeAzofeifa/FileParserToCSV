@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "46", "Kelsey", "Giamitti", "317-844-8274", "Debs", "5 Eggendart Circle", "Indianapolis", "IN", "46295", "5007665024224737"
+"DETAILS_RECORD", "Baby", "A", "$631.81"
+"DETAILS_RECORD", "Tools", "S", "$6,485.40"
+"DETAILS_RECORD", "Sports", "S", "$5,319.34"
+"DETAILS_RECORD", "TOTAL", "", "$12,436.55"

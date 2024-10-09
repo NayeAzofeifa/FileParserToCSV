@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "262", "Merline", "Stood", "843-421-4270", "Mccormick", "3769 Victoria Circle", "Charleston", "SC", "29424", "4017952519056"
+"DETAILS_RECORD", "Industrial", "S", "$7,673.65"
+"DETAILS_RECORD", "Home", "T", "$4,198.07"
+"DETAILS_RECORD", "Grocery", "L", "$1,565.60"
+"DETAILS_RECORD", "TOTAL", "", "$13,437.32"

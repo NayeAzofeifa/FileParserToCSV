@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "533", "Farr", "Brumwell", "215-949-6350", "Almo", "0150 Bluejay Center", "Philadelphia", "PA", "19172", "201574739638410"
+"DETAILS_RECORD", "Health", "T", "$4,291.42"
+"DETAILS_RECORD", "Music", "C", "$1,467.11"
+"DETAILS_RECORD", "Industrial", "C", "$1,250.17"
+"DETAILS_RECORD", "TOTAL", "", "$7,008.70"

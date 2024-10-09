@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "229", "Emily", "Troyes", "813-308-8475", "Vera", "026 Kipling Place", "Tampa", "FL", "33620", "201959694259833"
+"DETAILS_RECORD", "Toys", "T", "$4,581.69"
+"DETAILS_RECORD", "Books", "S", "$9,275.74"
+"DETAILS_RECORD", "Kids", "S", "$8,812.35"
+"DETAILS_RECORD", "TOTAL", "", "$22,669.78"

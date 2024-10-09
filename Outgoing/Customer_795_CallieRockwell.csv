@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "795", "Callie", "Rockwell", "602-283-2553", "Monica", "7 Westridge Parkway", "Mesa", "AZ", "85205", "5100148052845547"
+"DETAILS_RECORD", "Games", "S", "$8,288.53"
+"DETAILS_RECORD", "Health", "S", "$5,009.20"
+"DETAILS_RECORD", "Garden", "X", "$2,971.45"
+"DETAILS_RECORD", "TOTAL", "", "$16,269.18"

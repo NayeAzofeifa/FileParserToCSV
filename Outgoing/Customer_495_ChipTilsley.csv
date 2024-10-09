@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "495", "Chip", "Tilsley", "903-831-5005", "Kinsman", "77815 Grayhawk Circle", "Tyler", "TX", "75710", "5602259939563725"
+"DETAILS_RECORD", "Health", "T", "$3,927.34"
+"DETAILS_RECORD", "Baby", "T", "$4,583.32"
+"DETAILS_RECORD", "Grocery", "S", "$6,406.32"
+"DETAILS_RECORD", "TOTAL", "", "$14,916.98"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "799", "Shirlene", "Stuckey", "440-667-5754", "Hansons", "0307 Merry Drive", "Cleveland", "OH", "44125", "3565555765213370"
+"DETAILS_RECORD", "Health", "A", "$933.20"
+"DETAILS_RECORD", "Baby", "T", "$3,991.70"
+"DETAILS_RECORD", "Jewelry", "A", "$748.66"
+"DETAILS_RECORD", "TOTAL", "", "$5,673.56"

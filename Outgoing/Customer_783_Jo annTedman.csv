@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "783", "Jo ann", "Tedman", "225-751-6904", "East", "580 Hollow Ridge Pass", "Baton Rouge", "LA", "70883", "490361535351068912"
+"DETAILS_RECORD", "Outdoors", "S", "$8,491.70"
+"DETAILS_RECORD", "Music", "T", "$4,936.70"
+"DETAILS_RECORD", "Baby", "S", "$8,276.23"
+"DETAILS_RECORD", "TOTAL", "", "$21,704.63"

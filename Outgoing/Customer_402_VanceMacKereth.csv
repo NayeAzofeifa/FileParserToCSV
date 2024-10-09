@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "402", "Vance", "MacKereth", "412-415-1352", "Service", "327 Corscot Center", "Pittsburgh", "PA", "15225", "3575953043939759"
+"DETAILS_RECORD", "Beauty", "T", "$3,355.57"
+"DETAILS_RECORD", "Grocery", "L", "$1,740.48"
+"DETAILS_RECORD", "Books", "T", "$3,714.52"
+"DETAILS_RECORD", "TOTAL", "", "$8,810.57"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "664", "Colver", "Haggas", "202-361-7540", "Loomis", "22 Algoma Place", "Washington", "DC", "20337", "3581149652753217"
+"DETAILS_RECORD", "Computers", "T", "$4,246.17"
+"DETAILS_RECORD", "Beauty", "T", "$4,713.88"
+"DETAILS_RECORD", "Movies", "S", "$8,722.70"
+"DETAILS_RECORD", "TOTAL", "", "$17,682.75"

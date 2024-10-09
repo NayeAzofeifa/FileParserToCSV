@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "390", "Nobie", "Blennerhassett", "716-367-4082", "Charing Cross", "90 Ronald Regan Court", "Buffalo", "NY", "14225", "3588160776540334"
+"DETAILS_RECORD", "Games", "S", "$8,855.14"
+"DETAILS_RECORD", "Computers", "S", "$5,804.55"
+"DETAILS_RECORD", "Jewelry", "T", "$3,694.30"
+"DETAILS_RECORD", "TOTAL", "", "$18,353.99"

@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "236", "Almira", "Courvert", "703-478-8342", "Truax", "1 Debs Park", "Alexandria", "VA", "22309", "3540231160062933"
+"DETAILS_RECORD", "Jewelry", "S", "$7,570.89"
+"DETAILS_RECORD", "Clothing", "X", "$2,669.55"
+"DETAILS_RECORD", "Automotive", "S", "$7,527.23"
+"DETAILS_RECORD", "TOTAL", "", "$17,767.67"

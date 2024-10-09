@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "384", "Rafaello", "Kingsland", "360-841-5656", "Sunbrook", "496 Truax Point", "Olympia", "WA", "98506", "3563820401624881"
+"DETAILS_RECORD", "Beauty", "P", "$2,135.84"
+"DETAILS_RECORD", "Toys", "S", "$6,186.82"
+"DETAILS_RECORD", "Baby", "S", "$5,340.93"
+"DETAILS_RECORD", "TOTAL", "", "$13,663.59"

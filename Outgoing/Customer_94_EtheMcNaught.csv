@@ -1,0 +1,6 @@
+"HEADER_RECORD", "InputData.txt", 1000, "$15,083,093.64", "2024-10-09", "12:59:50 p. m."
+"CUSTOMER_RECORD", "94", "Ethe", "McNaught", "410-313-8702", "Logan", "86 Oak Valley Hill", "Baltimore", "MD", "21290", "201401363171353"
+"DETAILS_RECORD", "Automotive", "T", "$4,027.70"
+"DETAILS_RECORD", "Grocery", "S", "$7,467.36"
+"DETAILS_RECORD", "Kids", "S", "$8,828.16"
+"DETAILS_RECORD", "TOTAL", "", "$20,323.22"
