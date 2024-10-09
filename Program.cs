@@ -10,10 +10,10 @@ namespace FileParserToCSV
         {
             var fileService = new FileService();
             string inputFilePath = @"C:\\Users\\Margot Porras\\source\\repos\\FileParserToCSV\\Incoming\\InputData.txt";
-            List<string> inputFileLines = fileService.readFile(inputFilePath);
-            foreach (string line in inputFileLines)
+            List<CustomerModel> customers = fileService.ReadCustomersFromFile(inputFilePath);
+            foreach (var customer in customers)
             {
-                Console.WriteLine(line);
+                Console.WriteLine($"{customer.Counter} - {customer.FirstName} {customer.LastName}");
             }
             Console.ReadLine();
         }
